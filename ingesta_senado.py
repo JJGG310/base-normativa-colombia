@@ -25,7 +25,7 @@ MESES = dict(zip("enero febrero marzo abril mayo junio julio agosto septiembre "
                  "octubre noviembre diciembre".split(), range(1, 13)))
 
 ACCION = {"modificado": "modifica", "adicionado": "adiciona", "derogado": "deroga",
-          "subrogado": "subroga", "sustituido": "subroga", "suprimido": "deroga"}
+          "subrogado": "subroga", "sustituido": "subroga", "suprimido": "deroga", "corregido": "modifica"}   # los yerros se corrigen por decreto y cambian el texto
 TIPO_NORMA = {"acto legislativo": "acto-legislativo", "ley": "ley",
               "decreto ley": "decreto-ley", "decreto": "decreto"}
 

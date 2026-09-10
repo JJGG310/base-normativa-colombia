@@ -56,7 +56,7 @@ jurisprudencia hito que los interpreta.
 - [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
 - [x] `co:constitucion:1991` — **afectaciones cargadas**: 6.516 aristas, 60 Actos Legislativos, 20 artículos muertos, 4 condicionados. Fuente resuelta: las notas viven en `js/<pagina>.js` (funciones `insRowNN`), no en el HTML. `ingesta_senado.py` ya las extrae para cualquier código de esta fuente.
 - [ ] jurisprudencia constitucional — 15 sentencias hito de control de constitucionalidad y bloque de constitucionalidad
-- [ ] `co:ley:1564:2012` — Código General del Proceso (~627) · procesal, civil, comercial, familia
+- [x] `co:ley:1564:2012` — CGP: 628 arts, 133 aristas, 6 muertos (art. 121 por C-443-19), 6 condicionados, reformas hasta 2025
 - [ ] jurisprudencia procesal — 15 hito sobre CGP (competencia, nulidades, pruebas, recursos)
 - [ ] `co:ley:84:1873` — Código Civil (~2684) · civil, familia
 - [ ] jurisprudencia civil — 15 hito (contratos, responsabilidad, bienes, obligaciones)
