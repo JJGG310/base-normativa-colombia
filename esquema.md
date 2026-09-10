@@ -98,6 +98,11 @@ deberá reunir los siguientes requisitos:
 | `estado_general` | sí | `vigente`, `derogada`, `subrogada`, `compilada` — solo de la norma como un todo; la vigencia por artículo se calcula |
 | `fuente` | sí | URL exacta de donde se obtuvo el texto |
 | `verificado` | sí | `AAAA-MM-DD` en que se cotejó contra la fuente |
+| `afectaciones` | sí | `pendiente` o `cargadas`. Mientras esté `pendiente`, **todos** sus artículos se exportan como `VIGENCIA_NO_VERIFICADA` |
+
+`ubicacion: TÍTULO … > CAPÍTULO …` puede ir como primera línea bajo el encabezado de
+un artículo. Sitúa al modelo que lo reciba suelto: «art. 86» no dice nada, «Título II,
+Cap. 4 — De la protección de los derechos» sí.
 
 **Encabezado de artículo**: `## art:<num> — <epígrafe>`. El epígrafe es el que trae
 la norma; si no tiene, se deja `## art:<num> —` y nada más. No se inventan epígrafes.
@@ -239,6 +244,12 @@ vigencia. Los demás son navegación.
 
 Si un artículo no está en la base, la respuesta correcta es *«no está cargado»*,
 nunca *«está vigente»*. La ausencia no es prueba de vigencia.
+
+Lo mismo aplica a la norma completa: mientras su frontmatter diga
+`afectaciones: pendiente`, sus artículos salen como **`VIGENCIA_NO_VERIFICADA`**, no
+como vigentes. Un `relaciones.csv` vacío significa «no se ha mirado», no «no hay
+reformas» — y afirmar vigencia sin haber mirado es el error más caro que puede
+cometer esta base, porque se propaga a toda IA que consuma el corpus.
 
 ---
 

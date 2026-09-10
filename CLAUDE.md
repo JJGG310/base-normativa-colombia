@@ -1,7 +1,18 @@
 # Base de datos normativa de Colombia
 
 Corpus de normativa y jurisprudencia colombiana, en markdown, con un grafo de
-afectaciones. Diseñada para que una IA la consulte sin inventar.
+afectaciones.
+
+**Para qué existe:** para darle contexto de derecho colombiano a cualquier IA — no
+es una herramienta de consulta para personas. El entregable real es
+`contexto.jsonl` (`python3 export.py`): registros autocontenidos que se pueden
+cargar en un RAG, pegar en un prompt o entregar a otro modelo.
+
+Eso define la prioridad de todo el diseño: **un registro tiene que seguir siendo
+correcto cuando se recupera solo**, sin su norma alrededor. Por eso la vigencia se
+calcula y se incrusta en cada registro, y por eso un artículo muerto sale con una
+advertencia adentro. Un chunk que viaja sin su estado hace que la IA que lo reciba
+cite un artículo derogado con total confianza.
 
 `esquema.md` es el contrato completo. Este archivo es lo mínimo para operar.
 
@@ -26,10 +37,21 @@ no "el CGP dice". El ID es verificable; la paráfrasis no.
 
 ---
 
-## Consultar
+## Exportar (el entregable)
 
 ```bash
-python3 build.py                    # reconstruye index.db desde los .md (el .db es desechable)
+python3 build.py                    # .md + relaciones.csv -> index.db (desechable)
+python3 export.py                   # index.db -> contexto.jsonl (todo)
+python3 export.py familia penal     # solo esas ramas
+python3 export.py --check           # autotest: un artículo muerto debe salir advertido
+```
+
+Cada línea de `contexto.jsonl` lleva `id`, `cita` lista para usar, `texto`, `estado`,
+`advertencia`, `afectado_por` y `fuente`. Es lo que se le entrega a otra IA.
+
+## Consultar (para trabajar sobre la base, no es el producto)
+
+```bash
 sqlite3 index.db "<consulta>"
 ```
 

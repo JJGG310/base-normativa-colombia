@@ -18,21 +18,28 @@ basura a medio escribir que el siguiente tick no sabe interpretar.
    si no, la primera `[ ]` de la prioridad más alta.
 2. **Marcarla `[~]` y guardar `cola.md` ya**, antes de trabajar. Si el tick muere,
    el siguiente sabe dónde quedó.
-3. **Si la norma supera ~150 artículos**, no se carga entera: se reemplaza la entrada
-   por sub-entradas por libro/título/parte con el conteo real de la fuente, se marca
-   la primera `[~]` y se trabaja solo esa.
+3. **El texto se extrae con script, nunca copiándolo a través del modelo.**
+   Para secretariasenado.gov.co ya está `ingesta_senado.py` y sirve para todos los
+   códigos de P1. Para una fuente nueva se escribe su parser una vez. Esto no es
+   optimización: un script no puede inventar un artículo, un modelo transcribiendo sí.
+   Como la extracción es mecánica, **no hay que partir las normas grandes en bloques**
+   — el Código Civil entero cuesta lo mismo que un artículo. Partir solo aplica si
+   alguna fuente obliga a transcripción manual.
 4. **Obtener el texto de la fuente oficial** (`esquema.md` §8, en ese orden de
    preferencia). Si la primera fuente falla, se intenta la siguiente. Si fallan todas:
    `[!]` con el motivo y la URL que falló, y se pasa a la siguiente entrada.
    **Jamás se rellena con el texto que el modelo recuerda.**
-5. **Escribir el `.md`** con el formato de `esquema.md` §3 (normativa) o §4
-   (jurisprudencia). Texto literal de la fuente. `fuente:` es la URL exacta usada,
-   `verificado:` la fecha de hoy.
+5. **Verificar la extracción antes de darla por buena**: contar artículos contra el
+   número conocido de la norma, y revisar 3 artículos sueltos (uno del principio, uno
+   del medio, uno del final) contra la fuente. Un parser que se come el 20% de los
+   artículos no falla ruidosamente, entrega un archivo que parece correcto.
 6. **Extraer las afectaciones** que traiga la fuente (notas de vigencia, "modificado
    por", "derogado por", "declarado inexequible por") y agregarlas a `relaciones.csv`.
    SUIN-Juriscol es la mejor fuente para esto. Solo lo que la fuente afirme: no se
    deduce una derogatoria.
-7. **`python3 build.py`.** Si imprime avisos o falla, se corrige antes de cerrar.
+7. **`python3 build.py && python3 export.py`.** Si imprimen avisos o fallan, se
+   corrige antes de cerrar. `contexto.jsonl` es el entregable: si no se regenera,
+   el tick no sirvió de nada.
 8. **Marcar `[x]`**, commit con el ID de lo cargado en el mensaje.
 9. Si no quedan `[ ]` en P1, **detener el loop** y reportar. Si quedan, siguiente tick.
 
@@ -46,7 +53,8 @@ y se anota qué faltó. La base vale por lo que se puede confiar, no por lo que 
 Los siete códigos que cubren el grueso de las consultas, intercalados con la
 jurisprudencia hito que los interpreta.
 
-- [ ] `co:constitucion:1991` — Constitución Política (~380 arts + transitorios) · rama: constitucional
+- [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
+- [ ] `co:constitucion:1991` — **afectaciones**: los ~57 Actos Legislativos que la han reformado, a `relaciones.csv`. Bloqueador: SUIN-Juriscol no responde por `curl` (TLS, `http=000`) y secretariasenado no trae las notas de vigencia en el HTML (las carga por JS). Resolver la fuente es lo primero.
 - [ ] jurisprudencia constitucional — 15 sentencias hito de control de constitucionalidad y bloque de constitucionalidad
 - [ ] `co:ley:1564:2012` — Código General del Proceso (~627) · procesal, civil, comercial, familia
 - [ ] jurisprudencia procesal — 15 hito sobre CGP (competencia, nulidades, pruebas, recursos)

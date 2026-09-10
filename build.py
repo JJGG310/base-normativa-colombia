@@ -39,7 +39,12 @@ def fragmentos(cuerpo):
     for parte in partes:
         encabezado, _, texto = parte.partition("\n")
         clave, _, titulo = encabezado.partition("—")
-        salida.append((clave.strip(), titulo.strip(), texto.strip()))
+        # Línea opcional `ubicacion: TITULO ... > CAPITULO ...` justo bajo el encabezado
+        ubicacion = ""
+        if texto.lstrip().startswith("ubicacion:"):
+            linea, _, texto = texto.lstrip().partition("\n")
+            ubicacion = linea.partition(":")[2].strip()
+        salida.append((clave.strip(), titulo.strip(), ubicacion, texto.strip()))
     return salida
 
 
@@ -47,10 +52,11 @@ ESQUEMA_SQL = """
 CREATE TABLE documentos (
   id TEXT PRIMARY KEY, clase TEXT, tipo TEXT, titulo TEXT, titulo_corto TEXT,
   fecha TEXT, ramas TEXT, estado_general TEXT, corporacion TEXT, sala TEXT,
-  ponente TEXT, decision TEXT, hito TEXT, fuente TEXT, verificado TEXT, ruta TEXT);
+  ponente TEXT, decision TEXT, hito TEXT, fuente TEXT, verificado TEXT,
+  afectaciones TEXT, ruta TEXT);
 
 CREATE TABLE fragmentos (
-  id TEXT PRIMARY KEY, doc_id TEXT, clave TEXT, titulo TEXT, texto TEXT);
+  id TEXT PRIMARY KEY, doc_id TEXT, clave TEXT, titulo TEXT, ubicacion TEXT, texto TEXT);
 CREATE INDEX ix_frag_doc ON fragmentos(doc_id);
 
 CREATE TABLE relaciones (
@@ -84,7 +90,7 @@ WHERE f.clave LIKE 'art:%';
 """.format(MATA=str(MATA), CONDICIONA=str(CONDICIONA), REFORMA=str(REFORMA))
 
 COLS = ("id clase tipo titulo titulo_corto fecha ramas estado_general corporacion "
-        "sala ponente decision hito fuente verificado ruta").split()
+        "sala ponente decision hito fuente verificado afectaciones ruta").split()
 
 
 def construir(db_path=DB, raiz=RAIZ):
@@ -110,10 +116,10 @@ def construir(db_path=DB, raiz=RAIZ):
                 meta["ramas"] = ",".join(meta["ramas"])
             con.execute("INSERT OR REPLACE INTO documentos VALUES (%s)" % ",".join("?" * len(COLS)),
                         [meta.get(c) for c in COLS])
-            for clave, titulo, texto in fragmentos(cuerpo):
+            for clave, titulo, ubicacion, texto in fragmentos(cuerpo):
                 fid = meta["id"] + ":" + clave
-                con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?)",
-                            (fid, meta["id"], clave, titulo, texto))
+                con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?,?)",
+                            (fid, meta["id"], clave, titulo, ubicacion, texto))
                 con.execute("INSERT INTO busqueda VALUES (?,?,?)", (fid, titulo, texto))
 
     csv_path = os.path.join(raiz, "relaciones.csv")
