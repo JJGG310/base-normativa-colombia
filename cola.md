@@ -54,7 +54,7 @@ Los siete códigos que cubren el grueso de las consultas, intercalados con la
 jurisprudencia hito que los interpreta.
 
 - [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
-- [ ] `co:constitucion:1991` — **afectaciones**: los ~57 Actos Legislativos que la han reformado, a `relaciones.csv`. Bloqueador: SUIN-Juriscol no responde por `curl` (TLS, `http=000`) y secretariasenado no trae las notas de vigencia en el HTML (las carga por JS). Resolver la fuente es lo primero.
+- [x] `co:constitucion:1991` — **afectaciones cargadas**: 6.516 aristas, 60 Actos Legislativos, 20 artículos muertos, 4 condicionados. Fuente resuelta: las notas viven en `js/<pagina>.js` (funciones `insRowNN`), no en el HTML. `ingesta_senado.py` ya las extrae para cualquier código de esta fuente.
 - [ ] jurisprudencia constitucional — 15 sentencias hito de control de constitucionalidad y bloque de constitucionalidad
 - [ ] `co:ley:1564:2012` — Código General del Proceso (~627) · procesal, civil, comercial, familia
 - [ ] jurisprudencia procesal — 15 hito sobre CGP (competencia, nulidades, pruebas, recursos)
@@ -88,6 +88,12 @@ jurisprudencia hito que los interpreta.
 - [ ] `co:ley:1952:2019` — Código General Disciplinario · disciplinario
 - [ ] `co:ley:769:2002` — Código Nacional de Tránsito · transporte
 - [ ] `co:decreto:1165:2019` — Regulación Aduanera · aduanero
+
+## Pendientes de la fuente senado (no bloquean, mejoran)
+
+- [ ] `concordancias` (713 cajas en la Constitución): remisiones normativa↔normativa. No afectan vigencia, sí navegación.
+- [ ] tipo de relación `renumera`: el AL 2/2015 renumeró artículos (el 262 pasó a 261). Hoy se ignora; el artículo viejo y el nuevo quedan sin enlazar.
+- [ ] SUIN-Juriscol sigue caído por `curl` (bloqueo de bot, no TLS). Sirve como segunda fuente para cotejar afectaciones.
 
 ## P3 — Por definir
 

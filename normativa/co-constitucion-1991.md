@@ -6,7 +6,7 @@ titulo_corto: CP
 fecha: 1991-07-04
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
 verificado: 2026-09-10
 ---
