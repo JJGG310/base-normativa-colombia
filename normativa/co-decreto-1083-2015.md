@@ -5440,7 +5440,7 @@ Las Comisiones de Estudio y de Servicio al Exterior de los Superintendentes, Ger
 CAPITULO 7
 DE LA POSESIÓN
 
-## art:12 — °. Delegación para posesión de miembros o consejos directivos de entidades descentralizadas
+## art:12 — Delegación para posesión de miembros o consejos directivos de entidades descentralizadas
 
 Delégase en los ministros y directores de departamentos administrativos la facultad de dar posesión a los miembros de los consejos directivos y de las juntas directivas de las entidades descentralizadas del orden nacional, de su respectivo sector administrativo, cuando por ley o estatutos dicha posesión deba surtirse ante el Presidente de la República”.
 
@@ -5520,7 +5520,7 @@ Parágrafo 1. El Ministro del Interior ejercerá la anterior función en relaci�
 
 Parágrafo 2. El Ministro de Justicia y del Derecho ejercerá esta función en relación con los servidores de la Rama Judicial, salvo los magistrados. También respecto de los servidores de la Procuraduría de la Nación, la Defensoría del Pueblo, la Contraloría General de la República y la Auditoría General de la República, con excepción del Procurador General de la Nación, el Defensor del Pueblo, el Contralor de la República y el auditor General de la República.
 
-## art:9 — °. Delegación para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros
+## art:9 — Delegación para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros
 
 Delégase en los Ministros del Despacho y Directores de Departamentos Administrativos la función de conceder permiso a los empleados públicos nacionales que lo soliciten, vinculados al correspondiente sector administrativo, para aceptar, con carácter temporal, cargos o mercedes de gobiernos extranjeros, en los términos del numeral 18 del artículo 189 de la Constitución Política, con excepción de los cargos de viceministros, superintendentes, directores, gerentes y presidentes de entidades centralizadas y descentralizadas de la Rama Ejecutiva del nivel nacional.
 

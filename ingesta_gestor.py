@@ -31,7 +31,7 @@ ACCION = {"modificado": "modifica", "adicionado": "adiciona", "derogado": "derog
 # El formato real trae artículo definido y contracción:
 # "(Modificado por el Art. 1 del Decreto 124 de 2021)".
 RE_AFECTA = re.compile(
-    r"(%s)\s+por\s+(?:el\s+)?(?:art[íi]?c?u?l?o?s?\.?\s*([\d\.]+)\s+d?e?l?\s+)?"
+    r"(%s)\s+por\s+(?:el\s+)?(?:art[íi]?c?u?l?o?s?\.?\s*([\d\.]+)\s*,?\s*d?e?l?\s*)?"
     r"(Decreto|Ley|Resoluci[óo]n)\s+([\d\.]+)\s+de\s+(\d{4})" % "|".join(ACCION), re.I)
 
 
@@ -52,12 +52,17 @@ def articulos(doc):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
     anclas = list(ANCLA.finditer(doc))
     salida, vistos = [], set()
-    # Los primeros artículos del libro 1 suelen ir antes de la primera ancla, donde
-    # el corte por anclas ni los mira. Se exigen tres puntos en el número para no
-    # confundirlos con las remisiones del preámbulo ("artículo 189 de la Constitución").
-    if anclas:
-        salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
-                   if a[0].count(".") >= 2]
+    # Las normas anteriores a los DUR no traen anclas: solo el encabezado en el texto.
+    if not anclas:
+        return [a for a in partir("", "", limpiar(doc)) if a[0]]
+    # Los primeros artículos suelen ir antes de la primera ancla, donde el corte por
+    # anclas ni los mira (163 de la Ley 23 de 1982, el libro 1 de varios DUR). Se
+    # exige que el número siga el estilo de numeración de la norma — decimal en los
+    # DUR, entero en las viejas — para no confundir un artículo con la remisión del
+    # preámbulo ("artículo 189 de la Constitución Política").
+    decimal = "." in anclas[0].group(1)
+    salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
+               if a[0] and ("." in a[0]) == decimal]
     for k, m in enumerate(anclas):
         num = m.group(1).strip(".")
         fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
@@ -93,7 +98,9 @@ def articulos(doc):
     return partes
 
 
-RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+([\d][\d\.]*)\s*\.?\s*", re.I)
+# El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
+# signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
+RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+([\d][\d\.]*)(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
 def partir(num, epi, texto):
@@ -107,7 +114,9 @@ def partir(num, epi, texto):
     for k, m in enumerate(cortes):
         fin = cortes[k + 1].start() if k + 1 < len(cortes) else len(texto)
         cuerpo = texto[m.end():fin].strip()
-        e = re.match(r"(.{3,120}?)\.\s+", cuerpo)
+        # "Modificado por el art. 1, Ley 712 de 2001." no es el epígrafe del artículo:
+        # arrancarlo como tal le corta el principio al texto.
+        e = re.match(r"(?!Modificad|Adicionad|Derogad|Reglamentad|Ver\b)(.{3,120}?)\.\s+", cuerpo)
         salida.append((m.group(1).strip("."), " ".join(e.group(1).split()) if e else "",
                        cuerpo[e.end():].strip() if e else cuerpo))
     return [a for a in salida if a[2]]
@@ -157,6 +166,11 @@ def check():
     arts = articulos(lista)
     assert [a[0] for a in arts] == ["2.2.1.1.1", "2.2.1.1.2"], arts
     assert arts[1][2].endswith("6. Entrenamiento."), arts[1][2]
+
+    # Las normas viejas del Gestor citan con coma: "Modificado por el art. 1, Ley 712 de 2001".
+    f, _ = aristas([("1", "", "Modificado por el art. 1, Ley 712 de 2001. Aplicación.")],
+                   "co:decreto:2158:1948", "x")
+    assert f[0][:3] == ("co:ley:712:2001:art:1", "modifica", "co:decreto:2158:1948:art:1"), f
 
     filas, _ = aristas(arts, "co:decreto:1067:2015", "x")
     assert ("co:decreto:1407:2024:art:1", "modifica",

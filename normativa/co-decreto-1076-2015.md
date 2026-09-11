@@ -34725,7 +34725,7 @@ CAPÍTULO 2
 
 Características de las reducciones de emisiones y remociones de GEI para certificar ser carbono neutro
 
-## art:2 — -2.11.2.1
+## art:2 — 2.11.2.1
 
 Características de las reducciones de emisiones y remociones de GEI para certificar ser carbono neutro. Las reducciones de emisiones o remociones de GEI elegibles para certificar ser carbono neutro deben cumplir con las siguientes características:
 

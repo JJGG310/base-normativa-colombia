@@ -1310,7 +1310,7 @@ Las operaciones de crédito público y asimiladas, las operaciones de manejo de 
 
 Para la selección de los contratistas se aplicarán los principios de economía, transparencia y selección objetiva contenidos en la Ley 80 de 1993, según lo dispuesto en este Capítulo en desarrollo de lo previsto en el parágrafo 2 del artículo 24 de la citada Ley, y en las normas que la modifiquen adicionen o sustituyan.
 
-## art:2.2.1.5.2 — - Evaluación de formas de financiamiento
+## art:2.2.1.5.2 — Evaluación de formas de financiamiento
 
 Previa la celebración de operaciones de crédito público y las asimiladas, las de manejo de la deuda pública y las conexas con las anteriores, las entidades estatales deberán evaluar diferentes formas de financiamiento y la conveniencia financiera y fiscal de realizar tales operaciones frente al financiamiento con recursos diferentes del crédito.
 
@@ -5330,7 +5330,9 @@ ARTÍCULO
 
 La omisión, la información incorrecta o el incumplimiento por parte de los responsables de la ejecución de lo previsto en el presente título, acarreará las sanciones disciplinarias y fiscales que establezca la ley.
 
-## art:2.5.2.4.4 — Derogado
+## art:2.5.2.4.4 — 
+
+Derogado.
 
 CAPÍTULO 5
 

@@ -208,12 +208,20 @@ fuente (el `<select>` de la página). Hoy: **0 faltantes en las 57 normas de sen
 
 ### D — Fuera de senado (requieren otra fuente)
 
-- [ ] `co:ley:23:1982` — derecho de autor (404 en senado; probar Gestor Normativo)
-- [ ] `co:decreto:663:1993` — Estatuto Orgánico del Sistema Financiero (404 en senado)
-- [ ] `co:decreto-ley:2158:1948` — Código Procesal del Trabajo (404 en senado).
-  Hueco real: hay CST pero no su procesal.
-- [ ] `co:decreto:1377:2013` — reglamento de datos personales (404 en senado)
-- [ ] `co:decreto:1165:2019` — Regulación Aduanera (viene de P2, sin `i=` en el Gestor)
+- [x] `co:ley:23:1982` — derecho de autor: 260 arts, vía Gestor `i=3431`
+- [x] `co:decreto:663:1993` — Estatuto Orgánico del Sistema Financiero: 339 arts, `i=1348`
+- [x] `co:decreto-ley:2158:1948` — Código Procesal del Trabajo: 155 arts, `i=5259`.
+  Era el hueco más raro del corpus: estaba el CST sin su procesal.
+- [ ] `co:decreto:1377:2013` — reglamento de datos personales (404 en senado; falta
+  ubicar su `i=` en el Gestor)
+
+**Buscar el `i=` de una norma en el Gestor**: no hay endpoint de búsqueda usable
+(el buscador es JS). Sale de una búsqueda web contra `funcionpublica.gov.co`, y una
+vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a name>`):
+`ingesta_gestor.py` las corta por el encabezado en línea propia.
+- [!] `co:decreto:1165:2019` — Regulación Aduanera: no está en senado, no está en el
+  índice de DUR y tampoco aparece en el Gestor (2026-09-11). Las normas que lo citan
+  sí están; el texto habrá que sacarlo de la DIAN, con otro parser.
 - [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
 - [x] DUR vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1069 justicia (1.492),
   1072 trabajo (1.415), 1074 comercio (2.123), 1076 ambiente (1.975), 1077 vivienda

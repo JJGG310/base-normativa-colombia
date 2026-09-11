@@ -14411,7 +14411,7 @@ PARÁGRAFO 2. El interesado podrá acudir voluntariamente, además, a los otros 
 
 Adicionalmente los miembros de la Fuerza Pública podrán acudir a los servicios ofrecidos por el Fondo de Defensa Técnica y especializada del Ministerio de Defensa - FONDETEC.
 
-## art:2.2.5.7.1.3 — - Principios del SAAD
+## art:2.2.5.7.1.3 — Principios del SAAD
 
 El SAAD atenderá, entre otros, los siguientes principios:
 

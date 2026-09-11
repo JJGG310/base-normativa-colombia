@@ -5705,7 +5705,7 @@ Capítulo III
 
 Consejo Nacional del Libro
 
-## art:2.8.1.3.1 — -lntegración del Consejo Nacional del Libro
+## art:2.8.1.3.1 — lntegración del Consejo Nacional del Libro
 
 El Consejo Nacional del Libro, en su condición órgano asesor y consultivo del Gobierno Nacional a través del Ministerio las Culturas, Artes y los Saberes estará integrado así:
 
@@ -10557,13 +10557,13 @@ Así mismo podrá exigir y formar parte de los comités fiduciarios de los corre
 
 (Decreto 255 de 2013, Artículo 14)
 
-## art:2.10.2.6.7 — -Deducción por mantenimiento y conservación de obras audiovisuales declaradas como bienes de interés cultural
+## art:2.10.2.6.7 — Deducción por mantenimiento y conservación de obras audiovisuales declaradas como bienes de interés cultural
 
 De conformidad con lo dispuesto en el Artículo 56 de la Ley 397 de 1997, los propietarios de obras audiovisuales nacionales declaradas de interés cultural, pueden deducir del impuesto de renta la totalidad de los gastos en que incurran para el mantenimiento y conservación de dichos bienes, aunque no guarden relación de causalidad con la actividad productora de renta.
 
 (Decreto 358 de 2000, Artículo 21)
 
-## art:2.10.2.6.8 — -Gastos sobre los que operan la deducción
+## art:2.10.2.6.8 — Gastos sobre los que operan la deducción
 
 Son deducibles todos los gastos que realice el propietario nacional de la obra audiovisual declarada como bien de interés cultural, para la conservación y mantenimiento directos del respectivo soporte material de fijación, entendiéndose por éstos la adquisición de insumos o equipos y los que efectúe para contratar servicios especializados de preservación del soporte, tales como almacenaje en condiciones ambientales y demás técnicamente requeridas, duplicación, restauración, o acciones de intervención similares.
 
