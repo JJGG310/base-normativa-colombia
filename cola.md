@@ -71,12 +71,7 @@ y lo hacen sin que nadie eligiera a dedo cuáles eran las importantes.
 
 Lo que sí queda pendiente es distinto y más caro — va a P3:
 
-- [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
-  providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
-  no un tick más. Las fichas ya sirven sin esto.
-- [ ] Consejo de Estado y Corte Suprema: otra fuente, otro parser. Hoy el corpus solo
-  tiene Corte Constitucional, y eso deja fuera casación civil, laboral y penal, y todo
-  el contencioso. Es el hueco más grande que queda.
+Lo que queda pendiente de jurisprudencia está en P3: es de otra naturaleza.
 - [x] `co:decreto-ley:2663:1950` — CST: 497 arts (489/492), 492 aristas
 
 ### Normativa de P1: cerrada
@@ -131,6 +126,13 @@ la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerla
 - [ ] SUIN-Juriscol sigue caído por `curl` (bloqueo de bot, no TLS). Sirve como segunda fuente para cotejar afectaciones.
 
 ## P3 — Por definir
+
+- [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
+  providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
+  no un tick más. Las fichas ya sirven sin esto.
+- [ ] Consejo de Estado y Corte Suprema: otra fuente, otro parser. Hoy el corpus solo
+  tiene Corte Constitucional, y eso deja fuera casación civil, laboral y penal, y todo
+  el contencioso. Es el hueco más grande que queda.
 
 Se llena cuando P1 esté cerrado y se vea qué falta de verdad al usar la base.
 Candidatos: internacional privado, propiedad intelectual (Decisión 486 CAN),
