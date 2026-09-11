@@ -136,6 +136,15 @@ def construir(db_path=DB, raiz=RAIZ):
     # Aristas que apuntan a algo que no está cargado: no es error, es cola de trabajo.
     huerfanas = con.execute("""SELECT COUNT(*) FROM relaciones r WHERE r.destino NOT IN
         (SELECT id FROM fragmentos) AND r.destino NOT IN (SELECT id FROM documentos)""").fetchone()[0]
+    # Una arista que apunta a un artículo de una norma YA cargada, y ese artículo no
+    # existe, solo puede significar que la extracción perdió artículos. Es la señal
+    # que delata al parser cuando se come parte del texto sin fallar.
+    perdidos = con.execute("""SELECT COUNT(*) FROM relaciones r JOIN documentos d
+        ON r.destino LIKE d.id || ':art:%' WHERE r.destino NOT IN (SELECT id FROM fragmentos)""").fetchone()[0]
+    if perdidos:
+        avisos.append("%d aristas apuntan a artículos INEXISTENTES de normas cargadas "
+                      "— la extracción perdió texto" % perdidos)
+
     n = lambda t: con.execute("SELECT COUNT(*) FROM " + t).fetchone()[0]
     print("documentos=%d articulos/fichas=%d relaciones=%d destinos_sin_cargar=%d"
           % (n("documentos"), n("fragmentos"), n("relaciones"), huerfanas))

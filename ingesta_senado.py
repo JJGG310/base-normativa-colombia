@@ -15,7 +15,7 @@ emite una arista cuando el patrón se reconoce sin ambigüedad — lo que no se 
 se cuenta y se reporta, nunca se adivina. Una arista `deroga` inventada es peor que
 una faltante: mata un artículo que está vivo.
 """
-import argparse, csv, html, os, re, sys, urllib.request
+import argparse, csv, html, os, re, sys, time, urllib.request
 from datetime import date
 
 UA = {"User-Agent": "Mozilla/5.0"}
@@ -41,13 +41,39 @@ RE_HISTORICA = re.compile(
     r"(?:Notas?|Texto)\s+correspondiente[s]?\s+al\s+art[íi]culo\s+[\dA-Za-z]+\s+antes\s+de\s+su", re.I)
 
 
-def bajar(url):
-    try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as r:
-            return r.read().decode("iso-8859-1", "replace")
-    except Exception as e:
-        print("  no se pudo bajar %s: %s" % (url, e), file=sys.stderr)
-        return ""
+CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fuentes", "cache")
+
+
+def bajar(url, obligatorio=True):
+    """Descarga con caché en disco y reintentos.
+
+    Antes esto se tragaba los fallos y devolvía "": una página que no bajaba producía
+    un código truncado que parecía completo (el Código Civil salió con 1.810 de 2.682
+    artículos sin una sola señal de error). Ahora, si algo es obligatorio y no baja,
+    revienta: mejor sin archivo que con un archivo al que le faltan 872 artículos.
+    """
+    os.makedirs(CACHE, exist_ok=True)
+    ruta = os.path.join(CACHE, re.sub(r"[^A-Za-z0-9_.-]", "_", url)[-180:])
+    if os.path.exists(ruta) and os.path.getsize(ruta) > 500:
+        with open(ruta, encoding="utf-8") as fh:
+            return fh.read()
+    ultimo = None
+    for intento in range(4):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90) as r:
+                doc = r.read().decode("iso-8859-1", "replace")
+            if len(doc) > 500:
+                with open(ruta, "w", encoding="utf-8") as fh:
+                    fh.write(doc)
+                return doc
+            ultimo = "respuesta de %d bytes" % len(doc)
+        except Exception as e:
+            ultimo = e
+        time.sleep(2 * (intento + 1))
+    if obligatorio:
+        raise RuntimeError("no se pudo bajar %s tras 4 intentos: %s" % (url, ultimo))
+    print("  sin notas de vigencia para %s: %s" % (url, ultimo), file=sys.stderr)
+    return ""
 
 
 def paginas(url):
@@ -97,11 +123,12 @@ def descripciones(js):
 
 def procesar(url):
     """Devuelve (artículos, cajas). Un solo recorrido: el texto y sus notas salen juntos."""
-    arts, cajas = [], []
+    arts, cajas, huerfanas = [], [], []
     titulo = capitulo = ""
     vistos = set()
     for u, doc in paginas(url):
-        desc = descripciones(bajar(u.replace("/basedoc/", "/basedoc/js/").replace(".html", ".js")))
+        desc = descripciones(bajar(u.replace("/basedoc/", "/basedoc/js/").replace(".html", ".js"),
+                                  obligatorio=False))
         anclas = list(ANCLA.finditer(doc))
         for k, m in enumerate(anclas):
             nombre = m.group(1).strip()
@@ -129,14 +156,92 @@ def procesar(url):
             cuerpo = limpiar(span)
             if num in vistos or not cuerpo:
                 continue
-            vistos.add(num)
             epi = re.sub(r"^ART[IÍ]CULO\s*(TRANSITORIO)?\s*[\dA-Za-z\-]*[o°º]?\.?\s*",
                          "", encabezado, flags=re.I).strip(" .:-")
-            arts.append((num, epi, " > ".join(x for x in (titulo, capitulo) if x), cuerpo))
+            trozos = partir_inline(num, epi, " > ".join(x for x in (titulo, capitulo) if x), cuerpo)
+            for a in trozos:
+                if a[0] in vistos or not a[3]:
+                    continue
+                vistos.add(a[0])
+                arts.append(a)
+            if len(trozos) > 1:
+                # El span traía varios artículos sin ancla propia. Las cajas van
+                # intercaladas y no hay forma fiable de saber a cuál pertenece cada
+                # una, así que no se atribuyen: una nota de vigencia en el artículo
+                # equivocado es peor que una nota ausente.
+                huerfanas.extend(a[0] for a in trozos)
+                continue
             for rid, etiqueta in CAJA.findall(span):
                 if rid in desc:
                     cajas.append((num, html.unescape(etiqueta).strip(), desc[rid]))
-    return arts, cajas
+    return arts, cajas, huerfanas
+
+
+# Un encabezado de artículo sin ancla se reconoce por lo que lo SIGUE, no por dónde
+# está: siempre trae su epígrafe en mayúsculas o una nota `<...>`. Exigir principio
+# de línea perdía los que la fuente deja a mitad de párrafo (art. 63 del C. Penal).
+RE_INLINE_LINEA = re.compile(
+    r"(?m)^\.?\s*ART[IÍ]CULO\s+(\d+[A-Za-z\-]*?)[o°º]?\s*\.\s*")
+RE_INLINE_PARRAFO = re.compile(
+    r"\.\s+ART[IÍ]CULO\s+(\d+[A-Za-z\-]*?)[o°º]?\s*\.\s*"
+    r"(?=<|[A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ0-9 ,;()/\-]{3,})")
+
+
+def cortes_inline(texto):
+    """Une los dos patrones y descarta solapes, de izquierda a derecha."""
+    todos = sorted(list(RE_INLINE_LINEA.finditer(texto)) + list(RE_INLINE_PARRAFO.finditer(texto)),
+                   key=lambda m: m.start())
+    salida = []
+    for m in todos:
+        if not salida or m.start() >= salida[-1].end():
+            salida.append(m)
+    return salida
+
+
+def separar_epigrafe(cuerpo):
+    """El epígrafe suele venir como `<TÍTULO DEL ARTÍCULO>.` al inicio del cuerpo.
+
+    Solo se separa si queda texto detrás. Un artículo derogado dice únicamente
+    `<DEROGADO>`: ahí el marcador ES el contenido, y arrancarlo deja el artículo
+    vacío, que aguas abajo equivale a borrarlo del corpus.
+    """
+    for patron in (r"<([^>]{2,120})>\.?\s*",
+                   r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ0-9 ,;()/\-]{3,110})\.\s+"):
+        m = re.match(patron, cuerpo)
+        if m and cuerpo[m.end():].strip():
+            return m.group(1).strip(), cuerpo[m.end():].strip()
+    return "", cuerpo
+
+
+def partir_inline(num, epi, ubicacion, texto):
+    """Rescata artículos que la fuente dejó sin ancla `bookmarkaj` y quedaron tragados
+    dentro del anterior (pasa con el art. 2 del CPACA y 14 del Código Civil). Solo se
+    acepta el corte si el número es mayor que el del artículo contenedor: así una
+    remisión a un artículo anterior no se confunde con el encabezado de uno nuevo."""
+    cortes = cortes_inline(texto)
+    base = re.match(r"^(\d+)", num)
+    if not cortes or not base:
+        e, cuerpo = separar_epigrafe(texto)
+        return [(num, epi or e, ubicacion, cuerpo)]
+
+    validos, tope = [], int(base.group(1))
+    for m in cortes:
+        n = re.match(r"^(\d+)", m.group(1))
+        if n and int(n.group(1)) > tope:
+            validos.append(m)
+            tope = int(n.group(1))
+    if not validos:
+        e, cuerpo = separar_epigrafe(texto)
+        return [(num, epi or e, ubicacion, cuerpo)]
+
+    e, cuerpo = separar_epigrafe(texto[:validos[0].start()].strip())
+    salida = [(num, epi or e, ubicacion, cuerpo)]
+    for k, m in enumerate(validos):
+        fin = validos[k + 1].start() if k + 1 < len(validos) else len(texto)
+        e, cuerpo = separar_epigrafe(texto[m.end():fin].strip())
+        if cuerpo:
+            salida.append((m.group(1).lower(), e, ubicacion, cuerpo))
+    return salida
 
 
 def fecha_de(texto, anio):
@@ -246,12 +351,19 @@ def main():
         p.add_argument("--" + a, required=True)
     p.add_argument("--corto", default="")
     p.add_argument("--estado", default="vigente")
+    p.add_argument("--minimo", type=int, default=0,
+                   help="artículos mínimos esperados; por debajo NO se escribe el archivo")
     a = p.parse_args()
     raiz = os.path.dirname(os.path.abspath(__file__))
 
-    arts, cajas = procesar(a.url)
+    arts, cajas, huerfanas = procesar(a.url)
     if not arts:
         sys.exit("no se extrajo ningún artículo — revisar el formato de la fuente")
+    # Última defensa contra el truncamiento silencioso: un corpus legal incompleto
+    # que parece completo es peor que no tener el archivo.
+    if a.minimo and len(arts) < a.minimo:
+        sys.exit("ABORTA: %d artículos, se esperaban al menos %d. No se escribe %s."
+                 % (len(arts), a.minimo, a.salida))
     filas, sin_parsear = aristas(cajas, a.id, a.url)
 
     fm = ["---", "id: " + a.id, "tipo: " + a.tipo, "titulo: " + a.titulo]
@@ -273,11 +385,65 @@ def main():
 
     print("%d artículos -> %s" % (len(arts), a.salida))
     print("%d cajas leídas, %d aristas -> relaciones.csv" % (len(cajas), len(filas)))
+    if huerfanas:
+        print("%d artículos sin ancla propia en la fuente: rescatados del cuerpo del "
+              "anterior, pero SIN sus notas de vigencia (no son atribuibles): %s"
+              % (len(huerfanas), ", ".join(huerfanas[:12])))
     if sin_parsear:
         print("%d notas no reconocidas (NO se inventaron aristas):" % len(sin_parsear))
         for d, e, t in sin_parsear[:5]:
             print("   %s [%s] %s…" % (d, e, t))
 
 
+def check():
+    """Autotest del corte de artículos. Existe porque este parser ya perdió 823
+    artículos en silencio: entregó archivos que se veían correctos, con los artículos
+    derogados desaparecidos. Un extractor no falla ruidosamente, hay que interrogarlo."""
+    # Un artículo derogado es solo su marcador: no puede quedar vacío ni perderse.
+    for texto in ("<DEROGADO>.", "<ARTICULO DEROGADO>", "DEROGADO. "):
+        r = partir_inline("30", "", "", texto)
+        assert len(r) == 1 and r[0][3].strip(), "artículo derogado perdido: %r -> %r" % (texto, r)
+
+    # Epígrafe sí se separa cuando hay cuerpo detrás.
+    r = partir_inline("27", "", "", "<INTERPRETACION GRAMATICAL>. Cuando el sentido sea claro...")
+    assert r[0][1] == "INTERPRETACION GRAMATICAL" and r[0][3].startswith("Cuando"), r
+
+    # Artículo sin ancla propia, rescatado del cuerpo del anterior.
+    r = partir_inline("1", "FINALIDAD", "", "Texto del uno.\n.ARTÍCULO 2o. ÁMBITO. Texto del dos.")
+    assert [x[0] for x in r] == ["1", "2"], r
+    assert r[1][1] == "ÁMBITO" and r[1][3] == "Texto del dos.", r
+
+    # Una remisión a un artículo ANTERIOR no puede tomarse por un artículo nuevo.
+    r = partir_inline("500", "", "", "Se aplicará lo previsto.\nARTÍCULO 12. no es un encabezado aquí.")
+    assert len(r) == 1, "remisión hacia atrás tomada como artículo: %r" % (r,)
+
+    # Una remisión hacia ADELANTE en prosa tampoco: no la sigue un epígrafe.
+    r = partir_inline("60", "", "", "Se concederá conforme al artículo 68A de la Ley 599 de 2000, "
+                                    "el juez de conocimiento concederá la medida.")
+    assert len(r) == 1, "remisión en prosa tomada como artículo: %r" % (r,)
+
+    # Encabezado sin ancla a mitad de párrafo (art. 63 del C. Penal): debe rescatarse.
+    r = partir_inline("62", "", "", "Las circunstancias agravantes se comunican. "
+                      "ARTÍCULO 63. SUSPENSIÓN DE LA EJECUCIÓN DE LA PENA. <Artículo modificado "
+                      "por el artículo 29 de la Ley 1709 de 2014> La ejecución de la pena...")
+    assert [x[0] for x in r] == ["62", "63"], r
+    assert r[1][1] == "SUSPENSIÓN DE LA EJECUCIÓN DE LA PENA", r[1]
+
+    # Vigencia: una nota estándar debe producir la arista correcta.
+    filas, _ = aristas([("82", "Notas de Vigencia",
+                         "- Artículo modificado por el artículo 1 del Acto Legislativo 2 de 2003, "
+                         "publicado en el Diario Oficial No. 45.406, de 19 de diciembre de 2003.")],
+                       "co:constitucion:1991", "x")
+    assert filas[0][:4] == ("co:acto-legislativo:2:2003:art:1", "modifica",
+                            "co:constitucion:1991:art:82", "2003-12-19"), filas
+    # Y las notas del artículo que ANTES llevaba ese número no deben producir ninguna.
+    filas, _ = aristas([("261", "Notas de Vigencia",
+                         "Notas correspondiente al artículo 261 antes de su derogatoria por el "
+                         "Acto Legislativo 2 de 2015: - Artículo modificado por el artículo 10 "
+                         "del Acto Legislativo 1 de 2009.")], "co:constitucion:1991", "x")
+    assert filas == [], "se atribuyeron reformas históricas al artículo vigente: %r" % (filas,)
+    print("check OK")
+
+
 if __name__ == "__main__":
-    main()
+    check() if "--check" in sys.argv else main()

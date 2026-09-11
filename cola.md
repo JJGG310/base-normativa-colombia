@@ -55,21 +55,27 @@ jurisprudencia hito que los interpreta.
 
 - [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
 - [x] `co:constitucion:1991` — **afectaciones cargadas**: 6.516 aristas, 60 Actos Legislativos, 20 artículos muertos, 4 condicionados. Fuente resuelta: las notas viven en `js/<pagina>.js` (funciones `insRowNN`), no en el HTML. `ingesta_senado.py` ya las extrae para cualquier código de esta fuente.
-- [ ] jurisprudencia constitucional — 15 sentencias hito de control de constitucionalidad y bloque de constitucionalidad
+- [~] jurisprudencia — `ingesta_relatoria.py` listo y probado (C-443/19, C-284/15, C-285/16). Falta cargar en volumen con `--del-grafo`
 - [x] `co:ley:1564:2012` — CGP: 628 arts, 133 aristas, 6 muertos (art. 121 por C-443-19), 6 condicionados, reformas hasta 2025
 - [ ] jurisprudencia procesal — 15 hito sobre CGP (competencia, nulidades, pruebas, recursos)
-- [ ] `co:ley:84:1873` — Código Civil (~2684) · civil, familia
+- [x] `co:ley:84:1873` — Código Civil: 2.682/2.684 arts, 797 aristas
 - [ ] jurisprudencia civil — 15 hito (contratos, responsabilidad, bienes, obligaciones)
 - [ ] jurisprudencia familia — 15 hito (custodia, alimentos, unión marital, filiación, adopción)
-- [ ] `co:ley:599:2000` — Código Penal (~476) · penal
-- [ ] `co:ley:906:2004` — Código de Procedimiento Penal (~533) · penal, procesal
+- [x] `co:ley:599:2000` — Código Penal: 556 arts (464/476 de la numeración original + adicionados), 787 aristas
+- [x] `co:ley:906:2004` — CPP: 554 arts (533/533), 375 aristas
 - [ ] jurisprudencia penal — 15 hito (dolo, tipicidad, garantías, prueba ilícita)
-- [ ] `co:decreto:410:1971` — Código de Comercio (~2036) · comercial
+- [x] `co:decreto:410:1971` — C. de Comercio: 2.043 arts (2.035/2.036), 136 aristas
 - [ ] jurisprudencia comercial — 15 hito (sociedades, títulos valores, competencia desleal)
-- [ ] `co:ley:1437:2011` — CPACA, con reforma Ley 2080/2021 (~309) · administrativo, contencioso-administrativo
+- [x] `co:ley:1437:2011` — CPACA: 311 arts (309/309), 196 aristas
 - [ ] jurisprudencia contencioso-administrativa — 15 hito del Consejo de Estado (nulidad, reparación directa, medio de control contractual)
-- [ ] `co:decreto-ley:2663:1950` — Código Sustantivo del Trabajo (~492) · laboral
+- [x] `co:decreto-ley:2663:1950` — CST: 497 arts (489/492), 492 aristas
 - [ ] jurisprudencia laboral — 15 hito (contrato realidad, estabilidad reforzada, acoso)
+
+### Normativa de P1: cerrada
+
+8 códigos, 7.737 artículos, cobertura 99,7% contra la numeración oficial. Los ~20
+faltantes son artículos que la fuente misma no publica. Recargable con `./cargar_p1.sh`
+(caché en `fuentes/`, aborta si una norma queda por debajo de su mínimo).
 
 ## P2 — Especializadas
 
@@ -88,6 +94,27 @@ jurisprudencia hito que los interpreta.
 - [ ] `co:ley:1952:2019` — Código General Disciplinario · disciplinario
 - [ ] `co:ley:769:2002` — Código Nacional de Tránsito · transporte
 - [ ] `co:decreto:1165:2019` — Regulación Aduanera · aduanero
+
+## Fuente de jurisprudencia — relevada, lista para parser
+
+`corteconstitucional.gov.co/relatoria/<año>/<SERIE>-<num>-<aa>.htm` responde bien
+(probado C-284-15 y C-443-19). La portada es un cascarón JS, pero las páginas de
+sentencia son HTML plano. Ojo: vienen en **ISO-8859-1**, hay que decodificar.
+
+Dos cosas que definen el diseño de la ficha:
+
+1. **Cada sentencia pesa ~263.000 caracteres.** Pasarlas por el modelo es inviable:
+   el grafo ya referencia ~1.500 sentencias distintas. La extracción tiene que ser
+   mecánica, igual que la normativa.
+2. **El texto abre con el bloque de descriptores y restrictores** de la relatoría
+   («ACCESO A LA ADMINISTRACION DE JUSTICIA- Garantía del plazo razonable…»). Es el
+   resumen oficial de la Corte, corto y citable. Sale gratis y sin riesgo de invención.
+
+Plan: ficha mecánica (descriptores + parte resolutiva + expediente + MP) para todas;
+la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerlas.
+
+- [ ] parser de la relatoría: descriptores, RESUELVE, expediente, ponente
+- [ ] la cola de sentencias sale sola del grafo: `SELECT DISTINCT origen FROM relaciones WHERE origen LIKE 'co:cc:%'`
 
 ## Pendientes de la fuente senado (no bloquean, mejoran)
 
