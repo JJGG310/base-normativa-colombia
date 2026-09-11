@@ -244,6 +244,20 @@ def partir_inline(num, epi, ubicacion, texto):
     return salida
 
 
+def fecha_norma(url):
+    """La fecha de expedición sale de la línea del Diario Oficial de la propia fuente.
+
+    Escribirla de memoria sería exactamente lo que este proyecto no hace: es un dato
+    verificable y la fuente lo trae. Si no está, el llamador debe pasarla a mano.
+    """
+    t = limpiar(bajar(url))[:15000]
+    m = re.search(r"Diario\s+Oficial\s+No\.?\s*[\d\.]+\s*de\s*(\d{1,2})\s*de\s*(%s)\s*de\s*(\d{4})"
+                  % "|".join(MESES), t, re.I)
+    if m:
+        return "%s-%02d-%02d" % (m.group(3), MESES[m.group(2).lower()], int(m.group(1)))
+    return ""
+
+
 def fecha_de(texto, anio):
     m = RE_FECHA.search(texto)
     if m:
@@ -347,8 +361,9 @@ def guardar_relaciones(raiz, id_norma, filas):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("url")
-    for a in ("id", "tipo", "titulo", "fecha", "ramas", "salida"):
+    for a in ("id", "tipo", "titulo", "ramas", "salida"):
         p.add_argument("--" + a, required=True)
+    p.add_argument("--fecha", default="", help="si se omite, se toma del Diario Oficial de la fuente")
     p.add_argument("--corto", default="")
     p.add_argument("--estado", default="vigente")
     p.add_argument("--minimo", type=int, default=0,
@@ -356,6 +371,9 @@ def main():
     a = p.parse_args()
     raiz = os.path.dirname(os.path.abspath(__file__))
 
+    fecha = a.fecha or fecha_norma(a.url)
+    if not fecha:
+        sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")
     arts, cajas, huerfanas = procesar(a.url)
     if not arts:
         sys.exit("no se extrajo ningún artículo — revisar el formato de la fuente")
@@ -369,7 +387,7 @@ def main():
     fm = ["---", "id: " + a.id, "tipo: " + a.tipo, "titulo: " + a.titulo]
     if a.corto:
         fm.append("titulo_corto: " + a.corto)
-    fm += ["fecha: " + a.fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
+    fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
            "afectaciones: " + ("cargadas" if filas else "pendiente"),
            "fuente: " + a.url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, ubicacion, txt in arts:

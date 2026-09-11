@@ -82,21 +82,28 @@ faltantes son artículos que la fuente misma no publica. Recargable con `./carga
 
 ## P2 — Especializadas
 
-- [ ] `co:ley:1563:2012` — Estatuto de Arbitraje Nacional e Internacional (~119) · arbitraje
-- [ ] `co:ley:2136:2021` — Política Integral Migratoria (~100) · migratorio
-- [ ] `co:decreto:1067:2015` — Decreto Único Reglamentario Relaciones Exteriores · migratorio, internacional-publico
-- [ ] `co:ley:100:1993` — Sistema de Seguridad Social Integral (~289) · seguridad-social, salud
-- [ ] `co:ley:80:1993` + `co:ley:1150:2007` — Contratación Estatal · contratacion-estatal
-- [ ] `co:ley:1116:2006` — Régimen de Insolvencia Empresarial (~126) · insolvencia, comercial
-- [ ] `co:ley:1098:2006` — Infancia y Adolescencia (~217) · familia
-- [ ] `co:decreto:624:1989` — Estatuto Tributario · tributario
-- [ ] `co:ley:1581:2012` + `co:decreto:1377:2013` — Datos personales · datos-personales
-- [ ] `co:ley:1801:2016` — Código Nacional de Seguridad y Convivencia (~243) · policivo
-- [ ] `co:ley:99:1993` — Sistema Nacional Ambiental (~118) · ambiental
-- [ ] `co:ley:1480:2011` — Estatuto del Consumidor (~84) · consumo
-- [ ] `co:ley:1952:2019` — Código General Disciplinario · disciplinario
-- [ ] `co:ley:769:2002` — Código Nacional de Tránsito · transporte
-- [ ] `co:decreto:1165:2019` — Regulación Aduanera · aduanero
+- [x] `co:ley:1563:2012` — Arbitraje: 119 arts
+- [x] `co:ley:2136:2021` — Política Integral Migratoria: 91 arts
+- [!] `co:decreto:1067:2015` — DUR Relaciones Exteriores: **404 en senado**. Los Decretos Únicos Reglamentarios viven en el Gestor Normativo de Función Pública; necesita otro parser.
+- [x] `co:ley:100:1993` — Seguridad Social: 289 arts
+- [x] `co:ley:80:1993` (82) + `co:ley:1150:2007` (32) — Contratación Estatal
+- [x] `co:ley:1116:2006` — Insolvencia: 126 arts
+- [x] `co:ley:1098:2006` — Infancia y Adolescencia: 217 arts
+- [x] `co:decreto:624:1989` — Estatuto Tributario: 1.151 arts, 1.865 aristas
+- [x] `co:ley-estatutaria:1581:2012` — Datos personales: 30 arts (falta el Decreto 1377/2013)
+- [x] `co:ley:1801:2016` — Seguridad y Convivencia: 233 arts
+- [x] `co:ley:99:1993` — Sistema Nacional Ambiental: 120 arts
+- [x] `co:ley:1480:2011` — Estatuto del Consumidor: 84 arts
+- [x] `co:ley:1952:2019` — Código General Disciplinario: 266 arts
+- [x] `co:ley:769:2002` — Código Nacional de Tránsito: 171 arts
+- [!] `co:decreto:1165:2019` — Regulación Aduanera: misma situación que el 1067/2015, no está en senado.
+
+### P2: cargada (13 de 15)
+
+`./cargar_p2.sh`. Las dos que faltan son Decretos Únicos Reglamentarios, que no
+están en secretariasenado. La fecha de expedición ya no se escribe a mano: sale de
+la línea del Diario Oficial de la propia fuente (salvo el Estatuto Tributario, que
+no la publica).
 
 ## Fuente de jurisprudencia — relevada, lista para parser
 
