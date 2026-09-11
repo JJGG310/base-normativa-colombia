@@ -274,9 +274,12 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
      con `zipfile` de la stdlib.
   3. La misma providencia aparece en `.pdf` y en `.docx`: solo se toma el `.docx`. Lo
      que la Corte publica únicamente en PDF se salta.
-- [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` (el backend real es un JSF
-  en `http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`, con
-  `FileReferenceServlet?corp=ce&ext=html&file={ID}` para el texto). Falta el parser.
+- [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` **redirige a
+  `samai.consejodeestado.gov.co`** (ASP.NET WebForms: `__VIEWSTATE`), que es el sistema
+  vivo. El backend JSF viejo (`http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`,
+  con `FileReferenceServlet?corp=ce&ext=html&file={ID}`) no responde desde aquí
+  (timeout, 2026-09-11). El parser hay que escribirlo contra SAMAI, no contra el JSF:
+  es el tick más grande que queda.
 - [ ] El grafo no conecta la Corte Suprema con la normativa: sus providencias no
   afectan vigencia, así que entran sin aristas. Si se quiere que un artículo muestre
   «qué dijo la casación», hay que extraer las citas del propio texto.
