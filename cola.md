@@ -215,9 +215,15 @@ fuente (el `<select>` de la página). Hoy: **0 faltantes en las 57 normas de sen
 - [ ] `co:decreto:1377:2013` — reglamento de datos personales (404 en senado)
 - [ ] `co:decreto:1165:2019` — Regulación Aduanera (viene de P2, sin `i=` en el Gestor)
 - [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
-- [ ] DUR pendientes vía `ingesta_gestor.py`: 1069 (justicia), 1072 (trabajo),
-  1074 (comercio), 1076 (ambiente), 1077 (vivienda), 1082 (contratación/planeación),
-  1083 (función pública)
+- [x] DUR vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1069 justicia (1.492),
+  1072 trabajo (1.415), 1074 comercio (2.123), 1076 ambiente (1.975), 1077 vivienda
+  (1.828), 1082 planeación/contratación (1.068), 1083 función pública (992). El `i=`
+  de cada uno sale del índice del Gestor (`norma.php?i=62255`).
+- [ ] DUR que faltan por cargar, con su `i=` ya ubicado: 1066 interior (76835),
+  1068 hacienda (72893), 1070 defensa (76837), 1071 agropecuario (76838), 1073 minas
+  y energía (77887), 1075 educación (77913), 1078 TIC (77888), 1079 transporte
+  (77889), 1080 cultura (76833), 1081 presidencia (73593), 1084 inclusión social
+  (77715), 1085 (77714)
 
 ### E — Caro o de otra naturaleza (no es un tick mecánico)
 

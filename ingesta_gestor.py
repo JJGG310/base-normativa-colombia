@@ -20,7 +20,7 @@ Dos trampas de esta fuente:
 import argparse, os, re, sys
 from datetime import date
 
-from ingesta_senado import bajar, limpiar, fecha_de, guardar_relaciones, TIPO_NORMA
+from ingesta_senado import bajar, limpiar, fecha_de, guardar_relaciones, MESES, TIPO_NORMA
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=%s"
@@ -35,6 +35,17 @@ RE_AFECTA = re.compile(
     r"(Decreto|Ley|Resoluci[óo]n)\s+([\d\.]+)\s+de\s+(\d{4})" % "|".join(ACCION), re.I)
 
 
+def fecha_norma(doc):
+    """El Gestor no publica la línea del Diario Oficial, pero sí la fecha junto al
+    número: «DECRETO 1069 DE 2015 (Mayo 26)». Sale de la fuente, no de memoria.
+
+    El «DE» no siempre está: el DUR 1076 se titula «DECRETO 1076 2015 (Mayo 26)»."""
+    t = limpiar(re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I))
+    m = re.search(r"\b(?:DECRETO|LEY)\s+[\d\.]+\s+(?:DE\s+)?(\d{4})\s*\(\s*(%s)\s+(\d{1,2})\s*\)"
+                  % "|".join(MESES), t, re.I)
+    return "%s-%02d-%02d" % (m.group(1), MESES[m.group(2).lower()], int(m.group(3))) if m else ""
+
+
 def articulos(doc):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
     anclas = list(ANCLA.finditer(doc))
@@ -43,16 +54,47 @@ def articulos(doc):
         num = m.group(1).strip(".")
         fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
         cuerpo = limpiar(doc[m.end():fin])
-        if not cuerpo or num in vistos:
+        if not cuerpo:
+            continue
+        # La fuente también le pone ancla a los numerales de una lista dentro del
+        # artículo ("6. Entrenamiento."), con un name que parece numeración de DUR.
+        # Solo es artículo si el texto arranca con el número completo del ancla; si
+        # no, es la continuación del anterior y se le devuelve, no se parte en dos.
+        if not re.match(r"(?:ART[IÍ]CULO\s+)?%s\b" % re.escape(num), cuerpo, re.I):
+            if salida:
+                salida[-1] = salida[-1][:2] + (salida[-1][2] + "\n\n" + cuerpo,)
+            continue
+        if num in vistos:
             continue
         vistos.add(num)
-        # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>"
-        enc = re.match(r"ART[IÍ]CULO\s+[\d\.]+\s*\.?\s*(.{3,120}?)\.\s+", cuerpo)
+        # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>" — algunos DUR
+        # publican el mismo encabezado sin la palabra ARTÍCULO.
+        enc = re.match(r"(?:ART[IÍ]CULO\s+)?[\d\.]+\s*\.?\s*(.{3,120}?)\.\s+", cuerpo)
         epi, texto = ("", cuerpo)
         if enc:
             epi, texto = enc.group(1).strip(), cuerpo[enc.end():].strip()
         salida.append((num, " ".join(epi.split()), texto))
-    return salida
+    return [a for art in salida for a in partir(*art)]
+
+
+RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+([\d][\d\.]*)\s*\.?\s*", re.I)
+
+
+def partir(num, epi, texto):
+    """Varios artículos pueden colgar de una sola ancla: el Gestor no le pone `name`
+    a todos. El encabezado en línea propia los delimita — sin esto se perdían 287
+    artículos del DUR 1072, tragados dentro del anterior."""
+    cortes = [m for m in RE_ART_INLINE.finditer(texto) if m.group(1).strip(".") != num]
+    if not cortes:
+        return [(num, epi, texto)]
+    salida = [(num, epi, texto[:cortes[0].start()].strip())]
+    for k, m in enumerate(cortes):
+        fin = cortes[k + 1].start() if k + 1 < len(cortes) else len(texto)
+        cuerpo = texto[m.end():fin].strip()
+        e = re.match(r"(.{3,120}?)\.\s+", cuerpo)
+        salida.append((m.group(1).strip("."), " ".join(e.group(1).split()) if e else "",
+                       cuerpo[e.end():].strip() if e else cuerpo))
+    return [a for a in salida if a[2]]
 
 
 def aristas(arts, id_norma, fuente):
@@ -89,6 +131,17 @@ def check():
     assert arts[0][1] == "Concurrencias de las Misiones", arts[0]
     assert arts[0][2].startswith("Establecer las concurrencias"), arts[0][2][:50]
 
+    # Un artículo sin ancla propia, tragado dentro del anterior, se rescata.
+    r = partir("2.2.1.1.1", "Epígrafe", "Texto del primero.\nARTÍCULO 2.2.1.1.9. Otro. Texto del otro.")
+    assert [x[0] for x in r] == ["2.2.1.1.1", "2.2.1.1.9"], r
+    assert r[1][1] == "Otro" and r[1][2] == "Texto del otro.", r[1]
+
+    # Un numeral de lista con ancla propia no es un artículo: vuelve al anterior.
+    lista = doc + '<a name="2.2.1.1.2.6"></a><p>6. Entrenamiento.</p>'
+    arts = articulos(lista)
+    assert [a[0] for a in arts] == ["2.2.1.1.1", "2.2.1.1.2"], arts
+    assert arts[1][2].endswith("6. Entrenamiento."), arts[1][2]
+
     filas, _ = aristas(arts, "co:decreto:1067:2015", "x")
     assert ("co:decreto:1407:2024:art:1", "modifica",
             "co:decreto:1067:2015:art:2.2.1.1.1") == filas[0][:3], filas[0]
@@ -102,7 +155,7 @@ def main():
     p.add_argument("i", help="id interno del Gestor (índice de DUR en norma.php?i=62255)")
     for a in ("id", "titulo", "ramas", "salida"):
         p.add_argument("--" + a, required=True)
-    p.add_argument("--fecha", required=True)   # el Gestor no trae la línea del Diario Oficial
+    p.add_argument("--fecha", default="")   # si se omite, sale del «(Mayo 26)» de la fuente
     p.add_argument("--corto", default="")
     p.add_argument("--tipo", default="decreto")
     p.add_argument("--minimo", type=int, default=0)
@@ -110,6 +163,9 @@ def main():
 
     url = BASE % a.i
     doc = bajar(url, enc="utf-8")          # el meta miente: dice ISO-8859-1, es UTF-8
+    fecha = a.fecha or fecha_norma(doc)
+    if not fecha:
+        sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")
     arts = articulos(doc)
     if a.minimo and len(arts) < a.minimo:
         sys.exit("ABORTA: %d artículos, se esperaban al menos %d" % (len(arts), a.minimo))
@@ -120,7 +176,7 @@ def main():
     fm = ["---", "id: " + a.id, "tipo: " + a.tipo, "titulo: " + a.titulo]
     if a.corto:
         fm.append("titulo_corto: " + a.corto)
-    fm += ["fecha: " + a.fecha, "ramas: [%s]" % a.ramas, "estado_general: vigente",
+    fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: vigente",
            "afectaciones: " + ("cargadas" if filas else "pendiente"),
            "fuente: " + url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, txt in arts:

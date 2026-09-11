@@ -25,13 +25,27 @@ def indice_fuente(url):
     return nums
 
 
+def indice_gestor(url):
+    """El Gestor no trae selector: el índice son los encabezados en línea propia."""
+    from ingesta_senado import limpiar
+    doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
+                 flags=re.S | re.I)
+    return {m.group(1).strip(".").upper()
+            for m in re.finditer(r"^ART[IÍ]CULO\s+([\d][\d\.]*)", limpiar(doc), re.I | re.M)}
+
+
 def revisar(ruta):
     texto = open(ruta, encoding="utf-8").read()
     fuente = re.search(r"^fuente: (\S+)", texto, re.M)
-    if not fuente or "secretariasenado" not in fuente.group(1):
+    if not fuente:
         return None
     propios = {n.upper() for n in re.findall(r"^## art:(\S+)", texto, re.M)}
-    fuente_nums = indice_fuente(fuente.group(1))
+    if "secretariasenado" in fuente.group(1):
+        fuente_nums = indice_fuente(fuente.group(1))
+    elif "funcionpublica" in fuente.group(1):
+        fuente_nums = indice_gestor(fuente.group(1))
+    else:
+        return None
     faltan = sorted(fuente_nums - propios, key=lambda s: (len(s), s))
     sobran = sorted(propios - fuente_nums, key=lambda s: (len(s), s))
     print("%-46s %4d arts · índice %4d · faltan %d%s" % (
