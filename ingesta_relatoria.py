@@ -31,7 +31,9 @@ def url_de(sid):
     m = RE_ID.match(sid)
     if not m:
         raise ValueError("id de sentencia no reconocido: %s" % sid)
-    serie, num, anio = m.group(1).upper(), m.group(2), m.group(3)
+    # La relatoría rellena el número a tres cifras: C-41 de 2000 vive en C-041-00.htm
+    # y sin el relleno devuelve una página de error de 8 KB que parece una sentencia.
+    serie, num, anio = m.group(1).upper(), m.group(2).zfill(3), m.group(3)
     return BASE % (anio, serie, num, anio[2:])
 
 
@@ -265,6 +267,7 @@ def check():
 
     assert url_de("co:cc:c-443:2019").endswith("/relatoria/2019/C-443-19.htm"), url_de("co:cc:c-443:2019")
     assert url_de("co:cc:su-214:2016").endswith("/relatoria/2016/SU-214-16.htm")
+    assert url_de("co:cc:c-41:2000").endswith("/relatoria/2000/C-041-00.htm"), url_de("co:cc:c-41:2000")
     print("check OK")
 
 
@@ -274,6 +277,8 @@ def main():
     p.add_argument("--del-grafo", action="store_true",
                    help="toma las sentencias que relaciones.csv ya cita y aún no tienen ficha")
     p.add_argument("--limite", type=int, default=25)
+    p.add_argument("--todas", action="store_true",
+                   help="no solo las que afectan vigencia: también las que solo interpretan")
     a = p.parse_args()
 
     con = sqlite3.connect(os.path.join(RAIZ, "index.db")) if os.path.exists(
@@ -282,9 +287,9 @@ def main():
     if a.del_grafo and con:
         # Prioriza las que más artículos afectan: son las que más peso tienen.
         ids += [r[0] for r in con.execute("""SELECT origen, COUNT(*) n FROM relaciones
-            WHERE origen LIKE 'co:cc:%' AND tipo LIKE 'declara%'
+            WHERE origen LIKE 'co:cc:%' AND (tipo LIKE 'declara%' OR ?)
               AND origen NOT IN (SELECT id FROM documentos)
-            GROUP BY origen ORDER BY n DESC""").fetchall()][:a.limite]
+            GROUP BY origen ORDER BY n DESC""", (1 if a.todas else 0,)).fetchall()][:a.limite]
 
     ok = fallos = 0
     for sid in ids:

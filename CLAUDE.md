@@ -96,8 +96,12 @@ SELECT * FROM cadena;
 1. El `.md` en `normativa/` o `jurisprudencia/`, con el formato de `esquema.md` §3 y §4.
 2. Las afectaciones (deroga, modifica, declara_inexequible…) **solo** en
    `relaciones.csv` — nunca dentro del `.md`. Una arista en dos lados se desincroniza.
-3. `python3 build.py`. Si imprime avisos, se corrigen antes de dar por cerrado.
-4. Commit.
+3. `python3 verificar.py normativa/<archivo>.md` — contrasta los artículos extraídos
+   contra el índice de la propia fuente (el `<select>` de senado, los encabezados en
+   el Gestor). Un parser que se come artículos no falla ruidosamente: entrega un
+   archivo que parece correcto. Sin `faltan 0` no se cierra el tick.
+4. `python3 build.py`. Si imprime avisos, se corrigen antes de dar por cerrado.
+5. Commit.
 
 `python3 build.py --check` corre el autotest de la lógica de vigencia. Si se toca
 `build.py`, tiene que seguir pasando.

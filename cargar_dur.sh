@@ -83,3 +83,21 @@ run 77715 1084 --minimo 150 --id co:decreto:1084:2015 \
 run 77714 1085 --minimo 100 --id co:decreto:1085:2015 \
     --titulo "Decreto 1085 de 2015 - DUR del Sector Administrativo del Deporte" \
     --ramas "deporte, administrativo" --salida normativa/co-decreto-1085-2015.md
+
+# --- Normas del Gestor que no son DUR (senado no las publica) --------------------
+run 5259 2158 --minimo 100 --id co:decreto:2158:1948 --tipo decreto-ley \
+    --titulo "Decreto 2158 de 1948 - Código Procesal del Trabajo y de la Seguridad Social" \
+    --corto "CPTSS" --ramas "laboral, procesal, seguridad-social" \
+    --salida normativa/co-decreto-ley-2158-1948.md
+
+run 1348 663 --minimo 150 --id co:decreto:663:1993 \
+    --titulo "Decreto 663 de 1993 - Estatuto Orgánico del Sistema Financiero" --corto "EOSF" \
+    --ramas "financiero, comercial, administrativo" --salida normativa/co-decreto-663-1993.md
+
+run 3431 23 --minimo 150 --tipo ley --id co:ley:23:1982 \
+    --titulo "Ley 23 de 1982 - Derechos de autor" \
+    --ramas "propiedad-intelectual, civil, comercial" --salida normativa/co-ley-23-1982.md
+
+run 53646 1377 --minimo 20 --id co:decreto:1377:2013 \
+    --titulo "Decreto 1377 de 2013 - Reglamento de protección de datos personales" \
+    --ramas "datos-personales, administrativo" --salida normativa/co-decreto-1377-2013.md

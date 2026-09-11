@@ -50,6 +50,8 @@ def fecha_norma(doc):
 
 def articulos(doc):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
+    # El CSS del pie de página quedaba pegado al último artículo de cada decreto.
+    doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I)
     anclas = list(ANCLA.finditer(doc))
     salida, vistos = [], set()
     # Las normas anteriores a los DUR no traen anclas: solo el encabezado en el texto.
