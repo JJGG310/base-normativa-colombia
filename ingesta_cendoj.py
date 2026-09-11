@@ -16,6 +16,11 @@ El texto **no** sale del API: `getContentSearch` devuelve una vista previa con e
 su texto es justo lo que este proyecto no puede permitirse. Se baja el .docx original por
 `downloadFile` y se extrae de `word/document.xml`. Las providencias que la Corte solo
 publica en PDF se saltan: se anotan, no se rellenan.
+
+La sala PENAL no se puede cargar hoy: `downloadFile` devuelve 404 para todas sus rutas
+(probado con cuatro variantes el 2026-09-11), y la vista previa del API no sirve de
+reemplazo — además de elidir, mete espacios dentro de las palabras para resaltar los
+términos («R a dic a ción»). Civil y laboral funcionan.
 """
 import argparse, html, io, json, os, re, sys, time, urllib.request, zipfile
 from datetime import date
@@ -33,7 +38,8 @@ TERMINOS = ["recurso", "sentencia", "demanda", "proceso", "derecho", "prueba"]
 RAMAS = {"CIVIL": "civil, comercial, procesal", "LABORAL": "laboral, seguridad-social",
          "PENAL": "penal, procesal"}
 RE_TITULO = re.compile(r"^([A-Z]{2,4})(\d+)\s*-\s*(\d{4})")
-RE_RADICADO = re.compile(r"\[([0-9\-]+)\]")
+# Civil y laboral escriben el radicado entre corchetes; penal entre paréntesis.
+RE_RADICADO = re.compile(r"[\[(]([0-9\-]+)[\])]")
 # El fallo cierra con el bloque de firma electrónica: no es parte de la decisión.
 RE_FIRMA = re.compile(r"Este documento fue generado con firma electrónica.*$", re.S | re.I)
 

@@ -175,9 +175,15 @@ def ramas_de(sid, con):
     de una opinión sobre de qué 'trata' el fallo."""
     if not con:
         return []
-    filas = con.execute("""SELECT DISTINCT d.ramas FROM relaciones r
-        JOIN fragmentos f ON f.id = r.destino JOIN documentos d ON d.id = f.doc_id
-        WHERE r.origen = ?""", (sid,)).fetchall()
+    # La ficha no depende de la base: si index.db está a medio construir, la sentencia
+    # se guarda igual sin ramas. Perder 239 fichas por un build simultáneo no tiene
+    # sentido: las ramas se recalculan en el siguiente build.
+    try:
+        filas = con.execute("""SELECT DISTINCT d.ramas FROM relaciones r
+            JOIN fragmentos f ON f.id = r.destino JOIN documentos d ON d.id = f.doc_id
+            WHERE r.origen = ?""", (sid,)).fetchall()
+    except sqlite3.DatabaseError:
+        return []
     ramas = sorted({x.strip() for (r,) in filas for x in (r or "").split(",") if x.strip()})
     return ramas
 
