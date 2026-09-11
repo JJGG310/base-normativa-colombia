@@ -84,7 +84,7 @@ faltantes son artículos que la fuente misma no publica. Recargable con `./carga
 
 - [x] `co:ley:1563:2012` — Arbitraje: 119 arts
 - [x] `co:ley:2136:2021` — Política Integral Migratoria: 91 arts
-- [!] `co:decreto:1067:2015` — DUR Relaciones Exteriores: **404 en senado**. Los Decretos Únicos Reglamentarios viven en el Gestor Normativo de Función Pública; necesita otro parser.
+- [x] `co:decreto:1067:2015` — DUR Relaciones Exteriores: 450 arts, 204 aristas, vía `ingesta_gestor.py 74000`
 - [x] `co:ley:100:1993` — Seguridad Social: 289 arts
 - [x] `co:ley:80:1993` (82) + `co:ley:1150:2007` (32) — Contratación Estatal
 - [x] `co:ley:1116:2006` — Insolvencia: 126 arts
@@ -96,12 +96,19 @@ faltantes son artículos que la fuente misma no publica. Recargable con `./carga
 - [x] `co:ley:1480:2011` — Estatuto del Consumidor: 84 arts
 - [x] `co:ley:1952:2019` — Código General Disciplinario: 266 arts
 - [x] `co:ley:769:2002` — Código Nacional de Tránsito: 171 arts
-- [!] `co:decreto:1165:2019` — Regulación Aduanera: misma situación que el 1067/2015, no está en senado.
+- [!] `co:decreto:1165:2019` — Regulación Aduanera: no está en senado ni en el índice de DUR (`i=62255`); no es un DUR sino un decreto compilatorio. Falta ubicar su `i=` en el Gestor.
 
-### P2: cargada (13 de 15)
+### P2: cargada (14 de 15)
 
-`./cargar_p2.sh`. Las dos que faltan son Decretos Únicos Reglamentarios, que no
-están en secretariasenado. La fecha de expedición ya no se escribe a mano: sale de
+`./cargar_p2.sh` para las 13 de senado, más `ingesta_gestor.py` para el DUR 1067.
+Solo falta el Decreto 1165/2019 (aduanero).
+
+**Gestor Normativo de Función Pública** (`funcionpublica.gov.co/eva/gestornormativo/norma.php?i=N`):
+accesible, a diferencia de SUIN. El índice de Decretos Únicos Reglamentarios está en
+`i=62255`; el 1067/2015 es `i=74000`. Dos trampas: el `<meta charset>` declara
+ISO-8859-1 pero el contenido es UTF-8, y los artículos usan numeración decimal
+(`2.2.1.1.1`). Las afectaciones vienen inline como
+`(Modificado por el Art. 1 del Decreto 124 de 2021)`. La fecha de expedición ya no se escribe a mano: sale de
 la línea del Diario Oficial de la propia fuente (salvo el Estatuto Tributario, que
 no la publica).
 

@@ -44,7 +44,7 @@ RE_HISTORICA = re.compile(
 CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fuentes", "cache")
 
 
-def bajar(url, obligatorio=True):
+def bajar(url, obligatorio=True, enc="iso-8859-1"):
     """Descarga con caché en disco y reintentos.
 
     Antes esto se tragaba los fallos y devolvía "": una página que no bajaba producía
@@ -61,7 +61,7 @@ def bajar(url, obligatorio=True):
     for intento in range(4):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90) as r:
-                doc = r.read().decode("iso-8859-1", "replace")
+                doc = r.read().decode(enc, "replace")
             if len(doc) > 500:
                 with open(ruta, "w", encoding="utf-8") as fh:
                     fh.write(doc)
