@@ -141,8 +141,11 @@ def main():
     destino_dir = os.path.join(RAIZ, "jurisprudencia")
     vistos, escritas, fallos = set(), 0, 0
     for termino in a.terminos.split(","):
-        start = 0
-        while escritas < a.limite:
+        start, secas = 0, 0
+        # Hay salas-año que la Corte solo publica en PDF (laboral 2023 trae 12.950
+        # providencias y ni un .docx). Sin este corte, el recorrido se pasa media hora
+        # paginando resultados que nunca va a poder leer.
+        while escritas < a.limite and secas < 15:
             try:
                 r = buscar(a.sala, a.anio, termino.strip(), start, a.clase)
             except Exception as e:
@@ -180,6 +183,7 @@ def main():
                                            len(md) // 1024))
                 if escritas >= a.limite:
                     break
+            secas = 0 if any(x["title"].lower().endswith(".docx") for x in resultados) else secas + 1
             start += len(resultados)
             time.sleep(a.pausa)
     print("%d fichas escritas, %d fallidas, %d providencias vistas"

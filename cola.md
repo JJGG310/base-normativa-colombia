@@ -260,8 +260,8 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
 - [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
   providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
   no un tick más. Las fichas ya sirven sin esto.
-- [~] **Corte Suprema: abierta** con `ingesta_cendoj.py` (`./cargar_csj.sh`). 92 fichas
-  de arranque (civil, laboral, penal, 2024-2025), con texto íntegro.
+- [~] **Corte Suprema: abierta** con `ingesta_cendoj.py` (`./cargar_csj.sh`).
+  **840 providencias** de casación civil y laboral (2022-2025), con texto íntegro.
   Tres cosas que definen esta fuente:
   1. El GraphQL (`consultaprovidenciasbk.cortesuprema.gov.co/api`) **exige término de
      búsqueda**: con la consulta vacía devuelve 0. No hay forma de pedir «todo el año»,
@@ -273,7 +273,13 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
      se borraron. El texto íntegro se baja del `.docx` por `downloadFile` y se extrae
      con `zipfile` de la stdlib.
   3. La misma providencia aparece en `.pdf` y en `.docx`: solo se toma el `.docx`. Lo
-     que la Corte publica únicamente en PDF se salta.
+     que la Corte publica únicamente en PDF se salta — y hay salas-año enteras así
+     (laboral 2023: 12.950 providencias, ni un `.docx`). Leerlas exigiría un extractor
+     de PDF, que es una dependencia nueva: decisión pendiente, no un tick.
+  4. **La sala penal no se puede cargar**: `downloadFile` devuelve 404 para todas sus
+     rutas (probadas cuatro variantes el 2026-09-11). La vista previa del API no sirve
+     de reemplazo: además de elidir, parte las palabras para resaltar los términos
+     («R a dic a ción»). Queda pendiente encontrar por dónde sirve esos archivos.
 - [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` **redirige a
   `samai.consejodeestado.gov.co`** (ASP.NET WebForms: `__VIEWSTATE`), que es el sistema
   vivo. El backend JSF viejo (`http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`,
