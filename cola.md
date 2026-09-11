@@ -233,6 +233,26 @@ vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a na
   (77889), 1080 cultura (76833), 1081 presidencia (73593), 1084 inclusión social
   (77715), 1085 (77714)
 
+## P4 — Sectoriales · **cargada** (`./cargar_p4.sh`)
+
+Salud: `co:ley-estatutaria:1751:2015` (26) · `co:ley:1438:2011` (149) ·
+`co:ley:1122:2007` (46) · `co:ley:9:1979` Código Sanitario (617).
+Educación y cultura: `co:ley:30:1992` (146) · `co:ley:115:1994` (222) ·
+`co:ley:397:1997` (89).
+Minero-energético, TIC: `co:ley:685:2001` Código de Minas (362) ·
+`co:ley:143:1994` (97) · `co:ley:1341:2009` (74).
+Territorial y riesgo: `co:ley-organica:1454:2011` LOOT (40) · `co:ley:1523:2012` (96).
+Penal y penitenciario: `co:ley:65:1993` (181) · `co:ley:1709:2014` (107) ·
+`co:ley:1826:2017` (44) · `co:ley:2197:2022` (69).
+Tributario y administrativo reciente: `co:ley:1819:2016` (376) ·
+`co:ley:2010:2019` (61) · `co:ley:2277:2022` (96) · `co:ley:2080:2021` (87) ·
+`co:ley:2195:2022` (69) · `co:ley:2069:2020` (72) ·
+`co:ley-estatutaria:1755:2015` (2).
+
+Dos avisos de la fuente, no del parser: de la Ley 2010 de 2019 senado publica 61
+artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 de
+2015 son dos artículos, porque su contenido sustituye el título II del CPACA.
+
 ### E — Caro o de otra naturaleza (no es un tick mecánico)
 
 - [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
