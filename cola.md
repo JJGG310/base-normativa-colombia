@@ -139,18 +139,94 @@ la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerla
 - [ ] tipo de relación `renumera`: el AL 2/2015 renumeró artículos (el 262 pasó a 261). Hoy se ignora; el artículo viejo y el nuevo quedan sin enlazar.
 - [ ] SUIN-Juriscol sigue caído por `curl` (bloqueo de bot, no TLS). Sirve como segunda fuente para cotejar afectaciones.
 
-## P3 — Por definir
+## P3 — Lo que faltaba de verdad
+
+Diagnóstico del 2026-09-11, con P1 y P2 cerradas. Con 23 normas cargadas la base
+cubre los códigos, pero tenía huecos que se ven al primer uso real: **no estaba la
+tutela** (el trámite más frecuente del país), ni las demás acciones
+constitucionales, ni el estatuto de la administración de justicia. Eso es más
+grave que cualquier norma sectorial: el grafo ya cita cientos de sentencias de
+tutela contra normas que sí están.
+
+### A — Procesal constitucional y troncal administrativo · **cargada**
+
+- [x] `co:decreto:2591:1991` — tutela: 55 arts
+- [x] `co:ley:472:1998` — acciones populares y de grupo: 86
+- [x] `co:ley:393:1997` — acción de cumplimiento: 32
+- [x] `co:ley-estatutaria:270:1996` — administración de justicia: 231
+- [x] `co:ley:600:2000` — CPP anterior (aforados y hechos < 2005): 558
+- [x] `co:ley:1708:2014` — extinción de dominio: 220
+- [x] `co:ley:2213:2022` — TIC en actuaciones judiciales: 15
+- [x] `co:ley:489:1998` — organización de la Administración Pública: 121
+- [x] `co:ley:909:2004` — empleo público y carrera administrativa: 59
+- [x] `co:ley:1474:2011` — Estatuto Anticorrupción: 136
+- [x] `co:ley-estatutaria:1712:2014` — transparencia y acceso a la información: 35
+- [x] `co:ley:5:1992` — reglamento del Congreso: 424
+
+### B — Civil, societario, laboral y consumo · **cargada**
+
+- [x] `co:ley:222:1995` (247) · `co:ley:1258:2008` (46) — sociedades y SAS
+- [x] `co:ley:1010:2006` — acoso laboral: 19
+- [x] `co:ley:776:2002` (23) · `co:ley:1562:2012` (33) — riesgos laborales
+- [x] `co:ley:797:2003` — reforma pensional: 24
+- [x] `co:ley:1996:2019` — capacidad legal: 63
+- [x] `co:decreto:1260:1970` — registro del estado civil: 124
+- [x] `co:ley:1257:2008` — violencia contra las mujeres: 37
+- [x] `co:ley:1123:2007` — Código Disciplinario del Abogado: 112
+- [x] `co:ley-estatutaria:1266:2008` — habeas data financiero: 22
+- [x] `co:ley:1915:2018` — derecho de autor: 25
+
+### C — Territorial, ambiental, electoral y víctimas · **cargada**
+
+- [x] `co:ley:388:1997` — ordenamiento territorial: 140
+- [x] `co:ley:160:1994` — reforma agraria: 113
+- [x] `co:decreto-ley:2811:1974` — Código de Recursos Naturales: 340
+- [x] `co:ley:1448:2011` — víctimas y restitución de tierras: 207
+- [x] `co:decreto:2241:1986` — Código Electoral: 218
+- [x] `co:ley:1475:2011` — partidos políticos: 55
+- [x] `co:ley:136:1994` (203) · `co:ley:1551:2012` (50) — régimen municipal
+- [x] `co:decreto-ley:1421:1993` — Estatuto Orgánico de Bogotá: 181
+- [x] `co:ley:142:1994` — servicios públicos domiciliarios: 186
+
+`./cargar_p3.sh` recarga las tres tandas (todas viven en senado).
+
+**Lo que costó esta tanda** (tres arreglos a `ingesta_senado.py`, todos con el mismo
+patrón: la fuente es irregular y el parser fallaba en silencio o se plantaba):
+
+1. La fecha del Diario Oficial se escribe de cuatro formas distintas («de 6 de
+   agosto de 1998», «del 2000», «de 26 de agosto 2019», «de 1o. de agosto») y en las
+   normas largas el índice de artículos la empujaba más allá del corte de 15.000
+   caracteres. 8 normas no se cargaban por esto.
+2. La fuente corta la red (ENETUNREACH) tras muchas descargas seguidas. Esperar 2s
+   entre reintentos no alcanzaba y se caía el resto de la tanda: ahora espera 20s.
+3. **Artículos resueltos en el encabezado** («ARTÍCULO 10. DECLARADO INEXEQUIBLE.»,
+   sin cuerpo) se perdían. 22 de la Ley 270 — la misma clase de fallo que ya costó
+   823 artículos antes. De ahí salió `verificar.py`.
+
+`python3 verificar.py` contrasta cada `.md` contra el índice de artículos de la propia
+fuente (el `<select>` de la página). Hoy: **0 faltantes en las 57 normas de senado**.
+
+### D — Fuera de senado (requieren otra fuente)
+
+- [ ] `co:ley:23:1982` — derecho de autor (404 en senado; probar Gestor Normativo)
+- [ ] `co:decreto:663:1993` — Estatuto Orgánico del Sistema Financiero (404 en senado)
+- [ ] `co:decreto-ley:2158:1948` — Código Procesal del Trabajo (404 en senado).
+  Hueco real: hay CST pero no su procesal.
+- [ ] `co:decreto:1377:2013` — reglamento de datos personales (404 en senado)
+- [ ] `co:decreto:1165:2019` — Regulación Aduanera (viene de P2, sin `i=` en el Gestor)
+- [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
+- [ ] DUR pendientes vía `ingesta_gestor.py`: 1069 (justicia), 1072 (trabajo),
+  1074 (comercio), 1076 (ambiente), 1077 (vivienda), 1082 (contratación/planeación),
+  1083 (función pública)
+
+### E — Caro o de otra naturaleza (no es un tick mecánico)
 
 - [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
   providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
   no un tick más. Las fichas ya sirven sin esto.
 - [ ] Consejo de Estado y Corte Suprema: otra fuente, otro parser. Hoy el corpus solo
   tiene Corte Constitucional, y eso deja fuera casación civil, laboral y penal, y todo
-  el contencioso. Es el hueco más grande que queda.
-
-Se llena cuando P1 esté cerrado y se vea qué falta de verdad al usar la base.
-Candidatos: internacional privado, propiedad intelectual (Decisión 486 CAN),
-minero-energético, urbanístico (Ley 388/1997), electoral, agrario (Ley 160/1994).
+  el contencioso. Es el hueco más grande que queda después de P3.
 
 ---
 

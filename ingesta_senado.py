@@ -69,7 +69,9 @@ def bajar(url, obligatorio=True, enc="iso-8859-1"):
             ultimo = "respuesta de %d bytes" % len(doc)
         except Exception as e:
             ultimo = e
-        time.sleep(2 * (intento + 1))
+        # La fuente corta la red (ENETUNREACH) tras muchas descargas seguidas y tarda
+        # en soltar: esperar 2s no alcanzaba y tumbaba el resto de la tanda.
+        time.sleep(20 * (intento + 1))
     if obligatorio:
         raise RuntimeError("no se pudo bajar %s tras 4 intentos: %s" % (url, ultimo))
     print("  sin notas de vigencia para %s: %s" % (url, ultimo), file=sys.stderr)
@@ -154,10 +156,13 @@ def procesar(url):
 
             span = doc[m.end():fin]
             cuerpo = limpiar(span)
-            if num in vistos or not cuerpo:
-                continue
             epi = re.sub(r"^ART[IÍ]CULO\s*(TRANSITORIO)?\s*[\dA-Za-z\-]*[o°º]?\.?\s*",
                          "", encabezado, flags=re.I).strip(" .:-")
+            # Algunos artículos los resuelve la fuente en el propio encabezado
+            # ("ARTÍCULO 10. DECLARADO INEXEQUIBLE.") y el cuerpo queda vacío. Sin
+            # esto se perdían 22 artículos de la Ley 270 sin una sola señal de error.
+            if not cuerpo:
+                cuerpo = epi
             trozos = partir_inline(num, epi, " > ".join(x for x in (titulo, capitulo) if x), cuerpo)
             for a in trozos:
                 if a[0] in vistos or not a[3]:
@@ -250,9 +255,20 @@ def fecha_norma(url):
     Escribirla de memoria sería exactamente lo que este proyecto no hace: es un dato
     verificable y la fuente lo trae. Si no está, el llamador debe pasarla a mano.
     """
-    t = limpiar(bajar(url))[:15000]
-    m = re.search(r"Diario\s+Oficial\s+No\.?\s*[\d\.]+\s*de\s*(\d{1,2})\s*de\s*(%s)\s*de\s*(\d{4})"
-                  % "|".join(MESES), t, re.I)
+    # Sin quitar el CSS, el encabezado de la norma cae más allá del corte en las
+    # páginas largas y la fecha se daba por inexistente.
+    doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url), flags=re.S | re.I)
+    t = limpiar(doc)
+    # El índice de artículos empuja el encabezado lejos del inicio en las normas
+    # largas: se ancla en el título de la norma y se mira solo lo que sigue.
+    # El `<LEY>` de "DECRETO <LEY> 2241 DE 1986" sobrevive a limpiar: viene escapado
+    # en la fuente y se desescapa después de quitar el marcado.
+    h = re.search(r"\b(?:LEY|DECRETO|ACTO LEGISLATIVO)\s*(?:<[^>]*>)?\s+\d+\s+DE\s+\d{4}\b", t)
+    t = t[h.start():h.start() + 1500] if h else t[:15000]
+    # La fuente escribe la fecha de cuatro maneras: "de 6 de agosto de 1998",
+    # "No. 44.097 de 24 de julio del 2000", "de 26 de agosto 2019", "de 1o. de agosto".
+    m = re.search(r"Diario\s+Oficial\s+No\.?\s*[\d\.]+\s*,?\s*del?\s*(\d{1,2})o?\.?\s*del?\s*(%s)\s*"
+                  r"(?:del?\s*)?(\d{4})" % "|".join(MESES), t, re.I)
     if m:
         return "%s-%02d-%02d" % (m.group(3), MESES[m.group(2).lower()], int(m.group(1)))
     return ""
