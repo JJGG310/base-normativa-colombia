@@ -4674,12 +4674,6 @@ El presente decreto aplica a bienes y servicios producidos y comercializados por
 
 El signo distintivo al que hace mención el artículo 16 de la Ley 2125 de 2021 será administrado por el Ministerio de Comercio, Industria y Turismo, quién solicitará ante la Superintendencia de Industria y Comercio su registro cómo marca de certificación, sometiéndose al procedimiento legal establecido para esos efectos.
 
-## art:2.2.1.9.5.3 — Propiedad de la marca de certificación
-
-La Marca de certificación de que trata el artículo 16 de la Ley 2125 de 2021 es propiedad exclusiva y excluyente de la Nación, en cabeza del Ministerio de Comercio, Industria y Turismo.
-
-El Ministerio podrá ejercer, directamente o a través de terceros, todas las acciones pertinentes para proteges la marca de certificación de utilizaciones indebidas, abusivas, fraudulentas, engañosas o no autorizadas, con el fin de preservar su imagen y propender por el cumplimiento de los fines propuestos en la Ley 2125 de 2021 y en esta reglamentación.
-
 ## art:2.2.1.9.5.4 — Naturaleza de la marca de Certificación
 
 La marca de certificación busca generar incentivos para la formalización y fortalecimiento de micro, pequeñas y medianas empresas lideradas por mujeres en situación de vulnerabilidad, y los demás colectivos de mujeres y empresas lideradas por mujeres que identifique, reglamente y defina el Gobierno Nacional en el marco las políticas públicas sobre la materia; quienes podrán acceder de manera voluntaria y gratuita a la certificación de bienes y servicios que produzcan a comercialicen.
@@ -6748,12 +6742,6 @@ SECCIÓN 2
 
 DESNATURALIZACION DEL ALCOHOL POTABLE
 
-## art:2.2 — 1.17 .2.1
-
-Deber de desnaturalizar. El alcohol potable no destinado al consumo humano deberá ser desnaturalizado.
-
-ARTÍCULO
-
 ## art:2.2.1.17.2.2 — Momento y lugar de desnaturalización
 
 El alcohol potable no destinado para consumo humano deberá ser desnaturalizado mediante la transformación durante un proceso productivo así:
@@ -8131,24 +8119,6 @@ Algunos posibles eventos de conflicto de intereses son los actos o negocios en q
 Se considera que son actos de competencia con la sociedad en el marco de lo dispuesto en el numeral 7 del artículo 23 de la Ley 222 de 1995, de forma enunciativa y no limitativa, aquellos. que implican por parte del administrador, directamente o por interpuesta persona. la concurrencia en un mismo mercado, o cuando el administrador toma para para sí, directamente o por interpuesta persona, oportunidades de negocio que le correspondan o hubieran estado al alcance de la sociedad en la que este sujeto ejerce sus funciones.
 
 La conducta de ley no califica la forma como se desarrolla esa competencia, es decir, no se exige que involucre una práctica restrictiva de la competencia o competencia desleal, basta que implique competencia con la sociedad.
-
-## art:2.2 — ,2.3.3
-
-Conflicto de intereses por interpuesta persona. Para los fines del numeral 7 del artículo 23 de la Ley 222 de 1995, con carácter enunciativo y no limitativo, los administradores podrían estar incurriendo en competencia o conflicto de intereses por interpuesta persona, cuando en los actos correspondientes sean partes los siguientes sujetos:
-
-1 . El cónyuge o compañero permanente del administrador;
-
-2. Los parientes del administrador, de su cónyuge o de su compañero permanente, hasta el segundo grado de consanguinidad o civil, y segundo de afinidad;
-
-3. Las sociedades en las que el administrador o cualquiera de las personas mencionadas en los numerales anteriores, detenten la calidad de controlantes, conforme al artículo 260 del Código de Comercio;
-
-4. Las sociedades representadas simultáneamente por el administrador;
-
-5. Los patrimonios autónomos en los que el administrador, o cualquiera de las personas mencionadas en los numerales anteriores, sean fideicomitentes o beneficiarios, o que ejerza el control efectivo y/o final, o que tenga derecho a gozar y/o disponer de los activos, beneficios, resultados o utilidades; y
-
-6. Las personas que ejerzan control directo o indirecto sobre la sociedad en la que el administrador ejerce sus funciones o las subordinadas de dichos controlantes.
-
-PARÁGRAFO. Para los efectos aquí establecidos la situación de control no requiere que se encuentre inscrita en los términos del artículo 30 de la Ley 222 de 1995, dado que dicha omisión y sus consecuencias, no excluye la consideración de un eventual conflicto de intereses o competencia con la sociedad.
 
 ## art:2.2.2.3.4 — Procedimiento en casos de conflicto de intereses o actividades que impliquen competencia con la sociedad
 
@@ -12264,22 +12234,6 @@ En caso de que acaezca un posible conflicto de interés con posterioridad a la d
 
 (Decreto 2130 de 2015, art. 1)
 
-## art:2.2 — 2.11.5.6
-
-Consecuencia de conflictos de interés acaecidos antes de la designación. El juez del concurso o de la intervención evaluará el hecho o circunstancia que evidencie la existencia de un posible conflicto de intereses como consecuencia de la información obtenida de oficio o a petición de cualquiera de las partes interesadas en el proceso de insolvencia o de intervención.
-
-En caso de que el conflicto de interés concurra con relación a una de las personas naturales designadas por la persona jurídica, el juez podrá solicitarle a esta que designe a otra persona natural que cumpla con todos los requisitos legales exigidos.
-
-En el evento en que el juez del concurso o de la intervención determinen que el auxiliar de la justicia, en su calidad de persona natural se encuentra incurso en un conflicto de interés antes de la designación, se abstendrá de proceder a su nombramiento.
-
-(MODIFICADO por el Art. 35 del Decreto 1167 de 2023)
-
-(Modificado por el Art. 32 del Decreto 65 de 20209
-
-(Decreto 2130 de 2015, art. 1)
-
-ARTÍCULO
-
 ## art:2.2.2.11.5.7 — Consecuencia de conflictos de interés acaecidos con posteridad a la designación
 
 El juez del concurso o de la intervención, evaluará el hecho o circunstancia que evidencie que el auxiliar de la justicia se encuentra incurso en un posible conflicto de interés como consecuencia de la información suministrada por el auxiliar, de oficio o a petición de cualquiera de las partes interesadas en el proceso de insolvencia o de intervención.
@@ -14695,28 +14649,6 @@ La función de llevar el Registro Abierto de Avaluadores (RAA) comprende, dentro
 PARÁGRAFO. La Superintendencia de Industria y Comercio reconocerá y autorizara a las Entidades Reconocidas de Autorregulación que opten por no llevar el Registro Abierto de Avaluadores (RAA), una vez se encuentre reconocida y autorizada para operar la Entidad Reconocida de Autorregulación que haya decidido llevarlo en los términos establecidos en los siguientes artículos
 
 (Modificado por el Art. 1 del Decreto 200 de 2020)
-
-## art:2.2 — 2.17.3.2
-
-Del Registro Abierto de Avaluadores. La base de datos unica en que se lleve el Registro Abierto de Avaluadores (RAA), será operada por una persona jurídica creada o contratada por las Entidades Reconocidas de Autorregulación (ERA) que hayan sido reconocidas y autorizadas para llevar el Registro Abierto de Avaluadores (RAA).
-
-Las Entidades Reconocidas de Autorregulación (ERA) serán las encargadas de alimentar la base de datos de que trata el presente artículo, remitiendo información de los avaluadores que pertenezcan a su Entidad.
-
-La alimentación continúa de la base de datos será asumida por la Entidad o Entidades Reconocidas de Autorregulación (ERA) que reporten a esta, en proporción con el número de avaluadores que cada una de ellas tenga inscritos.
-
-La Superintendencia de Industria y Comercio instruirá al operador de la base de datos y a las Entidades Reconocidas de Autorregulación (ERA), acerca de la forma en que deberá operar y alimentarse la base datos, el contenido de los certificados, así cómo de los requisitos para su interconectividad para la transmisión de toda la información relacionada con los avaluadores inscritos de cada Entidad.
-
-PARÁGRAFO 1. Una vez reconocidas y autorizadas las Entidades Reconocidas de Autorregulación (ERA) que hayan creado o contratado a la persona jurídica que opera la base de datos de que trata este artículo, las siguientes Entidades Reconocidas de Autorregulación que se autoricen tendrán derecho a acceder al órgano o comité de gestión y coordinación técnica entre el operador de la base de datos y las Entidades Reconocidas de Autorregulación. Las decisiones en dicho órgano o comité se tomarán considerando la proporción de cada Entidad de acuerdo con el número de avaluadores que cada una de ellas tenga inscritos en la base de datos.
-
-La conformación del órgano o comité estará a cargo de las entidades reconocidas de Autorregulación (ERA) reconocidas y autorizadas por la Superintendencia de Industria y Comercio.
-
-La Superintendencia de Industria y Comercio, observando el procedimiento establecido por esta Autoridad para este efecto, instruirá sobre la implementación y operación de la plataforma cuando el reconocimiento y la autorización de las Entidades Reconocidas de Autorregulación (ERA) que hayan optado por llevar el Registro Abierto de Avaluadores (RAA) sea suspendido, revocado o terminado de manera que se garantice la continuidad del funcionamiento y operación del Registro Abierto de Avaluadores (RAA) para el adecuado ejercicio de las funciones de autorregulación en beneficio de los consumidores, de los avaluadores y del mercado en general.
-
-PARÁGRAFO 2. No será obligatoria la creación o contratación del operador de la base de datos, mientras exista una sola Entidad Reconocida de Autorregulación (ERA) y esta lleve los registros de no más de dos mil (2.000) avaluadores inscritos
-
-(Modificado por el Art. 2 del Decreto 200 de 2020)
-
-ARTÍCULO
 
 ## art:2.2.2.17.3.3 — Obtención de certificados
 
@@ -22032,26 +21964,6 @@ SECCIÓN 2
 
 RECONOCIMIENTO A LA APLICACIÓN DE PLAZOS JUSTOS
 
-## art:2.2.2.57 — 2.1
-
-Reconocimiento a la aplicación de pago en plazos justos. El Ministerio de Comercio, Industria y Turismo otorgará un reconocimiento a las empresas que realicen sus pagos en plazos menores a los establecidos en la Ley 2024 de 2020. Para el efecto, realizará de manera anual una convocatoria en la cual podrán participar, de manera voluntaria, aquellas empresas que deseen obtener el reconocimiento.
-
-Con base en los resultados de la convocatoria, el Ministerio de Comercio, Industria y Turismo elaborara el listado de empresas y tiempos de pago, el cual será encabezado por las empresas que hayan realizado sus pagos en menores plazos. Dicho listado será publicado en la página Web del Ministerio, a más tardar el 30 de junio de cada año.
-
-PARÁGRAFO. El Ministerio de Comercio, Industria y Turismo mediante resolución establecerá las condiciones , plazos y términos de la convocatoria, así cómo el reconocimiento que se otorgará a los participantes que hayan ocupado los primeros lugares en el listado elaborado, de acuerdo con los plazos en que efectuaron sus pagos.
-
-NORMAS QUE REGULAN EL COMERCIO EXTERIOR
-
-CAPÍTULO 1
-
-NEGOCIACION DE ACUERDOS COMERCIALES INTERNACIONALES
-
-SECCIÓN 1
-
-DEL EQUIPO NEGOCIADOR
-
-ARTÍCULO
-
 ## art:2.2.3.1.1.1 — Conformación
 
 Cuando se estime conveniente para las negociaciones comerciales internacionales de un tratado o acuerdo de libre comercio o del componente comercial que se incorpore a otro acuerdo, el Ministro de Comercio, Industria y Turismo coordinará la conformación del correspondiente Equipo Negociador, integrado exclusivamente por los servidores públicos y los particulares que ejerzan funciones públicas, designados por los organismos de los sectores central y descentralizado por servicios de la rama ejecutiva en el orden nacional.
@@ -24839,38 +24751,6 @@ PARÁGRAFO 3. El reglamento del Comité será el que adopten sus miembros tenien
  Texto Anterior
 
  ARTÍCULO
-
-1. El Consejero Presidencial para la Competitividad y la Gestión Público - Privada, o quien haga sus veces.
-
-2. El Viceministro de Comercio Exterior del Ministerio de Comercio, Industria y Turismo, quien lo presidirá.
-
-3. El Viceministro de Relaciones Políticas del Ministerio del Interior.
-
-4. El Viceministro Técnico del Ministerio de Hacienda y Crédito Público.
-
-5. El Viceministro de Energía del Ministerio de Minas y Energía.
-
-6. El Viceministro de Políticas y Normalización Ambiental del Ministerio de Ambiente y Desarrollo Sostenible.
-
-7. El Viceministro de Transformación Digital del Ministerio de Tecnologías de la información y las Telecomunicaciones.
-
-8. El Viceministro de Transporte del Ministerio de Transporte.
-
-9. El Subdirector General Sectorial del Departamento Nacional de Planeación.
-
-10. El Director General de la Agencia Nacional de Licencias Ambientales - ANLA.
-
-11. El Director General del Instituto Nacional de Vigilancia de Medicamentos y Alimentos - INVIMA.
-
-PARÁGRAFO 1. Los miembros del comité podrán delegar su participación en un servidor público de sus respectivas entidades.
-
-Procolombia será invitado permanente, con voz. Adicionalmente, el Comité podrá invitar a las entidades, gremios, personas naturales y jurídicas que determine, cuando se vayan a tratar asuntos de su competencia.
-
-PARÁGRAFO 2. La Secretaría Técnica del Comité será ejercida por la Dirección de Innovación y Desarrollo Empresarial del Departamento Nacional de Planeación.
-
-PARÁGRAFO 3. El reglamento del Comité será el que adopten sus miembros teniendo en cuenta el Reglamento Marco de los Comités Técnicos del Comité Ejecutivo del Sistema Nacional de Competitividad e Innovación.
-
-(Adicionado por el Art. 1 del Decreto 1644 de 2021)
 
 ## art:2.2.3.8.4.3 — Funciones del Comité lED - SIFAI
 
@@ -29292,14 +29172,6 @@ Informe a la Autoridad Nacional de Licencias Ambientales (ANLA) sobre la adopci�
 SECCIÓN 6
 
 FINANCIACION DE LOS PLANES MAESTROS
-
-## art:2.2 — 4.10.6.1
-
-Financiación de los Planes Maestros. Para la ejecución de infraestructura pública definida en los Planes Maestros podrán utilizarse recursos públicos o privados que deben ser definidos en el correspondiente capítulo de financiación. Los Planes Maestros podrán incorporar mecanismos de participación público - privadas, reparto equitativo de cargas y beneficios, suscripción de contratos públicos, de fiducia y demás alternativas viables de acuerdo con el marco jurídico vigente. En la estimación de costos se incorporaran, en forma integral, todos los gastos asociados al respectivo proyecto de inversión, incluida la operación y puesta en marcha del proyecto.
-
-El propósito general de los mecanismos de financiación es asegurar que la infraestructura pública requerida en el marco de los Planes Maestros, en la medida de las posibilidades, sea asumida por los desarrolladores privados que intervienen en su ejecución, y sólo en casos excepcionales sea necesaria inversión de recursos públicos.
-
-ARTÍCULO
 
 ## art:2.2.4.10.6.2 — Reparto equitativo de cargas y beneficios
 

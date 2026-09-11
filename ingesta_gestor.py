@@ -41,8 +41,10 @@ def fecha_norma(doc):
 
     El «DE» no siempre está: el DUR 1076 se titula «DECRETO 1076 2015 (Mayo 26)»."""
     t = limpiar(re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I))
-    m = re.search(r"\b(?:DECRETO|LEY)\s+[\d\.]+\s+(?:DE\s+)?(\d{4})\s*\(\s*(%s)\s+(\d{1,2})\s*\)"
-                  % "|".join(MESES), t, re.I)
+    # Entre el año y la fecha puede haber paréntesis de reformas: el DUR 1073 trae
+    # «DECRETO 1073 DE 2015 (Adicionado por…) (Adicionado por…) (Mayo 26)».
+    m = re.search(r"\b(?:DECRETO|LEY)\s+[\d\.]+\s+(?:DE\s+)?(\d{4})\s*(?:\([^)]*\)\s*)*"
+                  r"\(\s*(%s)\s+(\d{1,2})\s*\)" % "|".join(MESES), t, re.I)
     return "%s-%02d-%02d" % (m.group(1), MESES[m.group(2).lower()], int(m.group(3))) if m else ""
 
 
@@ -50,6 +52,12 @@ def articulos(doc):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
     anclas = list(ANCLA.finditer(doc))
     salida, vistos = [], set()
+    # Los primeros artículos del libro 1 suelen ir antes de la primera ancla, donde
+    # el corte por anclas ni los mira. Se exigen tres puntos en el número para no
+    # confundirlos con las remisiones del preámbulo ("artículo 189 de la Constitución").
+    if anclas:
+        salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
+                   if a[0].count(".") >= 2]
     for k, m in enumerate(anclas):
         num = m.group(1).strip(".")
         fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
@@ -64,9 +72,6 @@ def articulos(doc):
             if salida:
                 salida[-1] = salida[-1][:2] + (salida[-1][2] + "\n\n" + cuerpo,)
             continue
-        if num in vistos:
-            continue
-        vistos.add(num)
         # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>" — algunos DUR
         # publican el mismo encabezado sin la palabra ARTÍCULO.
         enc = re.match(r"(?:ART[IÍ]CULO\s+)?[\d\.]+\s*\.?\s*(.{3,120}?)\.\s+", cuerpo)
@@ -74,7 +79,18 @@ def articulos(doc):
         if enc:
             epi, texto = enc.group(1).strip(), cuerpo[enc.end():].strip()
         salida.append((num, " ".join(epi.split()), texto))
-    return [a for art in salida for a in partir(*art)]
+
+    # La numeración se repite en la fuente (el 1078 trae dos anclas 2.2.9.1.4.2 con
+    # artículos distintos). Descartar el ancla repetida entera se llevaba por delante
+    # los 10 artículos que venían detrás: primero se parte, después se descarta.
+    partes = []
+    for art in salida:
+        for a in partir(*art):
+            if a[0] in vistos or not a[2]:
+                continue
+            vistos.add(a[0])
+            partes.append(a)
+    return partes
 
 
 RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+([\d][\d\.]*)\s*\.?\s*", re.I)

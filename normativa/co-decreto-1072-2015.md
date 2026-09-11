@@ -2031,14 +2031,6 @@ El empleador y el trabajador podrán, de mutuo acuerdo pactar el valor mensual d
 
 El empleador y el trabajador, de mutuo acuerdo, podrán acordar la posibilidad de desarrollar la labor contratada a través de horarios flexibles, siempre y cuando se dé cumplimiento a la jornada laboral semanal, para lo cual, el empleador podrá implementar mecanismos propios de las tecnologías de la información para determinar el cumplimiento de la jornada semanal y proteger el derecho a la desconexión laboral durante los días laborales.
 
-## art:2.2.1.6.6.11 — Política pública del trabajo remoto
-
-El Ministerio del Trabajo, creará un Comité para el diseño e implementación de la Política Pública de Trabajo Remoto; establecerá los componentes básicos para lograr una adecuada entrada en funcionamiento e implementación del trabajo remoto, a través de campañas de socialización, charlas a empleadores y trabajadores y demás actividades que permitan la aplicación de las disposiciones relacionadas con el trabajo remoto. Para tal fin, dentro del término de los tres (3) meses siguientes a la entrada en vigencia de la presente sección, el Ministerio del Trabajo proferirá el acto administrativo correspondiente.
-
-Este Comité realizará como mínimo una sesión trimestral e invitará al Ministerio de Tecnologías de la Información y las Comunicaciones, así como a los representantes de las diferentes asociaciones del sector, empleadores y Confederaciones de Trabajadores.
-
-La Secretaría Técnica del Comité para el diseño e implementación de la Política Pública de Trabajo Remoto será ejercida por el Ministerio del Trabajo.
-
 ## art:2.2.1.6.6.12 — Inspección, Vigilancia y Control
 
 El Ministerio del Trabajo ejercerá las funciones de inspección, vigilancia y control respecto de las quejas por violaciones presentadas a las normas de trabajo remoto, en el ámbito de su competencia.
@@ -2162,10 +2154,6 @@ Para la habilitación de trabajo en casa las Administradora de Riesgos Laborales
 6. Dar las recomendaciones en seguridad y salud en el trabajo a los trabajadores habilitados para trabajar en casa y empresas, velando por el autocuidado como medida preventiva.
 
 7. Las Administradoras de Riesgos Laborales, empresas o contratantes podrán establecer sistemas, programas y actividades de capacitación, asesoría, asistencia técnica y actividades de prevención y prevención en riesgos laborales de manera virtual y tecnologías de la información.
-
-## art:2.2.1.6.6.10 — Compensación por el uso de herramientas de trabajo de propiedad del trabajador
-
-El empleador y el trabajador podrán, de mutuo acuerdo pactar el valor mensual de compensación por el uso de herramientas de trabajo de propiedad del trabajador.
 
 ## art:2.2.1.6.7.11 — Alternancia
 
@@ -11081,30 +11069,6 @@ Para impartir los procesos de capacitación laboral, las Unidades Vocacionales d
 La capacitación impartida a través de las Unidades Vocacionales de Aprendizaje en Empresa - UVAE podrá realizarse en alianza con - el Servicio Nacional de Aprendizaje - SENA; las Cajas de Compensación Familiar - gremios empresariales legalmente constituidos del sector económico al que pertenezca la UVAE; Instituciones de Educación para el Trabajo y Desarrollo Humano - IETDH, o con las Instituciones de Capacitación y Formación Internacional, con acreditación de acuerdo con el tema o sector económico a que se dirige la capacitación en los respectivos países de origen. El convenio o el acuerdo a través el cual se establece la respectiva alianza deberá registrarse en el aplicativo virtual dispuesto por el Ministerio del Trabajo para tal fin.
 
 (Modificado por el Art. 1 del Decreto 048 de 2022)
-
-## art:2.2.6.2.4 — 14. Registro de las Unidades Vocacionales de Aprendizaje en Empresa - UVAE
-
-Todas las empresas que implementen el mecanismo de capacitación de Unidad Vocacional de Aprendizaje en Empresa - UVAE, deberán registrarla en el aplicativo virtual dispuesto para tal fin por el Ministerio del Trabajo.
-
-Para el registro de la Unidad Vocacional de Aprendizaje en Empresa - UVAE, la empresa deberá adjuntar los siguientes documentos:
-
-1. Solicitud suscrita por el representante legal.
-
-2. Copia del certificado de existencia y representación expedido por la Cámara de Comercio respectiva, con vigencia máxima de tres (3) meses.
-
-3. Documento que describa el ambiente de aprendizaje (incluyendo estructura física especial, si se requiere).
-
-4. Documento con el diseño de los procesos, de acuerdo con lo dispuesto en los artículos 2.2.6.2.4.7., 2.2.6.2.4.9. y 2.2.6.2.4.10. del presente Decreto.
-
-5. Para cada entrenador, deberá aportarse el título o certificación emitida por el SENA, la Institución de Educación Superior o la Institución de Educación para el Trabajo y el Desarrollo Humano, según corresponda, que lo certifique en el tema respectivo.
-
-6. Convenio o acuerdo, en el caso que la capacitación laboral sea impartida a través de alianzas.
-
-## art:2.2.6.2.4 — 15. Verificación documental
-
-La Dirección de Movilidad y Formación para el Trabajo del Ministerio del Trabajo o quien haga sus veces, dentro de los quince (15) días hábiles posteriores a la recepción de la solicitud de registro de la Unidad Vocacional de Aprendizaje en Empresa - UVAE, verificará el cumplimiento o no de las condiciones establecidas en la presente sección para la inscripción en el registro, con base en los documentos cargados en el aplicativo virtual referido en el artículo 2.2.6.2.4.14. del presente Decreto. Si es del caso, esta dependencia solicitará las adiciones o aclaraciones que considere necesarias para que proceda dicha inscripción.
-
-ARTÍCULO
 
 ## art:2.2.6.2.4.16 — Inscripción en el registro
 

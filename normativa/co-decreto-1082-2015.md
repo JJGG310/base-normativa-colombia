@@ -10,6 +10,24 @@ fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77653
 verificado: 2026-09-11
 ---
 
+## art:1.1.1.1 — Objetivos
+
+El Departamento Nacional de Planeación tiene como objetivos fundamentales la coordinación y diseño de políticas públicas y del presupuesto de los recursos de inversión, la articulación entre la planeación de las entidades del Gobierno Nacional y los demás niveles del gobierno; la preparación, el seguimiento de la ejecución y la evaluación de resultados de las políticas, planes, programas y proyectos del sector público, así como realizar en forma permanente el seguimiento de la economía nacional e internacional, proponer los estudios, planes, programas y proyectos para avanzar en el desarrollo económico, social, institucional y ambiental, y promover la convergencia regional del país, participar en la planeación y el adecuado desempeño en la ejecución de los proyectos de inversión, en la administración del Sistema de Seguimiento, Evaluación y Control del SGR y el Banco de Proyectos de Inversión y apoyar al Presidente de la República en el ejercicio de su función de máximo orientador de la planeación nacional de corto, mediano y largo plazo.
+
+(Modificado por el Art. 2 del Decreto 1893 de 2021)
+
+(Ver Art. 4 de la Ley 2056 del 2020)
+
+(Ver Art. 2 del Decreto 2189 de 2017)
+
+(Decreto 1832 de 2012, artículo 1, Ley 1530 de 2012 artículo 4)
+
+TÍTULO 2
+
+INTEGRACIÓN DE ÓRGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
+
+ARTÍCULO
+
 ## art:1.1.2.1 — Integración de Comisiones intersectoriales e interinstitucionales
 
 El Departamento Nacional de Planeación preside las siguientes Comisiones intersectoriales e interinstitucionales:
@@ -2904,46 +2922,6 @@ PARÁGRAFO. Respecto de los incentivos contractuales para los emprendimientos y 
 
  ARTÍCULO
 
-## art:2.2.1.2.4.2.6 — Puntaje adicional para proponentes con trabajadores con discapacidad
-
-En los procesos de licitaciones públicas y concursos de méritos, para incentivar el sistema de preferencias a favor de las personas con discapacidad, las entidades estatales deberán otorgar el uno por ciento (1%) del total de los puntos establecidos en el pliego de condiciones, a los proponentes que acrediten la vinculación de trabajadores con discapacidad en su planta de personal, de acuerdo con los siguientes requisitos:
-
-1. La persona natural, el representante legal de la persona jurídica o el revisor fiscal, según corresponda, certificará el número total de trabajadores vinculados a la planta de personal del proponente o sus integrantes a la fecha de cierre del proceso de selección.
-
-2. Acreditar el número mínimo de personas con discapacidad en su planta de personal, de conformidad con lo señalado en el certificado expedido por el Ministerio de Trabajo, el cual deberá estar vigente a la fecha de cierre del proceso de selección.
-
-Verificados los anteriores requisitos, se asignará el 1%, a quienes acrediten el número mínimo de trabajadores con discapacidad, señalados a continuación:
-
-Número total de trabajadores de la planta de personal del proponente
-
-Número mínimo de trabajadores con discapacidad exigido
-
-Entre 1 y 30
-
-1
-
-Entre 31 y 100
-
-2
-
-Entre 101 y 150
-
-3
-
-Entre 151 y 200
-
-4
-
-Más de 200
-
-5
-
-PARÁGRAFO . Para efectos de lo señalado en el presente artículo, si la oferta es presentada por un consorcio, unión temporal o promesa de sociedad futura, se tendrá en cuenta la planta de personal del integrante del proponente plural que aporte como mínimo el cuarenta por ciento (40%) de la experiencia requerida para la respectiva contratación.
-
-(Decreto 392 de 2018, art. 1)
-
-ARTÍCULO
-
 ## art:2.2.1.2.4.2.7 — Seguimiento durante la ejecución del contrato
 
 Las entidades estatales a través de los supervisores o interventores del contrato según corresponda, deberán verificar durante la ejecución del contrato que los proponentes que resultaron adjudicatarios mantienen en su planta de personal el número de trabajadores con discapacidad que dio lugar a la obtención del puntaje adicional de la oferta. El contratista deberá aportar a la entidad estatal contratante la documentación que así lo demuestre.
@@ -3105,14 +3083,6 @@ PARÁGRAFO 1. La Agencia Nacional de Contratación Pública - Colombia Compra Ef
  Antes de la modicación
 
  ARTÍCULO
-
-## art:2.2.1.2.4.2.8 — Sistema de preferencias
-
-En cumplimiento de lo previsto en los numerales 7 y 8 del artículo 13 de la Ley 1618 de 2013, si en la evaluación hay empate entre dos o más ofertas, la Entidad Estatal debe aplicar los criterios de desempate previstos en el artículo 35 de la Ley 2069 de 2020, conforme a los medios de acreditación del artículo 2.2.1.2.4.2.17. del presente Decreto.
-
-(Modificado por el Art. 7 del Decreto 1860 de 2021)
-
-(Decreto 392 de 2018, art. 1)
 
 ## art:2.2.1.2.4.2.7.9 — ACCESO Y ACCESIBILIDAD DEL SISTEMA ELECTRÓNICO DE CONTRATACIÓN PÚBLICA - SECOP
 
@@ -11070,70 +11040,6 @@ DE LA FORMULACIÓN, EVALUACIÓN PREVIA Y REGISTRO DE LOS PROYECTOS DE INVERSIÓN
 
 ARTÍCULO
 
-## art:2.2.6.3.1 — Banco Nacional de Programas y Proyectos
-
-El Banco Nacional de Programas y Proyectos (BPIN), es un instrumento para la planeación que registra los programas y proyectos de inversión pública viables, previamente evaluados social, técnica, ambiental y económicamente, susceptibles de ser financiados con recursos del Presupuesto General de la Nación.
-
-La formulación de los proyectos y la evaluación previa que se realiza a los mismos en el marco del ciclo de los proyectos de inversión concluirá con el registro y sistematización en el Banco Nacional de Programas y Proyectos.
-
-El funcionamiento del Banco Nacional de Programas y Proyectos, la clasificación de los proyectos de inversión, las metodologías para su formulación, los procedimientos y demás requisitos para el registro de los mismos, la actualización y modificación de proyectos, y todo lo inherente a la sistematización del BPIN será responsabilidad del Departamento Nacional de Planeación y se fijaran en los manuales que para el efecto se expidan
-
-(Decreto 2844 de 2010, artículo 8)
-
-ARTÍCULO
-
-## art:2.2.6.3.2 — Iniciativa de los proyectos de inversión
-
-Los proyectos de inversión pública podrán ser presentados por iniciativa de cualquier entidad pública cumpliendo con lo establecido en el presente título.
-
-En todo caso, los proyectos de inversión deberán ser presentados a través de las entidades que hacen parte del Presupuesto General de la Nación, atendiendo sus funciones y competencias, con el fin de que estas evalúen su pertinencia, y si así surge de la evaluación, adelanten las actividades previstas en los artículos 2.2.6.3.5, 2.2.6.3.6 y 2.2.6.3.7 del presente decreto para su registro en el Banco Nacional de Programas y Proyectos.
-
-(Decreto 2844 de 2010, artículo 9)
-
-ARTÍCULO
-
-## art:2.2.6.3.3 — Formulación
-
-Durante esta fase de formulación de los proyectos se hará la identificación del título de gasto que atiende el proyecto de conformidad con lo establecido en los artículos 346 de la Constitución Política y 38 del Estatuto Orgánico del Presupuesto, así como la estructuración general del proyecto, incluidas entre otras la definición de las actividades y de las estrategias que los soportan, lo indicadores, la articulación con los planes institucionales y sectoriales, y con el Plan Nacional de Desarrollo, la identificación de la población beneficiaria de la totalidad de sus fuentes de financiación, la regionalización de la inversión y de las variables que sean necesarias para la evaluación previa que soporta la decisión de realizar el proyecto.
-
-Estas actividades serán realizadas en cada entidad por la dependencia responsable de la ejecución del proyecto.
-
-(Decreto 2844 de 2010, artículo 10)
-
-ARTÍCULO
-
-## art:2.2.6.3.4 — Evaluación previa
-
-Una vez formulado el proyecto de inversión pública continuará la fase de evaluación previa del mismo, la cual se surtirá de conformidad con lo establecido en los artículos siguientes y comprenderá la verificación del cumplimiento de los requisitos para la formulación de los proyectos de inversión; la viabilización de los proyectos de inversión y el control posterior a la viabilidad de los proyectos de inversión, actividades que se adelantarán en los términos que señala el presente título.
-
-(Decreto 2844 de 2010, artículo 11)
-
-ARTÍCULO
-
-## art:2.2.6.3.5 — Verificación del cumplimiento de los requisitos para la formulación de los proyectos de inversión
-
-El cumplimiento de los requisitos para la formulación de los proyectos de inversión pública será responsabilidad de la oficina de planeación de la entidad ejecutora o quien haga sus veces, con el fin de avalar:
-
-1. Que la propuesta cuenta con el título de gasto a que hacen referencia los artículos 346 de la Constitución Política y 38 del Estatuto Orgánico del Presupuesto;
-
-2. Que se relaciona con la misión, objetivo y funciones de la entidad;
-
-3. Que las evaluaciones realizadas son confiables técnica, social y económicamente, y que se encuentran en trámite las evaluaciones ambientales y demás autorizaciones requeridas por el proyecto;
-
-4. Que se atendieron los estándares técnicos y metodológicos para la formulación y sostenibilidad económica, financiera, social y ambiental, del mismo;
-
-5. Que se incluye la totalidad de la información requerida para que el proyecto de inversión continúe el trámite ante las demás instancias.
-
-Verificando el cumplimiento de estas condiciones por la oficina de planeación, se entenderá debidamente surtida la verificación del cumplimiento de requisitos para la formulación y se procederá a la remisión del proyecto de inversión por parte del jefe de dicha oficina, o quien haga sus veces en la entidad respectiva, a la entidad a la cual se encuentre adscrita o vinculada en los términos previstos en el artículo siguiente. La remisión del proyecto implica, además del aval de la entidad al proyecto, el compromiso técnico con el mismo.
-
-Las entidades que no hacen parte de la Rama Ejecutiva del Poder Público en el orden nacional surtirán la verificación establecida en este artículo a través de quien sea designado por el jefe de la entidad para tal propósito.
-
-Los ministerios y departamentos administrativos podrán surtir esta verificación a través de quien sea designado por el jefe de la entidad.
-
-(Decreto 2844 de 2010, artículo 12)
-
-ARTÍCULO
-
 ## art:2.2.6.3.6 — Viabilización de los proyectos de inversión
 
 Surtida la verificación del cumplimiento de requisitos para la formulación del proyecto de inversión, este continuara para análisis de la oficina de planeación o quien haga sus veces en el respectivo ministerio o departamento administrativo al cual se encuentre adscrita o vinculada la entidad ejecutora, o de la instancia designada para el efecto en aquellas entidades que no hagan parte de la rama ejecutiva del poder público.
@@ -11322,56 +11228,6 @@ DE LA PROGRAMACIÓN PRESUPUESTAL DE LOS PROYECTOS DE INVERSIÓN PÚBLICA
 
 ARTÍCULO
 
-## art:2.2.6.4.1 — Programación presupuestal de los proyectos de inversión
-
-El Departamento Nacional de Planeación elaborará el Plan Operativo Anual de Inversiones para su aprobación por el Consejo Nacional de Política Económica y Social. Una vez aprobado por el CONPES, el Ministerio de Hacienda y Crédito Público lo incluirá en el proyecto de ley de Presupuesto General de la Nación, de conformidad con lo establecido por el artículo 28 de la Ley 152 de 1994, y por los artículos 8, 37 y 49 del Estatuto Orgánico del Presupuesto.
-
-(Decreto 2844 de 2010, artículo 18)
-
-ARTÍCULO
-
-## art:2.2.6.4.2 — Elaboración del Plan Operativo Anual de Inversiones
-
-El Plan Operativo Anual de Inversiones, se elaborará con base en la información de los proyectos de inversión que se hubieren registrado en el Banco Nacional de Programas y Proyectos a más tardar el 1 de junio del año anterior al que se está programando, atendiendo la disposiciones del presente título.
-
-(Decreto 2844 de 2010, artículo 19)
-
-ARTÍCULO
-
-## art:2.2.6.4.3 — Procedimiento para la elaboración del Plan Operativo Anual de Inversiones
-
-Para la elaboración del Plan Operativo Anual de Inversiones, el Departamento Nacional de Planeación tendrá en cuenta los cupos máximos de inversión por sector administrativo cuando así proceda, y por entidad, acorde con el Marco Fiscal de Mediano Plazo y el Marco de Gasto de Mediano Plazo.
-
-Con base en los cupos definidos y comunicados, cada entidad elaborará una propuesta de distribución entre los proyectos registrados, la cual será remitida al Departamento Nacional de Planeación en la fecha que este señale, por el jefe de la oficina de planeación o quien haga sus veces en la respectiva entidad, previo aval del ministerio o departamento administrativo al cual se encuentre adscrita o vinculada, o de la instancia designada para emitir dicho aval cuando se trate de entidades que no hagan parte de la Rama Ejecutiva del Poder Público.
-
-Con fundamento en el anteproyecto de presupuesto y la propuesta remitida por las entidades y considerando las restricciones presupuestales, las orientaciones de política definidas y el contenido del Plan de Inversiones Públicas del Plan Nacional de Desarrollo, el Departamento Nacional de Planeación procederá a elaborar la propuesta de Plan Operativo Anual de Inversiones que será sometida a aprobación del Consejo Nacional de Política Económica y Social (CONPES), a más tardar el 15 de julio de la vigencia anterior a la que se programa.
-
-En caso de que la entidad no remita al Departamento Nacional de Planeación la propuesta de distribución del cupo de inversión correspondiente en la fecha definida, este ajustará la propuesta de distribución de acuerdo con las prioridades definidas en el Plan Nacional de Desarrollo.
-
-(Decreto 2844 de 2010, artículo 20)
-
-ARTÍCULO
-
-## art:2.2.6.4.4 — Modificaciones a la propuesta de inversiones de la entidad
-
-Si desde el momento en que la entidad remite la propuesta de distribución al Departamento Nacional de Planeación y hasta la presentación del proyecto de Plan Operativo Anual de Inversiones (POAI) al Consejo Nacional de Política Económica y Social (CONPES), surgieran restricciones presupuestales o de política que impliquen una modificación a la propuesta de inversiones, el Departamento Nacional de Planeación podrá adelantar los ajustes requeridos, considerando las prioridades propuestas por la entidad.
-
-(Decreto 2844 de 2010, artículo 21)
-
-ARTÍCULO
-
-## art:2.2.6.4.5 — Regionalización del proyecto de presupuesto de inversión
-
-Para cumplir con la distribución indicativa del presupuesto de inversión por departamentos, según lo dispuesto por el artículo 8 del Estatuto Orgánico del Presupuesto y el artículo 2.8.1.5.1 del Decreto Único Reglamentario del Sector Administrativo de Hacienda y Crédito Público, las entidades a las cuales aplica el presente título deberán identificar en sus proyectos de inversión desde la fase de formulación, el monto de la inversión a realizar en los departamentos. Durante las fases previas a la elaboración del Plan Operativo Anual de Inversiones (POAI), deberán realizar los ajustes a la información sobre regionalización que se requieran.
-
-Una vez sea expedido el decreto de liquidación del presupuesto, las entidades actualizarán la regionalización acorde con las apropiaciones. De igual forma este ejercicio procederá en cualquier otro momento durante el ciclo del proyecto de inversión, cuando se realicen modificaciones a las condiciones iniciales del proyecto a las apropiaciones correspondientes al mismo, y en consecuencia se requiera ajustar la regionalización.
-
-El Departamento Nacional de Planeación tendrá a disposición de la ciudadanía la información sobre regionalización.
-
-(Decreto 2844 de 2010, artículo 22)
-
-ARTÍCULO
-
 ## art:2.2.6.4.6 — Modificaciones al proyecto de presupuesto de inversión
 
 Sin perjuicio de lo establecido por el artículo 60 del Estatuto Orgánico del Presupuesto, las propuestas de modificación que realicen las entidades al componente de inversión del proyecto de Ley Anual de Presupuesto serán suscritas por el representante legal y remitidas al Departamento Nacional de Planeación para su evaluación, concepto favorable y trámite ante el Ministerio de Hacienda y Crédito Público.
@@ -11386,58 +11242,6 @@ DE LA EJECUCIÓN DE LOS PROYECTOS DE INVERSIÓN PÚBLICA
 
 ARTÍCULO
 
-## art:2.2.6.5.1 — Actualización de los proyectos de inversión
-
-La actualización de los proyectos de inversión tiene como propósito garantizar la consistencia entre la estructuración de los proyectos de inversión que han sido registrados en el Banco Nacional de Programas y Proyectos y las apropiaciones contenidas en la Ley Anual del Presupuesto o en las autorizaciones para comprometer presupuesto de vigencias futuras aprobadas.
-
-La actualización procederá durante el ciclo del proyecto de inversión cuando se determinen cambios en las condiciones iniciales del proyecto que impliquen ajustes al mismo. Para este fin se realizará un análisis de coherencia técnica y presupuestal con el fin de establecer si el proyecto ajustado a las condiciones presupuestales definidas para su ejecución cumple con los objetivos y las metas propuestas, si demanda ajuste en el tiempo y/o requerimiento futuro de recursos, para proceder a la reprogramación física y financiera del proyecto así como a la reprogramación de las metas anuales, entre otros aspectos.
-
-En todo caso, cualquier actualización a un proyecto de inversión requerirá del cumplimiento de los requisitos contenidos en los artículos 2.2.6.3.5, 2.2.6.3.6 y 2.2.6.3. 7 del presente decreto.
-
-(Decreto 2844 de 2010, artículo 24)
-
-ARTÍCULO
-
-## art:2.2.6.5.2 — Actualizaciones obligatorias de los proyectos de inversión
-
-Procederá la actualización de los proyectos de inversión en los siguientes eventos:
-
-1. Cuando al momento de iniciar la ejecución de los proyectos de inversión se requiera adelantar el ajuste de las condiciones definidas en el Banco Nacional de Programas y Proyectos frente a las apropiaciones contenidas en la Ley Anual de Presupuesto y su respectivo Decreto de Liquidación.
-
-2. De manera previa a la realización de modificaciones a las apropiaciones presupuestales que afecten los proyectos de inversión.
-
-3. Cuando se considere que la ejecución de los proyectos de inversión se extenderá a otras vigencias fiscales y se espere recibir recursos del Presupuesto General de la Nación durante las mismas.
-
-4. Cuando se requiera adelantar el ajuste de los proyectos de inversión cuya ejecución se encuentre sujeta al cumplimiento de lo previsto por el inciso final del artículo 2.2.6.3.7 del presente decreto.
-
-(Decreto 2844 de 2010, artículo 25)
-
-ARTÍCULO
-
-## art:2.2.6.5.3 — Ajustes que implican la formulación de un nuevo proyecto de inversión
-
-Cuando la variación en las condiciones de un proyecto de inversión en ejecución en el Banco Nacional de Programas y Proyectos implique la revisión y ajuste del nombre del proyecto, de sus objetivos, o la inclusión de nuevas actividades que no sean coherentes con el objetivo del mismo, corresponderá a la entidad responsable de su ejecución formular y adelantar la evaluación previa de un nuevo proyecto de inversión en los términos que señala el presente título.
-
-(Decreto 2844 de 2010, artículo 26)
-
-CAPÍTULO 6
-
-DEL SEGUIMIENTO A LOS PROYECTOS DE INVERSIÓN PÚBLICA
-
-ARTÍCULO
-
-## art:2.2.6.6.1 — Seguimiento a los proyectos de inversión pública
-
-De conformidad con lo dispuesto en los artículos 92 y 93 del Estatuto Orgánico del Presupuesto, corresponde al Departamento Nacional de Planeación hacer el seguimiento a los proyectos de inversión pública, para lo cual utilizará el Sistema de Información de Seguimiento a Proyectos de Inversión Pública de que tratan los artículos 2.2.6.1.1.1 al 2.2.6.1.1.3 del presente decreto, y que se integra al Sistema Unificado de Inversión Pública.
-
-El seguimiento a los proyectos de inversión se basará como mínimo en los indicadores y metas de gestión y de producto, en el cronograma y en la regionalización, de conformidad con la información contenida en el Banco Nacional de Programas y Proyectos (BPIN), para la formulación del proyecto, así como en la información de ejecución presupuestal registrada en el SIIF. Esta información permitirá reflejar los avances físicos, financieros, cronológicos y regionales, y conocer el estado del proyecto frente a los objetivos definidos.
-
-La información que se suministre sobre los avances que el proyecto obtiene durante la vigencia presupuestal será responsabilidad de la entidad ejecutora del mismo.
-
-(Decreto 2844 de 2010, artículo 27)
-
-ARTÍCULO
-
 ## art:2.2.6.6.2 — Reportes de seguimiento a los proyectos de inversión
 
 Las entidades ejecutoras deberán reportar mensualmente al sistema que administra el Departamento Nacional de Planeación el avance logrado por el proyecto durante ese período.
@@ -11449,54 +11253,6 @@ Las oficinas de planeación de las entidades ejecutoras, o quien haga sus veces,
 CAPÍTULO 7
 
 DE LA EVALUACIÓN POSTERIOR A LOS PROYECTOS DE INVERSIÓN PÚBLICA
-
-ARTÍCULO
-
-## art:2.2.6.7.1 — Evaluación posterior de los proyectos de inversión pública
-
-Con el propósito de garantizar la asignación y ejecución eficiente y efectiva de los recursos de inversión, y en cumplimiento a lo dispuesto en la Ley 152 de 1994, se realizarán evaluaciones posteriores de los proyectos de inversión en que se requiera, de acuerdo a los criterios definidos por el Departamento Nacional de Planeación.
-
-(Decreto 2844 de 2010, artículo 29)
-
-CAPÍTULO 8
-
-DISPOSICIONES FINALES
-
-ARTÍCULO
-
-## art:2.2.6.8.1 — Suministro de información por parte de las entidades territoriales
-
-De conformidad con lo establecido en el Título 4, Parte 6, Libro 2 del Decreto Único Reglamentario del Sector Administrativo de Hacienda y Crédito, las entidades territoriales suministrarán la información que demande el sistema frente a los recursos de inversión pública transferidos del Presupuesto General de la Nación por concepto de regalías, del Sistema General de Participaciones, u otros conceptos.
-
-(Decreto 2844 de 2010, artículo 30)
-
-ARTÍCULO
-
-## art:2.2.6.8.2 — 8.2
-
-Suministro de información por parte de las Empresas Industriales del Estado y de las Sociedades de Economía Mixta con el régimen de aquellas. Las empresas industriales y comerciales del Estado y las sociedades de economía mixta con el régimen de aquellas, suministrarán la información que demande el sistema frente a los recursos de inversión pública.
-
-(Decreto 2844 de 2010, artículo 31)
-
-ARTÍCULO
-
-## art:2.2.6.8.3 — Red Nacional de Bancos de Proyectos
-
-De conformidad con lo establecido en el artículo 49 de la Ley 152 de 1994, el Departamento Nacional de Planeación podrá organizar las metodologías, criterios y procedimientos que permitan integrar los bancos de programas y proyectos y los sistemas de información con que cuenten las entidades territoriales a una Red Nacional de Bancos de Programas y Proyectos, siempre que dichos sistemas hayan cumplido con los requisitos necesarios para su integración o articulación.
-
-(Decreto 2844 de 2010, artículo 32)
-
-TÍTULO 7
-
-SEGUIMIENTO Y EVALUACIÓN DE POLÍTICAS PÚBLICAS
-
-CAPÍTULO 1
-
-SISTEMA NACIONAL DE EVALUACIÓN DE GESTIÓN Y RESULTADOS (SINERGIA)
-
-SECCIÓN 1
-
-OBJETO Y COBERTURA DEL SISTEMA
 
 ARTÍCULO
 
