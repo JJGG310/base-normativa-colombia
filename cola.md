@@ -219,9 +219,11 @@ fuente (el `<select>` de la página). Hoy: **0 faltantes en las 57 normas de sen
 (el buscador es JS). Sale de una búsqueda web contra `funcionpublica.gov.co`, y una
 vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a name>`):
 `ingesta_gestor.py` las corta por el encabezado en línea propia.
-- [!] `co:decreto:1165:2019` — Regulación Aduanera: no está en senado, no está en el
-  índice de DUR y tampoco aparece en el Gestor (2026-09-11). Las normas que lo citan
-  sí están; el texto habrá que sacarlo de la DIAN, con otro parser.
+- [x] `co:decreto:1165:2019` — Regulación Aduanera: **775 artículos**, del normograma
+  de la DIAN (`normograma.dian.gov.co/dian/compilacion/docs/decreto_1165_2019.htm`).
+  Lo publica el mismo proveedor que senado, así que `ingesta_senado.py` lo cargó sin
+  un solo cambio. Faltan sus afectaciones: las notas de vigencia de esa fuente no
+  viven en `js/`.
 - [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
 - [x] DUR vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1069 justicia (1.492),
   1072 trabajo (1.415), 1074 comercio (2.123), 1076 ambiente (1.975), 1077 vivienda
@@ -258,9 +260,26 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
 - [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
   providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
   no un tick más. Las fichas ya sirven sin esto.
-- [ ] Consejo de Estado y Corte Suprema: otra fuente, otro parser. Hoy el corpus solo
-  tiene Corte Constitucional, y eso deja fuera casación civil, laboral y penal, y todo
-  el contencioso. Es el hueco más grande que queda después de P3.
+- [~] **Corte Suprema: abierta** con `ingesta_cendoj.py` (`./cargar_csj.sh`). 92 fichas
+  de arranque (civil, laboral, penal, 2024-2025), con texto íntegro.
+  Tres cosas que definen esta fuente:
+  1. El GraphQL (`consultaprovidenciasbk.cortesuprema.gov.co/api`) **exige término de
+     búsqueda**: con la consulta vacía devuelve 0. No hay forma de pedir «todo el año»,
+     así que se rastrilla por términos amplios y se deduplica. La cobertura es la de
+     los términos, no la de la Corte: subir `--limite`, agregar años o agregar términos
+     es la perilla.
+  2. `getContentSearch` **no devuelve el texto completo**: da una vista previa con
+     elisiones `(…)` alrededor de lo buscado. Las primeras fichas salieron con huecos y
+     se borraron. El texto íntegro se baja del `.docx` por `downloadFile` y se extrae
+     con `zipfile` de la stdlib.
+  3. La misma providencia aparece en `.pdf` y en `.docx`: solo se toma el `.docx`. Lo
+     que la Corte publica únicamente en PDF se salta.
+- [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` (el backend real es un JSF
+  en `http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`, con
+  `FileReferenceServlet?corp=ce&ext=html&file={ID}` para el texto). Falta el parser.
+- [ ] El grafo no conecta la Corte Suprema con la normativa: sus providencias no
+  afectan vigencia, así que entran sin aristas. Si se quiere que un artículo muestre
+  «qué dijo la casación», hay que extraer las citas del propio texto.
 
 ---
 

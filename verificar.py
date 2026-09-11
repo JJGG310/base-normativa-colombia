@@ -16,13 +16,19 @@ OPCION = re.compile(r'<option value="[^"]*#(\d+[A-Za-z]?)"[^>]*>\s*([^<]+?)\s*</
 
 
 def indice_fuente(url):
-    """Números de artículo que la fuente lista en su propio selector."""
-    nums = set()
+    """Números de artículo que la fuente lista en su propio selector.
+
+    El normograma de la DIAN no trae selector: ahí el índice son los encabezados."""
+    from ingesta_senado import limpiar
+    nums, encabezados = set(), set()
     for _, doc in paginas(url):
         for ancla, etiqueta in OPCION.findall(doc):
             if re.fullmatch(r"\d+[A-Za-z]?", etiqueta):
                 nums.add(etiqueta.upper())
-    return nums
+        # "ARTÍCULO 1o." es el artículo 1: la `o` es el ordinal, no un sufijo.
+        encabezados |= {re.sub(r"(?<=\d)[OºO°]$", "", m.group(1).upper()) for m in
+                        re.finditer(r"(?im)^ART[IÍ]CULO\s+(\d+[A-Za-z]?)", limpiar(doc))}
+    return nums or encabezados
 
 
 def indice_gestor(url):
@@ -40,7 +46,9 @@ def revisar(ruta):
     if not fuente:
         return None
     propios = {n.upper() for n in re.findall(r"^## art:(\S+)", texto, re.M)}
-    if "secretariasenado" in fuente.group(1):
+    # El normograma de la DIAN lo publica el mismo proveedor que senado: mismo
+    # selector de artículos, mismo formato.
+    if "secretariasenado" in fuente.group(1) or "normograma.dian" in fuente.group(1):
         fuente_nums = indice_fuente(fuente.group(1))
     elif "funcionpublica" in fuente.group(1):
         fuente_nums = indice_gestor(fuente.group(1))
