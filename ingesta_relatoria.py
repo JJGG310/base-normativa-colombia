@@ -14,7 +14,7 @@ lo que el modelo crea recordar.
 La `subregla` redactada (esquema.md §4) NO la produce este script: eso exige leer la
 sentencia y se reserva para las marcadas `hito`.
 """
-import argparse, html, os, re, sqlite3, sys, time, urllib.request
+import argparse, html, os, re, sqlite3, sys, time, urllib.error, urllib.request
 from datetime import date
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
@@ -53,6 +53,11 @@ def bajar(url):
                     fh.write(doc)
                 return doc
             ultimo = "respuesta de %d bytes" % len(doc)
+        except urllib.error.HTTPError as e:
+            # Un 404 no mejora reintentando: la sentencia no está en esa URL.
+            if e.code in (404, 410):
+                raise RuntimeError("%s: no existe (HTTP %d)" % (url, e.code))
+            ultimo = e
         except Exception as e:
             ultimo = e
         time.sleep(2 * (intento + 1))
@@ -66,14 +71,18 @@ def plano(doc):
 
 # El descriptor es una corrida de MAYÚSCULAS que termina en `-`. No sirve partir por
 # `/`: los descriptores consecutivos van pegados, sin separador entre ellos.
+# El guion separador aparece de las dos formas: "CONCEPTO- restrictor" y
+# "CONCEPTO -restrictor". Exigir solo una perdía un tercio de las fichas.
 RE_DESCRIPTOR = re.compile(
-    r"(?:^|\s|/)([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ0-9]*(?:\s+[A-ZÁÉÍÓÚÑÜ0-9,.()]+){0,9})-\s+")
+    r"(?:^|\s|/)([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ0-9]*(?:\s+[A-ZÁÉÍÓÚÑÜ0-9,.()]+){0,9})\s*-\s*(?=[A-Za-zÁÉÍÓÚÑáéíóúñ])")
 
 
 def descriptores(txt):
     """El bloque de apertura: `CONCEPTO EN MAYÚSCULAS- restrictor`, uno tras otro."""
+    # "Referencia" a veces va ANTES de los descriptores (C-707/05 la trae en la
+    # posición 9): solo sirve de frontera si aparece lo bastante adelante.
     corte = txt.find("Referencia")
-    cabeza = txt[:corte if 0 < corte < 6000 else 4000]
+    cabeza = txt[:corte if 400 < corte < 6000 else 6000]
     marcas = list(RE_DESCRIPTOR.finditer(cabeza))
     salida = []
     for k, m in enumerate(marcas):
@@ -81,33 +90,48 @@ def descriptores(txt):
         restrictor = " ".join(cabeza[m.end():fin].strip(" /").split())
         if len(restrictor) > 240:                 # la fuente le pega extractos del cuerpo
             restrictor = restrictor[:240].rsplit(" ", 1)[0] + "…"
+        etiqueta = " ".join(m.group(1).split())
+        # Encabezados de la propia página, no descriptores de la sentencia.
+        if etiqueta in ("TEMAS", "SUBTEMAS", "TEMAS-SUBTEMAS") or restrictor.startswith("SUBTEMAS"):
+            continue
         if len(restrictor) >= 5:
-            salida.append("%s — %s" % (" ".join(m.group(1).split()), restrictor))
+            salida.append("%s — %s" % (etiqueta, restrictor))
     return salida
 
 
 def resuelve(txt):
-    """La parte resolutiva es la ÚLTIMA aparición de RESUELVE: las anteriores son
-    citas dentro del cuerpo de la providencia."""
-    i = txt.upper().rfind("RESUELVE")
-    if i < 0:
+    """La parte resolutiva es la última aparición de RESUELVE **en mayúsculas**.
+
+    No sirve buscar sin distinguir caso: el cuerpo de las providencias dice cosas
+    como "resuelve un recurso de casación", y esa prosa se colaba como si fuera la
+    decisión (pasó con C-284/15).
+    """
+    # Las providencias viejas espacian las letras: "R E S U E L V E".
+    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b", txt)]
+    if not marcas:
+        marcas = [m for m in re.finditer(r"(?i)\bresuelve\b\s*:?\s*(?=PRIMERO|[ÚU]NICO)", txt)]
+    if not marcas:
         return ""
-    cuerpo = txt[i + len("RESUELVE"):]
+    i = marcas[-1].start()
+    cuerpo = txt[marcas[-1].end():]
     fin = re.search(r"(Notif[ií]quese|C[óo]piese|Cumplase|C[úu]mplase)", cuerpo)
     return cuerpo[:fin.start() if fin else 4000].strip(" .:-")
 
 
 def decision_de(res):
     alto = res.upper()
-    inex = "INEXEQUIB" in alto
+    inex = re.search(r"INEXEQ", alto) is not None
+    # "EXEQUIBLE" es subcadena de "INEXEQUIBLE": sin el lookbehind, un fallo que
+    # declara exequible se clasificaba como inexequible (pasó con C-951/14).
+    exeq = re.search(r"(?<!IN)EXEQ", alto) is not None
     cond = "CONDICIONAD" in alto or "EN EL ENTENDIDO" in alto
-    if inex and (cond or "EXEQUIBILIDAD" in alto):
+    if inex and (cond or exeq):
         return "inexequible-parcial"
     if inex:
         return "inexequible"
     if cond:
         return "exequible-condicionado"
-    if "EXEQUIB" in alto:
+    if exeq:
         return "exequible"
     if "INHIBIRSE" in alto or "INHIBIDA" in alto:
         return "inhibitoria"
@@ -121,16 +145,24 @@ def metadatos(txt):
     m = re.search(r"Expediente[s]?:?\s*([A-Z]{1,3}-[\d\.]+(?:\s*(?:y|,)\s*[A-Z]{0,3}-?[\d\.]+)*)", txt)
     if m:
         meta["expediente"] = " ".join(m.group(1).split())
-    m = re.search(r"Magistrad[oa]\s+(?:Ponente|Sustanciador[a]?)\s*:?\s*"
-                  r"([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s]{6,60}?)\s*(?:\.|Bogot|La\s+Sala|SENTENCIA|I\.\s)", txt)
+    # El nombre puede venir precedido de "Dr."/"Dra.", cuyo punto cortaba la captura.
+    m = re.search(r"Magistrad[oa]s?\s+(?:Ponente|Sustanciador[a]?)\s*:?\s*(?:Dra?\.?\s*)?"
+                  r"([A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ\s]{6,60}?)\s*(?:\.|,|Bogot|Santaf|La\s+Sala|SENTENCIA|I\.\s)", txt)
     if m:
         meta["ponente"] = " ".join(m.group(1).split()).title()
     zona = txt[max(0, txt.find("Bogot")):][:400] or txt[:4000]
-    m = re.search(r"(?:\((\d{1,2})\)|\b(\d{1,2}))\s+de\s+(%s)\s+de\s+"
-                  r"(?:[a-záéíóúñ\s]*?\()?(\d{4})" % "|".join(MESES), zona, re.I)
-    if m:
-        dia = m.group(1) or m.group(2)
-        meta["fecha"] = "%s-%02d-%02d" % (m.group(4), MESES[m.group(3).lower()], int(dia))
+    meses = "|".join(MESES)
+    # Dos órdenes conviven: "29 de junio de 2000" y "junio veintinueve (29) de 2000".
+    for patron, gd, gm, ga in (
+            (r"(?:\((\d{1,2})\)|\b(\d{1,2}))\s+de\s+(%s)\s+de\s+(?:[a-záéíóúñ\s]*?\()?(\d{4})" % meses,
+             (1, 2), 3, 4),
+            (r"(%s)\s+[a-záéíóúñ\s]*?\((\d{1,2})\)\s+de\s+(?:[a-záéíóúñ\s]*?\()?(\d{4})" % meses,
+             (2,), 1, 3)):
+        m = re.search(patron, zona, re.I)
+        if m:
+            dia = next((m.group(g) for g in gd if m.group(g)), None)
+            meta["fecha"] = "%s-%02d-%02d" % (m.group(ga), MESES[m.group(gm).lower()], int(dia))
+            break
     meta["sala"] = "plena" if re.search(r"\bSala\s+Plena\b", txt) else (
         "revision" if re.search(r"Sala\s+\w+\s+de\s+Revisi", txt) else "plena")
     return meta
@@ -155,6 +187,12 @@ def ficha(sid, con=None):
     if not desc and not res:
         raise RuntimeError("%s: ni descriptores ni parte resolutiva — revisar la fuente" % sid)
     meta = metadatos(txt)
+    # Si el año de la fecha no coincide con el del ID, la página no es la sentencia
+    # que se pidió (suele ser un auto de corrección posterior). Sin fecha es honesto;
+    # con la fecha equivocada, no: C-105/94 quedó fechada en 1995 por esto.
+    anio_id = sid.rsplit(":", 1)[1]
+    if meta.get("fecha") and not meta["fecha"].startswith(anio_id):
+        meta["aviso"] = "la fuente trae fecha %s, distinta del año del ID" % meta.pop("fecha")
     ramas = ramas_de(sid, con)
 
     fm = ["---", "id: " + sid, "tipo: sentencia", "corporacion: corte-constitucional",
@@ -167,6 +205,8 @@ def ficha(sid, con=None):
            "decision: " + (decision_de(res) or "sin-determinar"),
            "afectaciones: cargadas",
            "fuente: " + url, "verificado: " + date.today().isoformat(), "---", ""]
+    if meta.get("aviso"):
+        fm.insert(-2, "aviso: " + meta["aviso"])
     if desc:
         fm += ["## descriptores", "", "\n".join("- " + d for d in desc), ""]
     if res:
@@ -188,6 +228,11 @@ def check():
            "entendido de que la nulidad debe alegarse. Notifíquese y cúmplase")
     d = descriptores(txt)
     assert len(d) >= 3, d
+    # La otra forma del separador, y "Referencia" antes de los descriptores.
+    otra = ("C-050-24 TEMAS-SUBTEMAS Sentencia C-050/24 PRINCIPIO DE IGUALDAD EN MATERIA PENAL "
+            "-No se vulnera en norma que establece rebaja punitiva DEBIDO PROCESO -Alcance")
+    d2 = descriptores(otra)
+    assert any(x.startswith("PRINCIPIO DE IGUALDAD EN MATERIA PENAL —") for x in d2), d2
     assert d[0].startswith("DEMANDA DE INCONSTITUCIONALIDAD —"), d[0]
 
     r = resuelve(txt)
@@ -197,6 +242,19 @@ def check():
 
     assert decision_de(r) == "inexequible-parcial", decision_de(r)
     assert decision_de("DECLARAR EXEQUIBLE el artículo") == "exequible"
+    # "EXEQUIBLE" vive dentro de "INEXEQUIBLE": no puede confundirlos.
+    assert decision_de("Declarar INEXEQUIBLE el artículo 5") == "inexequible"
+    assert decision_de("Primero.- Declarar EXEQUIBLE el Proyecto de Ley Estatutaria") == "exequible"
+    assert decision_de("PRIMERO. INEXEQUIBLE el inciso 2. SEGUNDO. EXEQUIBLE el resto") == "inexequible-parcial"
+    # Errata de la fuente: "INEXEQIBLES" sin la U (C-990/06).
+    assert decision_de("Declarar INEXEQIBLES las expresiones fijada por peritos") == "inexequible"
+
+    # Fórmula resolutiva con letras espaciadas, propia de las providencias viejas.
+    viejo = ("texto del cuerpo. R E S U E L V E : Declarar EXEQUIBLES los artículos 828 del "
+             "Decreto 410 de 1971. Notifíquese")
+    rv = resuelve(viejo)
+    assert rv.startswith("Declarar EXEQUIBLES"), rv[:60]
+    assert decision_de(rv) == "exequible", decision_de(rv)
     assert decision_de("INHIBIRSE de emitir pronunciamiento") == "inhibitoria"
 
     m = metadatos(txt)

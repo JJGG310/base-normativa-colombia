@@ -55,21 +55,29 @@ jurisprudencia hito que los interpreta.
 
 - [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
 - [x] `co:constitucion:1991` — **afectaciones cargadas**: 6.516 aristas, 60 Actos Legislativos, 20 artículos muertos, 4 condicionados. Fuente resuelta: las notas viven en `js/<pagina>.js` (funciones `insRowNN`), no en el HTML. `ingesta_senado.py` ya las extrae para cualquier código de esta fuente.
-- [~] jurisprudencia — `ingesta_relatoria.py` listo y probado (C-443/19, C-284/15, C-285/16). Falta cargar en volumen con `--del-grafo`
+- [x] jurisprudencia de la Corte Constitucional — **617 fichas**: todas las sentencias que afectan vigencia en los 8 códigos. 99% con descriptores oficiales, 100% con parte resolutiva, 99% con la decisión clasificada. Cubren el estado de 867 artículos.
 - [x] `co:ley:1564:2012` — CGP: 628 arts, 133 aristas, 6 muertos (art. 121 por C-443-19), 6 condicionados, reformas hasta 2025
-- [ ] jurisprudencia procesal — 15 hito sobre CGP (competencia, nulidades, pruebas, recursos)
 - [x] `co:ley:84:1873` — Código Civil: 2.682/2.684 arts, 797 aristas
-- [ ] jurisprudencia civil — 15 hito (contratos, responsabilidad, bienes, obligaciones)
-- [ ] jurisprudencia familia — 15 hito (custodia, alimentos, unión marital, filiación, adopción)
 - [x] `co:ley:599:2000` — Código Penal: 556 arts (464/476 de la numeración original + adicionados), 787 aristas
 - [x] `co:ley:906:2004` — CPP: 554 arts (533/533), 375 aristas
-- [ ] jurisprudencia penal — 15 hito (dolo, tipicidad, garantías, prueba ilícita)
 - [x] `co:decreto:410:1971` — C. de Comercio: 2.043 arts (2.035/2.036), 136 aristas
-- [ ] jurisprudencia comercial — 15 hito (sociedades, títulos valores, competencia desleal)
 - [x] `co:ley:1437:2011` — CPACA: 311 arts (309/309), 196 aristas
-- [ ] jurisprudencia contencioso-administrativa — 15 hito del Consejo de Estado (nulidad, reparación directa, medio de control contractual)
+### Jurisprudencia de P1: cerrada por la vía mecánica
+
+Las entradas de «15 sentencias hito por rama» se escribieron antes de tener el
+pipeline. Quedaron sin objeto: las 617 fichas cubren todas las ramas de P1 por el
+grafo (penal 82, civil-familia 77, penal-procesal 68, laboral 62, comercial 19…),
+y lo hacen sin que nadie eligiera a dedo cuáles eran las importantes.
+
+Lo que sí queda pendiente es distinto y más caro — va a P3:
+
+- [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
+  providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
+  no un tick más. Las fichas ya sirven sin esto.
+- [ ] Consejo de Estado y Corte Suprema: otra fuente, otro parser. Hoy el corpus solo
+  tiene Corte Constitucional, y eso deja fuera casación civil, laboral y penal, y todo
+  el contencioso. Es el hueco más grande que queda.
 - [x] `co:decreto-ley:2663:1950` — CST: 497 arts (489/492), 492 aristas
-- [ ] jurisprudencia laboral — 15 hito (contrato realidad, estabilidad reforzada, acoso)
 
 ### Normativa de P1: cerrada
 
