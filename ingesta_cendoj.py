@@ -17,10 +17,11 @@ su texto es justo lo que este proyecto no puede permitirse. Se baja el .docx ori
 `downloadFile` y se extrae de `word/document.xml`. Las providencias que la Corte solo
 publica en PDF se saltan: se anotan, no se rellenan.
 
-La sala PENAL no se puede cargar hoy: `downloadFile` devuelve 404 para todas sus rutas
-(probado con cuatro variantes el 2026-09-11), y la vista previa del API no sirve de
-reemplazo — además de elidir, mete espacios dentro de las palabras para resaltar los
-términos («R a dic a ción»). Civil y laboral funcionan.
+La sala PENAL: el buscador indexa una ruta con la carpeta del magistrado
+(`PENAL/<año>/Dr. X/Sentencia/<archivo>`) que no existe en el storage real — el archivo
+vive en `PENAL/<año>/<archivo>`, sin esa carpeta intermedia. `downloadFile` con la ruta
+tal cual devuelve 404; con la ruta recortada, 200. Confirmado 2026-09-19 contra 5
+providencias de 2022 a 2025.
 """
 import argparse, html, io, json, os, re, sys, time, urllib.request, zipfile
 from datetime import date
@@ -61,6 +62,15 @@ def buscar(sala, anio, termino, start=0, clase=""):
          '{ id title doctor fechaCreacion ano autoSentencia } } }'
          % (termino.replace('"', ''), sala, start, anio, clase))
     return consultar(q)["getSearchResult"]
+
+
+def ruta_real(doc_path, sala):
+    """PENAL: el buscador mete una carpeta de magistrado que no existe en el storage
+    real; el archivo vive en PENAL/<año>/<archivo>, sin ella."""
+    if sala != "PENAL":
+        return doc_path
+    m = re.match(r"(/var/www/html/Index/PENAL/\d{4}/)", doc_path)
+    return m.group(1) + doc_path.rsplit("/", 1)[-1] if m else doc_path
 
 
 def contenido(doc_path):
@@ -167,7 +177,7 @@ def main():
                 vistos.add(sid)
                 time.sleep(a.pausa)
                 try:
-                    texto = contenido(res["id"])
+                    texto = contenido(ruta_real(res["id"], a.sala))
                 except Exception as e:
                     print("  [!] %s: %s" % (sid, e))
                     fallos += 1
@@ -224,6 +234,11 @@ def check():
     assert "CASAR la sentencia." in resuelve(t), resuelve(t)
     # Sin marca de parte resolutiva no se inventa una.
     assert resuelve("Texto sin resolutiva") == ""
+
+    penal = "/var/www/html/Index/PENAL/2024/Dr. Gerson Chaverra Castro/Sentencia/SP1900-2024(58712).docx"
+    assert ruta_real(penal, "PENAL") == "/var/www/html/Index/PENAL/2024/SP1900-2024(58712).docx"
+    civil = "/var/www/html/Index/CIVIL/2024/Dra. X/12.- Diciembre/Sentencias/SC1-2024.docx"
+    assert ruta_real(civil, "CIVIL") == civil, "solo PENAL se recorta"
 
     sid, md = ficha({"title": "SL1234-2025 [2020-00111-01].pdf", "doctor": "Dra. Ana Ruiz",
                      "fechaCreacion": "2025-03-04T10:00:00Z", "ano": 2025,

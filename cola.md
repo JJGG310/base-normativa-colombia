@@ -55,7 +55,7 @@ jurisprudencia hito que los interpreta.
 
 - [x] `co:constitucion:1991` — Constitución Política · **texto cargado**: 380 arts + 78 transitorios (incluidos los de los AL 02/2017 y 02/2021). `afectaciones: pendiente`
 - [x] `co:constitucion:1991` — **afectaciones cargadas**: 6.516 aristas, 60 Actos Legislativos, 20 artículos muertos, 4 condicionados. Fuente resuelta: las notas viven en `js/<pagina>.js` (funciones `insRowNN`), no en el HTML. `ingesta_senado.py` ya las extrae para cualquier código de esta fuente.
-- [x] jurisprudencia de la Corte Constitucional — **617 fichas**: todas las sentencias que afectan vigencia en los 8 códigos. 99% con descriptores oficiales, 100% con parte resolutiva, 99% con la decisión clasificada. Cubren el estado de 867 artículos.
+- [x] jurisprudencia de la Corte Constitucional — **3.517 fichas** (crecida desde las 617 iniciales por rastrillo de más descriptores/años). 99% con descriptores oficiales, 100% con parte resolutiva, 99% con la decisión clasificada.
 - [x] `co:ley:1564:2012` — CGP: 628 arts, 133 aristas, 6 muertos (art. 121 por C-443-19), 6 condicionados, reformas hasta 2025
 - [x] `co:ley:84:1873` — Código Civil: 2.682/2.684 arts, 797 aristas
 - [x] `co:ley:599:2000` — Código Penal: 556 arts (464/476 de la numeración original + adicionados), 787 aristas
@@ -212,8 +212,7 @@ fuente (el `<select>` de la página). Hoy: **0 faltantes en las 57 normas de sen
 - [x] `co:decreto:663:1993` — Estatuto Orgánico del Sistema Financiero: 339 arts, `i=1348`
 - [x] `co:decreto-ley:2158:1948` — Código Procesal del Trabajo: 155 arts, `i=5259`.
   Era el hueco más raro del corpus: estaba el CST sin su procesal.
-- [ ] `co:decreto:1377:2013` — reglamento de datos personales (404 en senado; falta
-  ubicar su `i=` en el Gestor)
+- [x] `co:decreto:1377:2013` — reglamento de datos personales: 28 arts, vía Gestor `i=53646`
 
 **Buscar el `i=` de una norma en el Gestor**: no hay endpoint de búsqueda usable
 (el buscador es JS). Sale de una búsqueda web contra `funcionpublica.gov.co`, y una
@@ -260,9 +259,10 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
 - [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
   providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
   no un tick más. Las fichas ya sirven sin esto.
-- [~] **Corte Suprema: abierta** con `ingesta_cendoj.py` (`./cargar_csj.sh`).
-  **840 providencias** de casación civil y laboral (2022-2025), con texto íntegro.
-  Tres cosas que definen esta fuente:
+- [x] **Corte Suprema: abierta**, las tres salas con texto íntegro. `ingesta_cendoj.py`
+  (`./cargar_csj.sh`). **1.061 providencias**: 840 civil/laboral (2022-2025) + 206 penal
+  (2022-2025, cargada el 2026-09-19 tras resolver el punto 4). Cuatro cosas definen
+  esta fuente:
   1. El GraphQL (`consultaprovidenciasbk.cortesuprema.gov.co/api`) **exige término de
      búsqueda**: con la consulta vacía devuelve 0. No hay forma de pedir «todo el año»,
      así que se rastrilla por términos amplios y se deduplica. La cobertura es la de
@@ -276,10 +276,13 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
      que la Corte publica únicamente en PDF se salta — y hay salas-año enteras así
      (laboral 2023: 12.950 providencias, ni un `.docx`). Leerlas exigiría un extractor
      de PDF, que es una dependencia nueva: decisión pendiente, no un tick.
-  4. **La sala penal no se puede cargar**: `downloadFile` devuelve 404 para todas sus
-     rutas (probadas cuatro variantes el 2026-09-11). La vista previa del API no sirve
-     de reemplazo: además de elidir, parte las palabras para resaltar los términos
-     («R a dic a ción»). Queda pendiente encontrar por dónde sirve esos archivos.
+  4. **Sala penal — resuelto (2026-09-19)**: no era que la fuente no sirviera los
+     archivos, era la ruta. El buscador indexa
+     `PENAL/<año>/Dr. X/Sentencia/<archivo>`, pero el storage real no tiene esa
+     carpeta de magistrado: vive en `PENAL/<año>/<archivo>`. `downloadFile` con la
+     ruta tal cual daba 404; recortada, 200. Confirmado contra 5 providencias
+     (2022-2025) antes de cargar las 206. `ruta_real()` en `ingesta_cendoj.py` hace
+     el recorte, solo para PENAL.
 - [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` **redirige a
   `samai.consejodeestado.gov.co`** (ASP.NET WebForms: `__VIEWSTATE`), que es el sistema
   vivo. El backend JSF viejo (`http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`,
