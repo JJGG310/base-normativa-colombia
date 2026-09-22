@@ -46,6 +46,13 @@ co:<tipo>:<numero>:<anio>[:art:<articulo>]
 Artículos con sufijo: `art:82a` (art. 82A), `art:82-1` (art. 82-1).
 Parágrafos e incisos **no** son nodos propios: van dentro del texto del artículo.
 
+**Derecho comunitario** (no lo expide el Congreso colombiano, pero aplica directo en
+Colombia): prefijo propio, nunca `co:`.
+```
+can:decision:<numero>:<anio>[:art:<articulo>]
+```
+Ejemplo: `can:decision:486:2000:art:134` (Comunidad Andina, propiedad industrial).
+
 ### Jurisprudencia
 ```
 co:<corporacion>:<sala-o-tipo>-<numero>:<anio>

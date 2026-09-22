@@ -241,7 +241,15 @@ vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a na
   Lo publica el mismo proveedor que senado, así que `ingesta_senado.py` lo cargó sin
   un solo cambio. Faltan sus afectaciones: las notas de vigencia de esa fuente no
   viven en `js/`.
-- [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
+- [x] `can:decision:486:2000` — propiedad industrial: 280 arts + 3 transitorias, vía
+  `ingesta_can.py` (nuevo). Fuente: PDF oficial de FAO Lex
+  (`faolex.fao.org/docs/pdf/anc83522.pdf`) — WIPO Lex también lo tiene pero su sitio
+  es un SPA sin URL de PDF estable por curl. Extracción con PyMuPDF (`fitz`, ya
+  instalado, no fue necesario agregar dependencia). Primer prefijo no-`co:` del
+  proyecto (`can:`, agregado a `esquema.md` §2) porque no es norma del Congreso
+  colombiano aunque aplique directo. `afectaciones: pendiente` — no se rastrearon
+  las Decisiones 632/2006 y 689/2008 que la modifican; export.py ya la marca
+  `VIGENCIA_NO_VERIFICADA` correctamente mientras tanto.
 - [x] Los 20 DUR completos vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1066-1085,
   todos en `documentos` con sus aristas. El `i=` de cada uno sale del índice del
   Gestor (`norma.php?i=62255`). Verificado 2026-09-22: 11/12 sin faltantes, el 1066
