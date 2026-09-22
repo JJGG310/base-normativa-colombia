@@ -135,9 +135,27 @@ la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerla
 
 ## Pendientes de la fuente senado (no bloquean, mejoran)
 
-- [ ] `concordancias` (713 cajas en la Constitución): remisiones normativa↔normativa. No afectan vigencia, sí navegación.
-- [ ] tipo de relación `renumera`: el AL 2/2015 renumeró artículos (el 262 pasó a 261). Hoy se ignora; el artículo viejo y el nuevo quedan sin enlazar.
-- [ ] SUIN-Juriscol sigue caído por `curl` (bloqueo de bot, no TLS). Sirve como segunda fuente para cotejar afectaciones.
+- [x] `concordancias`: las cajas no traían prosa, solo `<A href='ley_0388_1997.html#1'>`
+  — `limpiar()` los tiraba antes de que `aristas()` los viera. `descripciones()` ahora
+  guarda también el HTML crudo por caja, y `aristas()` reconoce tres patrones de
+  `href` (`ley_/decreto_/acto_legislativo_NNN_AAAA`, y la constitución citándose a sí
+  misma como `constitucion_politica_AAAA`). Recargada: 10.591 aristas `concordancia`
+  nuevas, 10 cajas sin parsear de 2.153 (leyes muy recientes sin link, una sentencia
+  listada sin `href`). El mismo patrón sirve para cualquier norma de senado con cajas
+  de Concordancias, no solo la Constitución.
+- [x] tipo de relación `renumera`: no hacía falta adivinar a partir de las notas
+  históricas (ambiguas, `RE_HISTORICA` las descarta a propósito) — la propia fuente
+  lo dice en el epígrafe o el cuerpo del artículo vigente ("...anteriormente era el
+  artículo 263-A"). `ingesta_senado.py` ahora extrae `RE_RENUMERA` de `arts` después
+  de `procesar()`. Solo 3 casos en toda la Constitución (AL 2/2015, electoral):
+  262→261, 263→262, 263-A→263. Tipo agregado a `esquema.md`.
+- [!] SUIN-Juriscol: **ya no es bloqueo de bot.** El sitio migró entero a un SPA
+  Angular ("GovcoFrontendBase") — `curl` con user-agent de navegador ahora responde
+  200, pero solo devuelve el cascarón vacío; el contenido lo trae un bundle JS
+  cargado por chunks (`main.<hash>.js`, 11 KB, sin URL de API visible — es un loader,
+  no el bundle real). Encontrar el endpoint JSON exige devtools de navegador, no
+  `curl` ciego: es un tick de investigación aparte, no un reintento. Sigue siendo
+  no bloqueante (solo serviría como segunda fuente para cotejar afectaciones).
 
 ## P3 — Lo que faltaba de verdad
 
@@ -224,15 +242,10 @@ vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a na
   un solo cambio. Faltan sus afectaciones: las notas de vigencia de esa fuente no
   viven en `js/`.
 - [ ] Decisión 486 de la CAN — propiedad industrial (fuente comunitaria, otro parser)
-- [x] DUR vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1069 justicia (1.492),
-  1072 trabajo (1.415), 1074 comercio (2.123), 1076 ambiente (1.975), 1077 vivienda
-  (1.828), 1082 planeación/contratación (1.068), 1083 función pública (992). El `i=`
-  de cada uno sale del índice del Gestor (`norma.php?i=62255`).
-- [ ] DUR que faltan por cargar, con su `i=` ya ubicado: 1066 interior (76835),
-  1068 hacienda (72893), 1070 defensa (76837), 1071 agropecuario (76838), 1073 minas
-  y energía (77887), 1075 educación (77913), 1078 TIC (77888), 1079 transporte
-  (77889), 1080 cultura (76833), 1081 presidencia (73593), 1084 inclusión social
-  (77715), 1085 (77714)
+- [x] Los 20 DUR completos vía `ingesta_gestor.py` (`./cargar_dur.sh`): 1066-1085,
+  todos en `documentos` con sus aristas. El `i=` de cada uno sale del índice del
+  Gestor (`norma.php?i=62255`). Verificado 2026-09-22: 11/12 sin faltantes, el 1066
+  (interior) tiene 1 artículo sin extraer (`1.1.2.3`) — no bloquea, queda anotado.
 
 ## P4 — Sectoriales · **cargada** (`./cargar_p4.sh`)
 

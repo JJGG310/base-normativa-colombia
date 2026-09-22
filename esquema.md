@@ -224,6 +224,7 @@ origen,tipo,destino,fecha,nota,fuente
 | `interpreta` | No afecta vigencia (jurisprudencia sobre el artículo) |
 | `cita` | No afecta vigencia |
 | `concordancia` | No afecta vigencia (remisión normativa) |
+| `renumera` | No afecta vigencia — el `origen` es el número viejo, el `destino` el número vigente |
 
 Los primeros ocho son **relaciones de afectación**: `build.py` los usa para calcular
 vigencia. Los demás son navegación.

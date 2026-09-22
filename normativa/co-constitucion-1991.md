@@ -8,7 +8,7 @@ ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
-verificado: 2026-09-10
+verificado: 2026-09-22
 ---
 
 ## art:1 — 
@@ -1129,7 +1129,7 @@ ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 1. DE LA ESTRUCTUR
 Ninguna autoridad del Estado podrá ejercer funciones distintas de las que le atribuyen la Constitución y la ley.
 
 ## art:122 — Artículo corregido por Aclaración publicada en la Gaceta No. 125
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 No habrá empleo público que no tenga funciones detalladas en ley o reglamento y para proveer los de carácter remunerado se requiere que estén contemplados en la respectiva planta y previstos sus emolumentos en el presupuesto correspondiente. 
 
@@ -1150,7 +1150,7 @@ La anterior disposición aplicará igualmente a los miembros de la Fuerza Públi
 Como aporte a las garantías de no repetición, el Estado colombiano garantizará que los hechos que ocurrieron en el pasado no se repitan, y para ello implementará las medidas referidas en el Acuerdo General de Paz en esta materia. Quienes sean sancionados por graves violaciones de derechos humanos o graves infracciones al derecho Internacional Humanitario, no podrán hacer parte de ningún organismo de seguridad, defensa del Estado, Rama Judicial ni órganos de control.
 
 ## art:123 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Son servidores públicos los miembros de las corporaciones públicas, los empleados y trabajadores del Estado y de sus entidades descentralizadas territorialmente y por servicios. 
 
@@ -1159,12 +1159,12 @@ Los servidores públicos están al servicio del Estado y de la comunidad; ejerce
 La ley determinará el régimen aplicable a los particulares que temporalmente desempeñen funciones públicas y regulará su ejercicio.
 
 ## art:124 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 La ley determinará la responsabilidad de los servidores públicos y la manera de hacerla efectiva.
 
 ## art:125 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Los empleos en los órganos y entidades del Estado son de carrera. Se exceptúan los de elección popular, los de libre nombramiento y remoción, los de trabajadores oficiales y los demás que determine la ley. 
 
@@ -1181,7 +1181,7 @@ PARÁGRAFO. <Parágrafo adicionado por el artículo 6 del Acto Legislativo 1 de 
 PARÁGRAFO TRANSITORIO. <Parágrafo INEXEQUIBLE>
 
 ## art:126 — Artículo modificado por el artículo 2 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Los servidores públicos no podrán en ejercicio de sus funciones, nombrar, postular, ni contratar con personas con las cuales tengan parentesco hasta el cuarto grado de consanguinidad, segundo de afinidad, primero civil, o con quien estén ligados por matrimonio o unión permanente.
 
@@ -1196,7 +1196,7 @@ Quien haya ejercido en propiedad alguno de los cargos en la siguiente lista, no 
 <Aparte tachado INEXEQUIBLE> Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, de la Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados, Miembro del Consejo Nacional Electoral, Fiscal General de la Nación, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República y Registrador Nacional del Estado Civil.
 
 ## art:127 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Los servidores públicos no podrán celebrar, por sí o por interpuesta persona, o en representación de otro, contrato alguno con entidades públicas o con personas privadas que manejen o administren recursos públicos, salvo las excepciones legales. 
 
@@ -1211,24 +1211,24 @@ La utilización del empleo para presionar a los ciudadanos a respaldar una causa
 <Inciso derogado por el artículo 3 del Acto Legislativo 2 de 2015>
 
 ## art:128 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Nadie podrá desempeñar simultáneamente más de un empleo público ni recibir más de una asignación que provenga del tesoro público, o de empresas o de instituciones en las que tenga parte mayoritaria el Estado, salvo los casos expresamente determinados por la ley. 
 
 Entiéndese por tesoro público el de la Nación, el de las entidades territoriales y el de las descentralizadas.
 
 ## art:129 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Los servidores públicos no podrán aceptar cargos, honores o recompensas de gobiernos extranjeros u organismos internacionales, ni celebrar contratos con ellos, sin previa autorización del Gobierno.
 
 ## art:130 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Habrá una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que tengan carácter especial.
 
 ## art:131 — 
-ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "L
+ubicacion: TITULO V. DE LA ORGANIZACION DEL ESTADO > CAPITULO 2. DE LA FUNCION PUBLICA Anterior | Siguiente Disposiciones analizadas por Avance Jurídico Casa Editorial S.A.S.© "Le
 
 Compete a la ley la reglamentación del servicio público que prestan los notarios y registradores, la definición del régimen laboral para sus empleados y lo relativo a los aportes como tributación especial de las notarías, con destino a la administración de justicia. 
 
@@ -1868,12 +1868,12 @@ ubicacion: TITULO VI. DE LA RAMA LEGISLATIVA > CAPITULO 6. DE LOS CONGRESISTAS.
 La asignación de los miembros del Congreso se reajustará cada año en proporción igual al promedio ponderado de los cambios ocurridos en la remuneración de los servidores de la administración central, según certificación que para el efecto expida el Contralor General de la República.
 
 ## art:188 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República simboliza la unidad nacional y al jurar el cumplimiento de la Constitución y de las leyes, se obliga a garantizar los derechos y libertades de todos los colombianos.
 
 ## art:189 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 Corresponde al Presidente de la República como Jefe de Estado, Jefe del Gobierno y Suprema Autoridad Administrativa:
 
@@ -1936,7 +1936,7 @@ En todo caso, el Gobierno tiene la facultad de nombrar y remover libremente a su
 28. Expedir cartas de naturalización, conforme a la ley.
 
 ## art:190 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República será elegido para un período de cuatro años, por la mitad más uno de los votos que, de manera secreta y directa, depositen los ciudadanos en la fecha y con las formalidades que determine la ley. Si ningún candidato obtiene dicha mayoría, se celebrará una nueva votación que tendrá lugar tres semanas más tarde, en la que sólo participarán los dos candidatos que hubieren obtenido las más altas votaciones. Será declarado Presidente quien obtenga el mayor número de votos. 
 
@@ -1945,38 +1945,38 @@ En caso de muerte o incapacidad física permanente de alguno de los dos candidat
 Si la falta se produjese con antelación menor a dos semanas de la segunda vuelta, ésta se aplazará por quince días.
 
 ## art:191 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 Para ser Presidente de la República se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta años.
 
 ## art:192 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República tomará posesión de su destino ante el Congreso, y prestará juramento en estos términos: "Juro a Dios y prometo al pueblo cumplir fielmente la Constitución y las leyes de Colombia". 
 
 Si por cualquier motivo el Presidente de la República no pudiere tomar posesión ante el Congreso, lo hará ante la Corte Suprema de Justicia o, en defecto de ésta, ante dos testigos.
 
 ## art:193 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 Corresponde al Senado conceder licencia al Presidente de la República para separarse temporalmente del cargo. 
 
 Por motivo de enfermedad, el Presidente de la República puede dejar de ejercer el cargo, por el tiempo necesario, mediante aviso al Senado o, en receso de éste, a la Corte Suprema de Justicia.
 
 ## art:194 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 Son faltas absolutas del Presidente de la República su muerte, su renuncia aceptada, la destitución decretada por sentencia, la incapacidad física permanente y el abandono del cargo, declarados éstos dos últimos por el Senado. 
 
 Son faltas temporales la licencia y la enfermedad, de conformidad con el artículo precedente y la suspensión en el ejercicio del cargo decretada por el Senado, previa admisión pública de la acusación en el caso previsto en el numeral primero del artículo 175.
 
 ## art:195 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El encargado del Ejecutivo tendrá la misma preeminencia y las mismas atribuciones que el Presidente, cuyas veces hace.
 
 ## art:196 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República, o quien haga sus veces, no podrá trasladarse a territorio extranjero durante el ejercicio de su cargo, sin previo aviso al Senado o, en receso de éste, a la Corte Suprema de Justicia. 
 
@@ -1987,7 +1987,7 @@ El Presidente de la República, o quien haya ocupado la Presidencia a título de
 Cuando el Presidente de la República se traslade a territorio extranjero en ejercicio de su cargo, el Ministro a quien corresponda, según el orden de precedencia legal, ejercerá bajo su propia responsabilidad las funciones constitucionales que el Presidente le delegue, tanto aquellas que le son propias como las que ejerce en su calidad de Jefe del Gobierno. El Ministro Delegatario pertenecerá al mismo partido o movimiento político del Presidente.
 
 ## art:197 — Artículo modificado por el artículo 9 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 No podrá ser elegido Presidente de la República el ciudadano que a cualquier título hubiere ejercido la Presidencia. Esta prohibición no cobija al Vicepresidente cuando la ha ejercido por menos de tres meses, en forma continua o discontinua, durante el cuatrienio. La prohibición de la reelección solo podrá ser reformada o derogada mediante referendo de iniciativa popular o asamblea constituyente.
 
@@ -1996,12 +1996,12 @@ No podrá ser elegido Presidente de la República o Vicepresidente quien hubiere
 <Aparte tachado INEXEQUIBLE> Ministro, Director de Departamento Administrativo, Magistrado de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado, Comisión Nacional de Disciplina Judicial, Miembro de la Comisión de Aforados o del Consejo Nacional Electoral, Procurador General de la Nación, Defensor del Pueblo, Contralor General de la República, Fiscal General de la Nación, Registrador Nacional del Estado Civil, Comandantes de las Fuerzas Militares, Auditor General de la República, Director General de la Policía, Gobernador de departamento o Alcalde.
 
 ## art:198 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
 
 ## art:199 — 
-ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corr
+ubicacion: TITULO VII. DE LA RAMA EJECUTIVA > CAPITULO 1. DEL PRESIDENTE DE LA REPUBLICA Nota Aclaratoria Los epígrafes tanto del Título VII, como del Capítulo I, fueron corre
 
 El Presidente de la República, durante el período para el que sea elegido, o quien se halle encargado de la Presidencia, no podrá ser perseguido ni juzgado por delitos, sino en virtud de acusación de la Cámara de Representantes y cuando el Senado haya declarado que hay lugar a formación de causa.
 
@@ -2554,17 +2554,17 @@ ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 6. DE LA FISCALIA GENERAL
 La ley determinará lo relativo a la estructura y funcionamiento de la Fiscalía General de la Nación, al ingreso por carrera y al retiro del servicio, a las inhabilidades e incompatibilidades, denominación, calidades, remuneración, prestaciones sociales y régimen disciplinario de los funcionarios y empleados de su dependencia.
 
 ## art:254 — Redacción después del fallo de la Sentencia C-285-16
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 20
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 201
 
 El Consejo Superior de la Judicatura estará integrado por seis magistrados elegidos para un período de ocho años, así: dos por la Corte Suprema de Justicia, uno por la Corte Constitucional y tres por el Consejo de Estado.
 
 ## art:255 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 20
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 201
 
 Para ser miembro del Consejo Superior de la Judicatura se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta y cinco años; tener título de abogado y haber ejercido la profesión durante diez años con buen crédito. Los miembros del Consejo no podrán ser escogidos entre los magistrados de las mismas corporaciones postulantes.
 
 ## art:256 — 
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 20
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 201
 
 <El artículo 17 del Acto Legislativo 2 de 2015 que derogó este artículo fue declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-285-16, salvo en lo que tiene que ver con la derogatoria, tanto de la expresión "o a los Consejos seccionales, según el caso", como de los numerales 3º y 6º de este artículo. Apartes tachados derogados por el artículo 17 del Acto Legislativo 2 de 2015> 
 
@@ -2585,7 +2585,7 @@ Corresponden al Consejo Superior de la Judicatura o a los Consejos Seccionales, 
 7. Las demás que señale la ley.
 
 ## art:257 — Texto original revivido según la Sentencia C-285-16
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 20
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 201
 
 Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las siguientes funciones: 
 
@@ -2600,7 +2600,7 @@ Con sujeción a la ley, el Consejo Superior de la Judicatura cumplirá las sigui
 5. Las demás que señale la ley.
 
 ## art:257a — Artículo "adicionado" por el artículo 19 del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
-ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 20
+ubicacion: TITULO VIII. DE LA RAMA JUDICIAL > CAPITULO 7. GOBIERNO Y ADMINISTRACIÓN DE LA RAMA JUDICIAL. <Encabezado modificado por el artículo 26 del Acto Legislativo 2 de 201
 
 La Comisión Nacional de Disciplina Judicial ejercerá la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial.
 
@@ -4008,26 +4008,26 @@ ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION
 Queda derogada la Constitución hasta ahora vigente con todas sus reformas. Esta Constitución rige a partir del día de su promulgación.
 
 ## art:transitorio-2 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 No podrán ser candidatos en dicha elección los delegatarios de la Asamblea Constituyente de pleno derecho ni los actuales Ministros del Despacho. 
 
 Tampoco podrán serlo los funcionarios de la Rama Ejecutiva que no hubieren renunciado a su cargo antes del 14 de junio de 1991.
 
 ## art:transitorio-3 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Mientras se instala, el 1o. de diciembre de 1991 el nuevo congreso, el actual y sus comisiones entrarán en receso y no podrán ejercer ninguna de sus atribuciones ni por iniciativa propia ni por convocatoria del Presidente de la República.
 
 ## art:transitorio-4 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 El Congreso elegido el 27 de octubre de 1991 sesionará ordinariamente así: 
 
 Del 1o. al 20 de diciembre de 1991 y del 14 de enero al 26 de junio de 1992. A partir del 20 de julio de 1992 su régimen de sesiones será el prescrito en esta Constitución.
 
 ## art:transitorio-5 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Revístese al Presidente de la República de precisas facultades extraordinarias para: 
 
@@ -4042,7 +4042,7 @@ d) Expedir el Presupuesto General de la Nación para la vigencia de 1992;
 e) Expedir normas transitorias para descongestionar los despachos judiciales.
 
 ## art:transitorio-6 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Créase una Comisión Especial de treinta y seis miembros elegidos por cuociente electoral por la Asamblea Nacional Constituyente, la mitad de los cuales podrán ser Delegatarios, que se reunirá entre el 15 de julio y el 4 de octubre de 1991 y entre el 18 de noviembre de 1991 y el día de la instalación del nuevo Congreso. La elección se realizará en sesión convocada para este efecto el 4 de julio de 1991. 
 
@@ -4059,27 +4059,27 @@ c) Reglamentar su funcionamiento.
 PARAGRAFO. Si la Comisión Especial no aprueba antes del 15 de diciembre de 1991 el proyecto de presupuesto para la vigencia fiscal de 1992, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o fusionar empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
 ## art:transitorio-7 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 El Presidente de la República designará un representante del Gobierno ante la Comisión Especial, que tendrá voz e iniciativa.
 
 ## art:transitorio-8 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Los decretos expedidos en ejercicio de las facultades de Estado de Sitio hasta la fecha de promulgación del presente Acto Constituyente, continuarán rigiendo por un plazo máximo de noventa días, durante los cuales el Gobierno Nacional podrá convertirlos en legislación permanente, mediante decreto, si la Comisión Especial no los imprueba.
 
 ## art:transitorio-9 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Las facultades extraordinarias para cuyo ejercicio no se hubiere señalado plazo especial, expirarán quince días después de que la Comisión Especial cese definitivamente en sus funciones.
 
 ## art:transitorio-10 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Los decretos que expida el Gobierno en ejercicio de las facultades otorgadas en los anteriores artículos tendrán fuerza de ley y su control de constitucionalidad corresponderá a la Corte Constitucional.
 
 ## art:transitorio-11 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Las facultades extraordinarias a que se refiere el Artículo Transitorio 5, cesarán el día en que se instale el Congreso elegido el 27 de octubre de 1991. 
 
@@ -4098,7 +4098,7 @@ Anterior | Siguiente
  Las notas de vigencia, concordancias, notas del editor, forma de presentación y disposición de la compilación están protegidas por las normas sobre derecho de autor. En relación con estos valores jurídicos agregados, se encuentra prohibido por la normativa vigente su aprovechamiento en publicaciones similares y con fines comerciales, incluidas -pero no únicamente- la copia, adaptación, transformación, reproducción, utilización y divulgación masiva, así como todo otro uso prohibido expresamente por la normativa sobre derechos de autor, que sea contrario a la normativa sobre promoción de la competencia o que requiera autorización expresa y escrita de los autores y/o de los titulares de los derechos de autor. En caso de duda o solicitud de autorización puede comunicarse al teléfono 617-0729 en Bogotá, extensión 101. El ingreso a la página supone la aceptación sobre las normas de uso de la información aquí contenida.
 
 ## art:transitorio-12 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Con el fin de facilitar la reincorporación a la vida civil de los grupos guerrilleros que se encuentren vinculados decididamente a un proceso de paz bajo la dirección del Gobierno, éste podrá establecer, por una sola vez, circunscripciones especiales de paz para las elecciones a corporaciones públicas que tendrán lugar el 27 de octubre de 1991, o nombrar directamente por una sola vez, un número plural de Congresistas en cada Cámara en representación de los mencionados grupos en proceso de paz y desmovilizados. 
 
@@ -4107,38 +4107,38 @@ El número será establecido por el Gobierno Nacional, según valoración que ha
 Para los efectos previstos en este artículo, el Gobierno podrá no tener en cuenta determinadas inhabilidades y requisitos necesarios para ser Congresista.
 
 ## art:transitorio-13 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Dentro de los tres años siguientes a la entrada en vigencia de esta Constitución, el Gobierno podrá dictar las disposiciones que fueren necesarias para facilitar la reinserción de grupos guerrilleros desmovilizados que se encuentren vinculados a un proceso de paz bajo su dirección; para mejorar las condiciones económicas y sociales de las zonas donde ellos estuvieran presentes; y para proveer a la organización territorial, organización y competencia municipal, servicios públicos y funcionamiento e integración de los cuerpos colegiados municipales en dichas zonas. 
 
 El Gobierno Nacional entregará informes periódicos al Congreso de la República sobre el cumplimiento y desarrollo de este artículo.
 
 ## art:transitorio-14 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Dentro de la legislatura que se inicia el primero de diciembre de 1991, el Congreso Nacional, el Senado de la República y la Cámara de Representantes expedirán su respectivo reglamento. De no hacerlo, lo expedirá el Consejo de Estado, dentro de los tres meses siguientes.
 
 ## art:transitorio-15 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 La primera elección de Vicepresidente de la República se efectuará en el año de 1994. Entre tanto, para suplir las faltas absolutas o temporales del Presidente de la República se conservará el anterior sistema de Designado, por lo cual, una vez vencido el período del elegido en 1990, el Congreso en pleno elegirá uno nuevo para el período de 1992-1994.
 
 ## art:transitorio-16 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Salvo los casos que señale la Constitución, la primera elección popular de gobernadores se celebrará el 27 de octubre de 1991. 
 
 Los gobernadores elegidos en esa fecha tomarán posesión el 2 de enero de 1992.
 
 ## art:transitorio-17 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 La primera elección popular de Gobernadores en los departamentos del Amazonas, Guaviare, Guainía, Vaupés, y Vichada se hará a más tardar en 1997. 
 
 La ley puede fijar una fecha anterior. Hasta tanto, los gobernadores de los mencionados departamentos serán designados y podrán ser removidos por el Presidente de la República.
 
 ## art:transitorio-18 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Mientras la ley establece el régimen de inhabilidades para los gobernadores, en las elecciones del 27 de octubre de 1991 no podrán ser elegidos como tales: 
 
@@ -4153,7 +4153,7 @@ Mientras la ley establece el régimen de inhabilidades para los gobernadores, en
 La prohibición establecida en el numeral dos de este artículo no se aplica a los miembros de la Asamblea Nacional Constituyente.
 
 ## art:transitorio-19 — 
-ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991.
+ubicacion: TITULO XIII. DE LA REFORMA DE LA CONSTITUCION > CAPITULO 1. ARTICULO TRANSITORIO 1. Convócase a elecciones generales del Congreso de la República para el 27 de octubre de 1991. E
 
 Los alcaldes, concejales y diputados que se elijan en 1992 ejercerán sus funciones hasta el 31 de diciembre de 1994.
 

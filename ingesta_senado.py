@@ -37,6 +37,18 @@ RE_ORIGEN = re.compile(
     r"(?P<tipo>Acto\s+Legislativo|Ley|Decreto\s+Ley|Decreto)\s+(?:N[o°º]\.?\s*)?(?P<num>[\d\.]+)\s+de\s+(?:\d{1,2}\s+de\s+\w+\s+de\s+)?(?P<anio>\d{4})", re.I)
 RE_FECHA = re.compile(r"\bde\s+(\d{1,2})\s+de\s+(%s)\s+de\s+(\d{4})" % "|".join(MESES), re.I)
 RE_SENTENCIA = re.compile(r"\b(C|T|SU)-(\d+)-(\d{2})\b")
+# La propia fuente lo dice en el epígrafe o el cuerpo del artículo vigente
+# ("...anteriormente era el artículo 263-A"): no hace falta adivinar la
+# renumeración a partir de las notas de vigencia históricas (ambiguas).
+RE_RENUMERA = re.compile(r"anteriormente\s+era\s+el\s+art[íi]culo\s+([\dA-Za-z\-]+)", re.I)
+RE_CONCORDANCIA = re.compile(
+    r"href=['\"](?P<tipo>ley|decreto|acto_legislativo)_(?P<num>\d+)_(?P<anio>\d{4})"
+    r"(?:_pr\d+)?\.html#(?P<anchor>\w+)['\"]", re.I)
+# La norma se remite a sí misma con su propio nombre de archivo, sin número
+# ("constitucion_politica_1991", "codigo_civil"): sin componente `num`.
+RE_CONCORDANCIA_PROPIA = re.compile(
+    r"href=['\"]constitucion_politica_(?P<anio>\d{4})(?:_pr\d+)?\.html#(?P<anchor>\w+)['\"]", re.I)
+TIPO_CONC = {"ley": "ley", "decreto": "decreto", "acto_legislativo": "acto-legislativo"}
 RE_HISTORICA = re.compile(
     r"(?:Notas?|Texto)\s+correspondiente[s]?\s+al\s+art[íi]culo\s+[\dA-Za-z]+\s+antes\s+de\s+su", re.I)
 
@@ -113,13 +125,19 @@ def limpiar(fragmento):
 
 
 def descripciones(js):
-    """`insRowNN(){ description[0] = "…" }` -> {NN: texto plano}."""
+    """`insRowNN(){ description[0] = "…" }` -> {NN: (texto_limpio, html_crudo)}.
+
+    Se guarda también el HTML crudo porque las cajas "Concordancias" solo traen
+    remisiones como `<A href='ley_0388_1997.html#1'>`; limpiar() los reduce a
+    texto y el link se pierde.
+    """
     salida = {}
     for num, cuerpo in re.findall(r"insRow(\d+)\(\)\s*\{(.*?)\n\}", js, re.S):
         trozos = re.findall(r'description\[\d+\]\s*=\s*"(.*?)";', cuerpo, re.S)
-        txt = limpiar(" ".join(trozos).replace('\\"', '"'))
+        crudo = " ".join(trozos).replace('\\"', '"')
+        txt = limpiar(crudo)
         if txt:
-            salida[num] = " ".join(txt.split())
+            salida[num] = (" ".join(txt.split()), crudo)
     return salida
 
 
@@ -290,8 +308,32 @@ def id_sentencia(m):
 def aristas(cajas, id_norma, fuente):
     """Cajas -> filas de relaciones.csv. Conservador: lo dudoso se descarta y se cuenta."""
     filas, sin_parsear = [], []
-    for num_art, etiqueta, texto in cajas:
+    for num_art, etiqueta, (texto, crudo) in cajas:
         destino = "%s:art:%s" % (id_norma, num_art)
+
+        if etiqueta == "Concordancias":
+            # Estas cajas no traen prosa, son puros links a otras normas: se leen
+            # del HTML crudo, no del texto limpio (limpiar() ya tiró los <A href>).
+            vistas = 0
+            for m in RE_CONCORDANCIA.finditer(crudo):
+                if m.group("anchor") == "0":
+                    continue
+                origen = "co:%s:%s:%s:art:%s" % (
+                    TIPO_CONC[m.group("tipo").lower()],
+                    m.group("num").lstrip("0") or "0",
+                    m.group("anio"), m.group("anchor").lower())
+                filas.append((origen, "concordancia", destino, "", "", fuente))
+                vistas += 1
+            for m in RE_CONCORDANCIA_PROPIA.finditer(crudo):
+                if m.group("anchor") == "0":
+                    continue
+                origen = "co:constitucion:%s:art:%s" % (m.group("anio"), m.group("anchor").lower())
+                if origen != destino:
+                    filas.append((origen, "concordancia", destino, "", "", fuente))
+                vistas += 1
+            if not vistas and texto:
+                sin_parsear.append((destino, etiqueta, texto[:110]))
+            continue
 
         if etiqueta == "Notas de Vigencia":
             # La fuente mete, en la misma caja, el historial del artículo que ANTES
@@ -399,6 +441,11 @@ def main():
         sys.exit("ABORTA: %d artículos, se esperaban al menos %d. No se escribe %s."
                  % (len(arts), a.minimo, a.salida))
     filas, sin_parsear = aristas(cajas, a.id, a.url)
+    for num, epi, _, txt in arts:
+        m = RE_RENUMERA.search(epi + " " + txt)
+        if m:
+            viejo = "%s:art:%s" % (a.id, m.group(1).lower())
+            filas.append((viejo, "renumera", "%s:art:%s" % (a.id, num), "", "", a.url))
 
     fm = ["---", "id: " + a.id, "tipo: " + a.tipo, "titulo: " + a.titulo]
     if a.corto:
