@@ -304,12 +304,39 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
      ruta tal cual daba 404; recortada, 200. Confirmado contra 5 providencias
      (2022-2025) antes de cargar las 206. `ruta_real()` en `ingesta_cendoj.py` hace
      el recorte, solo para PENAL.
-- [ ] Consejo de Estado: `relatoria.consejodeestado.gov.co` **redirige a
-  `samai.consejodeestado.gov.co`** (ASP.NET WebForms: `__VIEWSTATE`), que es el sistema
-  vivo. El backend JSF viejo (`http://190.217.24.55:8080/WebRelatoria/ce/index.xhtml`,
-  con `FileReferenceServlet?corp=ce&ext=html&file={ID}`) no responde desde aquí
-  (timeout, 2026-09-11). El parser hay que escribirlo contra SAMAI, no contra el JSF:
-  es el tick más grande que queda.
+- [x] Consejo de Estado: **abierto, con matices.** `ingesta_samai.py` (nuevo) replica
+  a mano el postback parcial de ASP.NET (ScriptManager + UpdatePanel) contra
+  `samai.consejodeestado.gov.co/TitulacionRelatoria/BuscadorProvidenciasTituladas.aspx`
+  — no hace falta navegador ni Selenium. Tres cosas que costó entender:
+  1. La página del buscador **no emite `ASP.NET_SessionId`** por sí sola — hay que
+     pedir primero la portada (`/`) para que la sesión exista, si no el postback
+     falla con «Validation of viewstate MAC failed». No es un bug del sitio, es que
+     el buscador asume que ya veniste de la portada.
+  2. La respuesta viene en el formato «delta» de Microsoft Ajax
+     (`longitud|tipo|id|contenido|...`), y la longitud está en **bytes UTF-8, no en
+     caracteres** — con texto acentuado (todo el sitio) un parseo por caracteres
+     desalinea cada bloque después del primero. Hay que operar sobre `bytes`.
+  3. Cada tarjeta de resultado de la "Búsqueda rápida" (texto libre con AND/OR/AND
+     NOT) ya trae radicado, interno, fecha del proceso, clase, ponente, sala, actor,
+     demandado, fecha de la providencia, tipo y el hash del documento — **sin pedir
+     nada por providencia aparte**. De ahí sale una ficha mecánica honesta, igual de
+     buena que la de Corte Suprema antes de tener texto.
+  - **El texto completo NO se pudo bajar**: `samaicore.consejodeestado.gov.co/api/
+    DescargarProvidenciaPublica/{corporacion}/{numProceso}/{hash}/{modo}` devuelve
+    **403 siempre**, probado con distintos `modo` (0-4), el token como `Authorization:
+    Bearer`, como query `tokendoc` en el endpoint hermano `DescargarProvidenciaSAMAI`
+    (ese dio 500) — pese a que el propio swagger del servicio
+    (`samaicore.../swagger/v1/swagger.json`, público) marca la ruta **sin
+    `security`**, o sea que documentalmente debería ser anónima. Es un bloqueo de
+    infraestructura (Azure), no de la lógica de la app: investigado 2026-09-22, sin
+    resolver. Cada ficha queda con `fuente:` apuntando al expediente en SAMAI para
+    que un humano lo abra directo.
+  - Corpus real: "responsabilidad medica" solo ya trae ~158.000 resultados (Página
+    1 de 15.803) — esto no es "toda la jurisdicción contenciosa" ni de cerca, es lo
+    que alcancen los términos, igual que Corte Suprema. Subir `--limite` o agregar
+    términos es la perilla.
+  - El backend JSF viejo (`190.217.24.55:8080/WebRelatoria/ce/`) sigue sin responder
+    (timeout) — ya no importa, SAMAI es la vía.
 - [ ] El grafo no conecta la Corte Suprema con la normativa: sus providencias no
   afectan vigencia, así que entran sin aristas. Si se quiere que un artículo muestre
   «qué dijo la casación», hay que extraer las citas del propio texto.
