@@ -15,7 +15,7 @@ El texto **no** sale del API: `getContentSearch` devuelve una vista previa con e
 («(…)») alrededor de los términos buscados, y una providencia con huecos presentada como
 su texto es justo lo que este proyecto no puede permitirse. Se baja el .docx original por
 `downloadFile` y se extrae de `word/document.xml`. Las providencias que la Corte solo
-publica en PDF se saltan: se anotan, no se rellenan.
+publica en PDF (laboral 2023: 12.950, ni una en .docx) se extraen con PyMuPDF.
 
 La sala PENAL: el buscador indexa una ruta con la carpeta del magistrado
 (`PENAL/<año>/Dr. X/Sentencia/<archivo>`) que no existe en el storage real — el archivo
@@ -25,6 +25,8 @@ providencias de 2022 a 2025.
 """
 import argparse, html, io, json, os, re, sys, time, urllib.request, zipfile
 from datetime import date
+
+import fitz  # PyMuPDF — solo para las providencias que la Corte no publica en .docx
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 API = "https://consultaprovidenciasbk.cortesuprema.gov.co/api"
@@ -74,23 +76,27 @@ def ruta_real(doc_path, sala):
 
 
 def contenido(doc_path):
-    """Texto del .docx original. El API solo da vistas previas con elisiones."""
+    """Texto del original. El API solo da vistas previas con elisiones."""
     req = urllib.request.Request(DESCARGA, data=json.dumps({"path": doc_path}).encode(),
                                  headers=CABECERAS)
     with urllib.request.urlopen(req, timeout=120) as r:
         crudo = r.read()
-    if crudo[:2] != b"PK":
-        return ""
-    with zipfile.ZipFile(io.BytesIO(crudo)) as z:
-        if "word/document.xml" not in z.namelist():
-            return ""
-        xml = z.read("word/document.xml").decode("utf-8", "replace")
-    # Sin separar por párrafo el documento queda en una línea; y las etiquetas se
-    # quitan SIN meter espacio, porque Word parte las palabras en varios <w:t>.
-    t = re.sub(r"</w:p>", "\n", xml)
-    t = re.sub(r"<[^>]+>", "", t)
-    t = html.unescape(re.sub(r"[ \t]+", " ", t))
-    return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
+    if crudo[:2] == b"PK":
+        with zipfile.ZipFile(io.BytesIO(crudo)) as z:
+            if "word/document.xml" not in z.namelist():
+                return ""
+            xml = z.read("word/document.xml").decode("utf-8", "replace")
+        # Sin separar por párrafo el documento queda en una línea; y las etiquetas se
+        # quitan SIN meter espacio, porque Word parte las palabras en varios <w:t>.
+        t = re.sub(r"</w:p>", "\n", xml)
+        t = re.sub(r"<[^>]+>", "", t)
+        t = html.unescape(re.sub(r"[ \t]+", " ", t))
+        return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
+    if crudo[:4] == b"%PDF":
+        doc = fitz.open(stream=crudo, filetype="pdf")
+        t = "\n".join(p.get_text() for p in doc)
+        return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
+    return ""
 
 
 def limpiar(texto):
@@ -112,8 +118,15 @@ def identificar(titulo):
 
 
 def resuelve(texto):
-    """La parte resolutiva: desde el último RESUELVE/FALLA hasta el final."""
-    marcas = list(re.finditer(r"(?m)^\s*(RESUELVE|FALLA|SE RESUELVE|DECIDE)\s*:?\s*$", texto))
+    """La parte resolutiva: desde el último RESUELVE/FALLA/DECISIÓN hasta el final.
+
+    "DECISIÓN" (a veces numerada "XI. DECISIÓN") es el encabezado que usa la mayoría
+    de la Sala Laboral — sin este patrón, el 54% de las providencias de la Corte
+    Suprema ya cargadas se quedaban sin `## resuelve` pese a tenerlo en el texto.
+    """
+    marcas = list(re.finditer(
+        r"(?m)^\s*(?:[IVXLCDM]+\.\s*)?(RESUELVE|FALLA|SE RESUELVE|DECIDE|DECISI[ÓO]N)\s*:?\s*$",
+        texto))
     return texto[marcas[-1].start():].strip() if marcas else ""
 
 
@@ -152,9 +165,8 @@ def main():
     vistos, escritas, fallos = set(), 0, 0
     for termino in a.terminos.split(","):
         start, secas = 0, 0
-        # Hay salas-año que la Corte solo publica en PDF (laboral 2023 trae 12.950
-        # providencias y ni un .docx). Sin este corte, el recorrido se pasa media hora
-        # paginando resultados que nunca va a poder leer.
+        # Corte para no paginar media hora un término que ya no trae nada legible
+        # (ni .docx ni .pdf) — evita quedarse dando vueltas sobre resultados vacíos.
         while escritas < a.limite and secas < 15:
             try:
                 r = buscar(a.sala, a.anio, termino.strip(), start, a.clase)
@@ -165,9 +177,9 @@ def main():
             if not resultados:
                 break
             for res in resultados:
-                # La misma providencia sale en .pdf y en .docx: solo del .docx se
-                # saca el texto íntegro con la librería estándar.
-                if not res["title"].lower().endswith(".docx"):
+                # La misma providencia a veces sale en .pdf Y en .docx (duplicada);
+                # nos quedamos con cualquiera de los dos formatos legibles.
+                if not res["title"].lower().endswith((".docx", ".pdf")):
                     continue
                 sid, _ = identificar(res["title"])
                 ruta = os.path.join(destino_dir, sid.replace(":", "-") + ".md")
@@ -193,7 +205,7 @@ def main():
                                            len(md) // 1024))
                 if escritas >= a.limite:
                     break
-            secas = 0 if any(x["title"].lower().endswith(".docx") for x in resultados) else secas + 1
+            secas = 0 if any(x["title"].lower().endswith((".docx", ".pdf")) for x in resultados) else secas + 1
             start += len(resultados)
             time.sleep(a.pausa)
     print("%d fichas escritas, %d fallidas, %d providencias vistas"
@@ -228,12 +240,30 @@ def check():
     assert t.startswith("veinticinco"), t
     assert resuelve(t).startswith("RESUELVE"), t
 
+    # Camino PDF: providencias que la Corte no publica en .docx (sala laboral 2023).
+    doc_pdf = fitz.open()
+    doc_pdf.new_page().insert_text((72, 72), "RESUELVE CASAR la sentencia recurrida.")
+    pdf_bytes = doc_pdf.tobytes()
+
+    class _FalsaPDF:
+        def __init__(s_, *a_, **k_): pass
+        def read(s_): return pdf_bytes
+        def __enter__(s_): return s_
+        def __exit__(s_, *a_): return False
+    urllib.request.urlopen = lambda *a_, **k_: _FalsaPDF()
+    try:
+        t_pdf = contenido("x")
+    finally:
+        urllib.request.urlopen = _real
+    assert "CASAR la sentencia recurrida" in t_pdf, t_pdf
+
     t = limpiar("<br><p> Bogotá </p><br><p>RESUELVE</p><br><p> CASAR la sentencia. </p>")
     assert "Bogotá" in t and "<p>" not in t, t
     assert resuelve(t).startswith("RESUELVE"), resuelve(t)
     assert "CASAR la sentencia." in resuelve(t), resuelve(t)
     # Sin marca de parte resolutiva no se inventa una.
     assert resuelve("Texto sin resolutiva") == ""
+    assert resuelve("motiva\nXI. DECISIÓN\nNO CASA la sentencia.").startswith("XI. DECISIÓN")
 
     penal = "/var/www/html/Index/PENAL/2024/Dr. Gerson Chaverra Castro/Sentencia/SP1900-2024(58712).docx"
     assert ruta_real(penal, "PENAL") == "/var/www/html/Index/PENAL/2024/SP1900-2024(58712).docx"
