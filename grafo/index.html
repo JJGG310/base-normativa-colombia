@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa del grafo normativo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<script src="https://cdn.jsdelivr.net/npm/force-graph@1.47.4/dist/force-graph.min.js"></script>
+<style>
+  :root { --bg:#05070d; --glass:rgba(14,18,30,.72); --line:rgba(255,255,255,.08); --tx:#eef1f7; --mut:#8a93a8; --acc:#f5c86b }
+  * { box-sizing:border-box }
+  html, body { height:100% }
+  html { background:var(--bg) }
+  body { margin:0; color:var(--tx); font:13px/1.5 Inter,system-ui,sans-serif; overflow:hidden;
+    background: radial-gradient(ellipse at 50% 45%, #111a33 0%, #070a14 55%, var(--bg) 100%) }
+  #g { position:absolute; inset:0 }
+  aside { position:absolute; z-index:2; background:var(--glass); backdrop-filter:blur(18px) saturate(140%); -webkit-backdrop-filter:blur(18px) saturate(140%);
+    border:1px solid var(--line); border-radius:16px; box-shadow:0 20px 60px rgba(0,0,0,.45) }
+  #ctl { top:18px; left:18px; width:292px; max-height:calc(100vh - 36px); overflow:auto; padding:20px 20px 16px }
+  #info { top:18px; right:18px; width:350px; max-height:calc(100vh - 36px); overflow:auto; padding:20px; animation:in .25s ease }
+  @keyframes in { from { opacity:0; transform:translateX(12px) } }
+  h1 { font:700 22px/1.15 Inter,sans-serif; margin:0; letter-spacing:-.02em }
+  h1 em { color:var(--acc); font-style:normal }
+  #info h1 { font-size:19px }
+  h2 { font:600 10.5px Inter; text-transform:uppercase; letter-spacing:.12em; color:var(--mut); margin:18px 0 8px }
+  .mut { color:var(--mut) } .sub { color:var(--mut); margin-top:6px; font-size:12.5px }
+  .row { display:flex; align-items:center; gap:9px; padding:4px 8px; margin:0 -8px; border-radius:8px; cursor:pointer; user-select:none; transition:background .15s, opacity .15s }
+  .row:hover { background:rgba(255,255,255,.05) } .row.off { opacity:.35 }
+  .dot { width:9px; height:9px; border-radius:50%; flex:none; box-shadow:0 0 10px currentColor }
+  .ln { width:14px; height:2px; border-radius:2px; flex:none }
+  .n { margin-left:auto; color:var(--mut); font-variant-numeric:tabular-nums; font-size:12px }
+  input[type=search] { width:100%; padding:10px 12px; background:rgba(255,255,255,.05); color:var(--tx); border:1px solid var(--line); border-radius:10px; font:inherit; outline:none }
+  input[type=search]:focus { border-color:rgba(245,200,107,.5) }
+  .stats { display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px; margin-top:16px }
+  .stats div { background:rgba(255,255,255,.04); border-radius:10px; padding:8px 10px }
+  .stats b { display:block; font:600 18px/1.2 Inter,sans-serif; letter-spacing:-.02em } .stats span { font-size:11px; color:var(--mut) }
+  .bar { display:flex; height:8px; border-radius:99px; overflow:hidden; margin:8px 0 10px; gap:2px }
+  .bar span { border-radius:99px }
+  ul { list-style:none; margin:4px 0 0; padding:0 } li { padding:3px 0; cursor:pointer; color:#cfd6e4 } li:hover { color:var(--acc) }
+  code { font:11.5px ui-monospace,monospace; color:#9fb4d8; word-break:break-all }
+  .warn { color:#ff6b6b; font-size:11.5px }
+  .tag { display:inline-block; padding:2px 8px; border-radius:99px; font-size:11px; background:rgba(255,255,255,.06); margin:8px 4px 0 0 }
+  button { background:rgba(255,255,255,.06); color:var(--tx); border:1px solid var(--line); border-radius:8px; padding:6px 11px; cursor:pointer; font:inherit; font-size:12px }
+  button:hover { background:rgba(255,255,255,.1) }
+  .x { position:absolute; top:14px; right:14px; border:0; background:none; font-size:18px; color:var(--mut); padding:4px 8px }
+  #load { position:fixed; inset:0; display:grid; place-items:center; z-index:5; font:500 15px Inter,sans-serif; letter-spacing:.04em; color:var(--mut); transition:opacity .6s }
+  #hint { position:absolute; bottom:18px; left:50%; transform:translateX(-50%); z-index:2; color:var(--mut); font-size:12px; background:var(--glass); padding:7px 14px; border-radius:99px; border:1px solid var(--line) }
+  @media (max-width:760px) { #ctl { width:calc(100% - 24px); left:12px; top:12px; max-height:38vh } #info { width:calc(100% - 24px); right:12px; top:auto; bottom:12px; max-height:45vh } #hint { display:none } }
+</style>
+</head>
+<body>
+<div id="g"></div>
+<div id="load">tejiendo el grafo…</div>
+<aside id="ctl">
+  <h1>Mapa del grafo <em>normativo</em></h1>
+  <div class="sub">Documentos del corpus y las relaciones entre sus artículos, agrupados por área del derecho.</div>
+  <div class="stats" id="stats"></div>
+  <h2>Buscar</h2>
+  <input type="search" id="q" placeholder="1564, c-355, CGP… y Enter">
+  <h2>Áreas del derecho</h2>
+  <div id="fams"></div>
+  <h2>Qué se muestra</h2>
+  <div id="clases"></div>
+  <h2>Relaciones</h2>
+  <div id="tipos"></div>
+  <h2>Diagnóstico</h2>
+  <div class="row" id="mal"><span class="ln" style="background:#ff4d4d"></span>Resaltar fechas rotas<span class="n" id="nmal"></span></div>
+  <div style="margin-top:14px; display:flex; gap:6px"><button id="fit">Encuadrar</button><button id="reset">Restablecer</button></div>
+</aside>
+<aside id="info" hidden></aside>
+<div id="hint">Pasa el cursor sobre un nodo para ver sus conexiones · clic para el detalle</div>
+<script>
+const FAM = {
+  constitucional:['Constitucional','#f5c86b'], administrativo:['Administrativo','#5ec8f2'], penal:['Penal','#ff6b8a'],
+  civil:['Civil y familia','#8f8cff'], laboral:['Laboral · Seg. social','#4fe0a8'], tributario:['Tributario','#ffa35c'],
+  comercial:['Comercial','#e38cff'], ambiental:['Ambiental y minero','#a6e05a'] };
+const TIPOS = {
+  deroga:['deroga','#ff5c5c'], deroga_tacitamente:['deroga tácitamente','#ff8a7a'], subroga:['subroga','#ff9f43'],
+  declara_inexequible:['declara inexequible','#ff3d6e'], declara_inexequible_parcial:['inexequible parcial','#ff7eb6'],
+  declara_exequible_condicionado:['exequible condicionado','#c79bff'], declara_exequible:['declara exequible','#5fe3a1'],
+  modifica:['modifica','#ffd166'], adiciona:['adiciona','#ffe699'], renumera:['renumera','#b8bcc8'],
+  interpreta:['interpreta','#6fb8ff'], concordancia:['concordancia','#7b8699'], suspende:['suspende','#ffb86b'] };
+const CLASES = { normativa:'Normas cargadas', jurisprudencia:'Sentencias cargadas', no_cargado:'Citados pero no cargados' };
+const ESTADOS = { VIGENTE:['vigente','#4fe0a8'], VIGENTE_REFORMADO:['vigente reformado','#ffd166'], VIGENTE_CONDICIONADO:['condicionado','#c79bff'], SUSPENDIDO:['suspendido','#ffb86b'], MUERTO:['muerto','#ff5c7a'] };
+const $ = s => document.querySelector(s), fmt = x => x.toLocaleString('es');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
+const rgba = (hex, a) => `rgba(${parseInt(hex.slice(1,3),16)},${parseInt(hex.slice(3,5),16)},${parseInt(hex.slice(5,7),16)},${a})`;
+
+// centros de cada área: la constitucional al medio, el resto en anillo
+const R = 900, CEN = { constitucional:{ x:0, y:0 } };
+Object.keys(FAM).filter(f => f !== 'constitucional').forEach((f, i, a) => { const t = i / a.length * 2 * Math.PI - Math.PI / 2; CEN[f] = { x:R * Math.cos(t), y:R * Math.sin(t) }; });
+
+let data, byId, sel = null, hov = null, hi = new Set(), hiL = new Set(), mal = false;
+const on = { tipos:new Set(), clases:new Set(Object.keys(CLASES)), fams:new Set(Object.keys(FAM)) };
+const nd = x => typeof x === 'object' ? x : byId.get(x);
+const rad = n => n.c === 'normativa' ? 3 + Math.sqrt(n.in + n.out) * .22 : n.c === 'jurisprudencia' ? 1.6 : 1.3;
+
+const G = ForceGraph()($('#g'))
+  .backgroundColor('rgba(0,0,0,0)').nodeId('id').nodeRelSize(1)
+  .nodeVal(n => rad(n) ** 2)
+  .nodeLabel(n => `<div style="font:12px Inter;padding:2px 4px"><b>${esc(n.l)}</b><br><span style="opacity:.6">${n.id}</span></div>`)
+  .nodeCanvasObject(drawNode)
+  .nodePointerAreaPaint((n, c, ctx) => { ctx.fillStyle = c; ctx.beginPath(); ctx.arc(n.x, n.y, Math.max(rad(n), 3), 0, 7); ctx.fill(); })
+  .linkColor(linkColor)
+  .linkWidth(l => hiL.has(l) ? .8 + Math.log10(l.n + 1) : mal && l.mal ? 1.4 : .35)
+  .linkCurvature(.12)
+  .linkDirectionalParticles(l => hiL.has(l) ? 2 : 0).linkDirectionalParticleWidth(2.2).linkDirectionalParticleSpeed(.006)
+  .linkDirectionalParticleColor(l => TIPOS[l.tipo][1])
+  .onNodeHover(n => { if (sel) return; hov = n; light(n); $('#g').style.cursor = n ? 'pointer' : null; })
+  .onNodeClick(n => pick(n)).onBackgroundClick(() => pick(null))
+  .onRenderFramePre(drawFamLabels)
+  .warmupTicks(120).cooldownTicks(200).d3VelocityDecay(.35)
+  .onEngineStop(() => { if (!G._fit) { G._fit = 1; G.zoomToFit(800, 60); } });
+G.d3Force('charge').strength(n => n.c === 'normativa' ? -120 : -6).distanceMax(260);
+G.d3Force('link').distance(l => nd(l.target).c === 'normativa' && nd(l.source).c === 'normativa' ? 120 : 30).strength(.015);
+G.d3Force('cluster', (() => { let ns; const f = a => ns.forEach(n => { const c = CEN[n.f]; const k = n.c === 'normativa' ? .12 : .3; n.vx += (c.x - n.x) * k * a; n.vy += (c.y - n.y) * k * a; }); f.initialize = x => ns = x; return f; })());
+
+function drawNode(n, ctx, s) {
+  const col = FAM[n.f][1], r = rad(n), dim = (sel || hov) && !hi.has(n.id);
+  ctx.globalAlpha = dim ? .08 : 1;
+  if (n.c === 'normativa') {
+    const g = ctx.createRadialGradient(n.x, n.y, r * .3, n.x, n.y, r * 2.6);
+    g.addColorStop(0, rgba(col, .55)); g.addColorStop(1, rgba(col, 0));
+    ctx.fillStyle = g; ctx.beginPath(); ctx.arc(n.x, n.y, r * 2.6, 0, 7); ctx.fill();
+    ctx.fillStyle = col; ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 7); ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,.85)'; ctx.lineWidth = .6; ctx.stroke();
+  } else if (n.c === 'jurisprudencia') {
+    ctx.fillStyle = rgba(col, .75); ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 7); ctx.fill();
+  } else {
+    ctx.strokeStyle = rgba(col, .45); ctx.lineWidth = .5; ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 7); ctx.stroke();
+  }
+  const big = n.c === 'normativa';
+  if (!dim && (big || (hi.has(n.id) && s > 1.2) || n === sel)) {
+    const fs = Math.max((n.c === 'normativa' ? 13 : 10) / s, 1.5), txt = corto(n);
+    ctx.font = `${n.c === 'normativa' ? 600 : 400} ${fs}px Inter`; ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+    const w = ctx.measureText(txt).width, bx = n.x - w / 2, by = n.y + r + 2 / s;
+    if (n !== sel && placed.some(p => bx < p[2] && bx + w > p[0] && by < p[3] && by + fs > p[1])) { ctx.globalAlpha = 1; return; }
+    placed.push([bx - 3 / s, by - 2 / s, bx + w + 3 / s, by + fs + 2 / s]);
+    ctx.lineWidth = fs * .35; ctx.strokeStyle = 'rgba(5,7,13,.9)'; ctx.strokeText(txt, n.x, n.y + r + 2 / s);
+    ctx.fillStyle = n.c === 'normativa' ? '#fff' : '#cfd6e4'; ctx.fillText(txt, n.x, n.y + r + 2 / s);
+  }
+  ctx.globalAlpha = 1;
+}
+// etiqueta corta: la sigla si existe (CP, CGP, ET), si no "Ley 80/1993"
+const PRE = { ley:'Ley', decreto:'Dto.', 'decreto-ley':'D-L', 'ley-estatutaria':'L. Est.', 'ley-organica':'L. Org.', decision:'Decisión' };
+function corto(n) {
+  if (n.c === 'normativa' && n.l.length <= 12) return n.l;
+  const p = n.id.split(':');
+  if (PRE[p[1]] && p.length >= 4) return `${PRE[p[1]]} ${p[2]}/${p[3]}`;
+  return n.l.length > 26 ? n.l.slice(0, 25) + '…' : n.l;
+}
+function linkColor(l) {
+  if (mal) return l.mal ? '#ff4d4d' : 'rgba(255,255,255,.015)';
+  if (sel || hov) return hiL.has(l) ? rgba(TIPOS[l.tipo][1], .9) : 'rgba(255,255,255,.01)';
+  return rgba(TIPOS[l.tipo][1], .09);
+}
+let placed = [];
+function drawFamLabels(ctx, s) {
+  ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+  Object.entries(CEN).forEach(([f, c]) => { if (!on.fams.has(f)) return;
+    const ps = G.graphData().nodes.filter(n => n.f === f && n.c === 'normativa' && n.x !== undefined); if (!ps.length) return;
+    const x = ps.reduce((a, n) => a + n.x, 0) / ps.length, y = Math.min(...ps.map(n => n.y)) - 40;
+    ctx.font = '600 26px Inter'; ctx.letterSpacing = '6px'; ctx.fillStyle = rgba(FAM[f][1], .6); ctx.fillText(FAM[f][0].toUpperCase(), x, y); ctx.letterSpacing = '0px'; });
+  placed = [];
+}
+
+fetch('grafo.json').then(r => r.json()).then(d => {
+  data = d; byId = new Map(d.nodes.map(n => [n.id, n]));
+  d.nodes.forEach(n => { const c = CEN[n.f]; n.x = c.x + (Math.random() - .5) * 200; n.y = c.y + (Math.random() - .5) * 200; });
+  const cnt = {}; d.links.forEach(l => cnt[l.tipo] = (cnt[l.tipo] || 0) + l.n);
+  const cc = {}, cf = {}; d.nodes.forEach(n => { cc[n.c] = (cc[n.c] || 0) + 1; cf[n.f] = (cf[n.f] || 0) + 1; });
+  toggles('#fams', FAM, on.fams, k => `<span class="dot" style="color:${FAM[k][1]};background:${FAM[k][1]}"></span>${FAM[k][0]}<span class="n">${fmt(cf[k] || 0)}</span>`);
+  toggles('#clases', CLASES, on.clases, k => `<span class="dot" style="color:#fff;background:${k === 'normativa' ? '#fff' : k === 'jurisprudencia' ? '#aab3c5' : 'transparent'};border:1px solid #aab3c5;box-shadow:none"></span>${CLASES[k]}<span class="n">${fmt(cc[k] || 0)}</span>`);
+  Object.keys(TIPOS).filter(t => cnt[t]).forEach(t => t !== 'concordancia' && on.tipos.add(t));
+  toggles('#tipos', Object.fromEntries(Object.keys(TIPOS).filter(t => cnt[t]).map(t => [t, 1])), on.tipos, k => `<span class="ln" style="background:${TIPOS[k][1]}"></span>${TIPOS[k][0]}<span class="n">${fmt(cnt[k])}</span>`);
+  $('#nmal').textContent = fmt(d.links.reduce((a, l) => a + l.mal, 0));
+  $('#stats').innerHTML = `<div><b>${fmt(cc.normativa)}</b><span>normas</span></div><div><b>${fmt(cc.jurisprudencia)}</b><span>sentencias</span></div><div><b>${fmt(d.links.reduce((a, l) => a + l.n, 0))}</b><span>relaciones</span></div>`;
+  render();
+  $('#load').style.opacity = 0; setTimeout(() => $('#load').remove(), 700);
+});
+
+function toggles(el, keys, set, html) {
+  Object.keys(keys).forEach(k => { const r = document.createElement('div'); r.className = 'row' + (set.has(k) ? '' : ' off'); r.innerHTML = html(k);
+    r.onclick = () => { set.has(k) ? set.delete(k) : set.add(k); r.classList.toggle('off'); render(); }; $(el).append(r); });
+}
+$('#mal').onclick = () => { mal = !mal; $('#mal').style.background = mal ? 'rgba(255,77,77,.12)' : ''; G.linkColor(linkColor); };
+
+function render() {
+  const ok = n => on.clases.has(n.c) && on.fams.has(n.f);
+  const links = data.links.filter(l => on.tipos.has(l.tipo) && ok(nd(l.source)) && ok(nd(l.target)));
+  const ids = new Set(); links.forEach(l => { ids.add(nd(l.source).id); ids.add(nd(l.target).id); });
+  data.nodes.forEach(n => n.c === 'normativa' && ok(n) && ids.add(n.id));
+  G.graphData({ nodes: data.nodes.filter(n => ids.has(n.id)).sort((a, b) => (b.c === 'normativa') - (a.c === 'normativa') || b.in + b.out - a.in - a.out), links });
+  if (sel && ids.has(sel.id)) pick(sel); else pick(null);
+}
+function light(n) {
+  hi = new Set(); hiL = new Set();
+  if (n) { hi.add(n.id); G.graphData().links.forEach(l => { const s = nd(l.source), t = nd(l.target);
+    if (s === n || t === n) { hiL.add(l); hi.add(s.id); hi.add(t.id); } }); }
+  G.linkColor(linkColor);
+}
+function pick(n) {
+  sel = n; hov = null; light(n);
+  if (!n) { $('#info').hidden = true; return; }
+  const ent = {}, sal = {};
+  hiL.forEach(l => { const s = nd(l.source), t = nd(l.target); s === n ? (sal[l.tipo] ||= []).push([t, l]) : (ent[l.tipo] ||= []).push([s, l]); });
+  const e = n.e, tot = e ? Object.values(e).reduce((a, b) => a + b, 0) : 0;
+  const lista = g => Object.entries(g).sort((a, b) => b[1].length - a[1].length).map(([t, xs]) => { xs.sort((a, b) => b[1].n - a[1].n);
+    return `<div style="margin-top:10px"><div class="row" style="cursor:default"><span class="ln" style="background:${TIPOS[t][1]}"></span><b style="font-weight:500">${TIPOS[t][0]}</b><span class="n">${xs.length} doc.</span></div><ul>${
+      xs.slice(0, 10).map(([m, l]) => `<li data-id="${esc(m.id)}">${esc(m.l)} <span class="mut">×${l.n}</span>${l.mal ? ` <span class="warn">· ${l.mal} fecha rota</span>` : ''}${m.c === 'no_cargado' ? ' <span class="mut">· no cargado</span>' : ''}</li>`).join('')
+      }${xs.length > 10 ? `<li class="mut" style="cursor:default">y ${xs.length - 10} más</li>` : ''}</ul></div>`; }).join('');
+  $('#info').innerHTML = `<button class="x" title="Cerrar">×</button>
+    <h1>${esc(n.l)}</h1><code>${esc(n.id)}</code><div>
+    <span class="tag" style="color:${FAM[n.f][1]}">● ${FAM[n.f][0]}</span><span class="tag">${CLASES[n.c]}</span>${n.corp ? `<span class="tag">${esc(n.corp)}</span>` : ''}</div>
+    <div class="stats" style="grid-template-columns:1fr 1fr"><div><b>${fmt(n.in)}</b><span>relaciones entrantes</span></div><div><b>${fmt(n.out)}</b><span>relaciones salientes</span></div></div>
+    ${e ? `<h2>Vigencia de sus ${fmt(tot)} artículos</h2><div class="bar">${Object.entries(ESTADOS).filter(([k]) => e[k]).map(([k, [, c]]) => `<span title="${k}: ${e[k]}" style="background:${c};width:${100 * e[k] / tot}%"></span>`).join('')}</div>
+      ${Object.entries(ESTADOS).filter(([k]) => e[k]).map(([k, [lab, c]]) => `<div class="row" style="cursor:default;padding:2px 8px"><span class="dot" style="color:${c};background:${c};box-shadow:none"></span>${lab}<span class="n">${fmt(e[k])}</span></div>`).join('')}` : ''}
+    ${Object.keys(ent).length ? `<h2>Lo afectan</h2>${lista(ent)}` : ''}
+    ${Object.keys(sal).length ? `<h2>Afecta a</h2>${lista(sal)}` : ''}
+    ${!hiL.size ? '<div class="mut" style="margin-top:14px">Sin relaciones visibles con los filtros actuales.</div>' : ''}`;
+  $('#info').hidden = false;
+  $('#info .x').onclick = () => pick(null);
+  $('#info').querySelectorAll('[data-id]').forEach(li => li.onclick = () => focus(byId.get(li.dataset.id)));
+}
+function focus(n) { pick(n); if (n && n.x !== undefined) { G.centerAt(n.x, n.y, 700); G.zoom(3, 700); } }
+$('#q').onkeydown = e => { if (e.key !== 'Enter') return; const q = e.target.value.trim().toLowerCase(); if (!q) return;
+  const vis = new Set(G.graphData().nodes.map(n => n.id));
+  const m = data.nodes.filter(n => vis.has(n.id) && (n.id.toLowerCase().includes(q) || n.l.toLowerCase().includes(q))).sort((a, b) => b.in + b.out - a.in - a.out)[0];
+  if (m) focus(m); else { e.target.setCustomValidity('Sin resultados'); e.target.reportValidity(); } };
+$('#q').oninput = e => e.target.setCustomValidity('');
+$('#fit').onclick = () => G.zoomToFit(700, 60);
+$('#reset').onclick = () => { pick(null); G.zoomToFit(700, 60); };
+</script>
+</body>
+</html>
